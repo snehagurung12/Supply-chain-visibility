@@ -23,7 +23,8 @@ This project aims to simulate a supply chain analytics system using Azure archit
 
 ## 🧩 Architecture Diagram
 
-![Architecture Diagram](AzureArchitecture_SupplyChain.png)
+![Azure Architecture Diagram](architecture/AzureArchitecture_SupplyChain.png)
+
 *Figure: Azure Data Architecture for Supply Chain Visibility*
 
 This diagram illustrates how raw supply chain data (e.g., from CSV files) flows through Azure services — starting from Blob Storage, processed by Data Factory, transformed in Synapse Analytics, and visualized in Power BI. The final dashboard offers insights into delays, inventory, and costs for improved decision-making.
