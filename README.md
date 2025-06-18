@@ -23,7 +23,7 @@ This project aims to simulate a supply chain analytics system using Azure archit
 
 ## 🧩 Architecture Diagram
 
-![Azure Architecture Diagram](architecture/AzureArchitecture_SupplyChain.png)
+![Diagram](./architecture/AzureArchitecture_SupplyChain.png)
 
 *Figure: Azure Data Architecture for Supply Chain Visibility*
 
