@@ -5,8 +5,8 @@
 This project aims to simulate a supply chain analytics system using Azure architecture (Blob Storage, Data Factory, Synapse) and build actionable dashboards using Power BI.
 
 ## 👤 Roles
-- *Azure Solution Architect (You)*: Designed the cloud pipeline, simulated Synapse analytics in Python
-- *Data Analyst (Teammate)*: Created Power BI dashboards and extracted insights
+- *Azure Solution Architect (Sneha Gurung)*: Designed the cloud pipeline, simulated Synapse analytics in Python
+- *Data Analyst (Srishti Poudel)*: Created Power BI dashboards and extracted insights
 
 ## 🛠 Tools Used
 - Google Colab (for data cleaning)
