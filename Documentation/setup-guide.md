@@ -9,4 +9,4 @@
    - Azure Blob Storage ➜ CSV/HTML output
    - Azure SQL ➜ Pandas DataFrame
 
-👉 See ['simulate_pipeline (1).ipynb'](../pipeline/simulate_pipeline(1).ipynb)
+[Open Pipeline Notebook](../pipeline/simulate_pipeline.ipynb)
