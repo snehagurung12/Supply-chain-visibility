@@ -1,1 +1,16 @@
 
+✅ WEEK 2 PROGRESS SUMMARY
+
+- Loaded raw supply chain CSV in Google Colab
+- Used Pandas to:
+  - Drop missing values
+  - Filter by shipment status (only 'delivered')
+  - Convert dates and sort records
+- Simulated Azure Data Factory transformation
+- Exported final cleaned data to CSV
+- Exported data to HTML for frontend use
+- Converted the whole logic into a structured Colab notebook
+
+Next Week:
+- Work on deployment architecture
+- Prepare a visual flow of simulated Azure services
