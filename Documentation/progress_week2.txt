@@ -1,4 +1,3 @@
-
 ✅ WEEK 2 PROGRESS SUMMARY
 
 - Loaded raw supply chain CSV in Google Colab
