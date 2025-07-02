@@ -44,7 +44,7 @@ To mimic a real Azure pipeline (ADF, Blob Storage, SQL) using Google Colab and P
 ---
 ## Architecture Diagram
 
-![Pipeline Diagram](../Assets/architecture_diagram.png)
+![Pipeline Diagram](../diagram/deployment_architecture.png)
 
 ## Simulated Data Pipeline Flow
 1. *User uploads CSV*  
