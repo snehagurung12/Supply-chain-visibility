@@ -6,13 +6,6 @@ This folder contains Jupyter/Colab notebooks used for:
 - 📈 Predictive modeling
 - 📊 Exporting results for Power BI
 
-## 🧪 Notebooks
-
-| File                      | Purpose                                |
-|---------------------------|----------------------------------------|
-| data_preprocessing.ipynb| Cleans and transforms raw CSV data     |
-| predictive_model.ipynb  | Applies time-series or ML forecasting  |
-
 ## 🚀 How to Use
 
 1. Open the notebook in Google Colab or Jupyter.
@@ -20,4 +13,19 @@ This folder contains Jupyter/Colab notebooks used for:
 3. Run each cell in order.
 4. Export final output as cleaned_data.csv for Power BI use.
 
-> 📁 Input dataset: Place in /data/ folder or link from blob storage.
+This folder contains all Jupyter/Colab notebooks used for:
+- ✅ Data cleaning and transformation (completed in Colab)
+- ✅ Exploratory Data Analysis (EDA) in exploratoryDataAnalysis.ipynb
+- 🔜 Predictive modeling (to be added in model.ipynb)
+- 🔜 Exporting predictions for Power BI dashboard
+
+## 📂 Contents
+| File | Description |
+|------|-------------|
+| exploratoryDataAnalysis.ipynb | Contains all EDA plots, correlation heatmaps, customer segments, shipping trends |
+| model.ipynb | *(Coming soon)* Predictive model to forecast delivery delays / demand |
+| requirements.txt | *(Optional)* Libraries to run locally |
+
+## 🚀 Next Steps
+- You (leader) will build model.ipynb to predict delays or demand.
+- Predictions will be saved as predictions.csv for Power BI.
