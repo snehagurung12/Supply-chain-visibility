@@ -19,6 +19,7 @@ This project aims to simulate a supply chain analytics system using Azure archit
 - /notebooks – Colab notebooks
 - /architecture – Azure diagram and design
 - /powerbi – dashboards
+- /pipeline        → Simulated ETL notebook, cleaned CSV, HTML summary
 - /documentation – findings and summaries
 
 ## 🧩 Architecture Diagram
@@ -74,17 +75,6 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 - *Python ETL:* Simulated in Google Colab notebooks (cleaning, feature engineering).
 - *Azure Synapse (simulated):* For advanced analytics and warehousing.
 - *Power BI:* Builds live dashboards with predictive insights.
-
----
-
-## 🗂 Folder Structure
-
-/data            → Raw and cleaned datasets
-/pipeline        → Simulated ETL notebook, cleaned CSV, HTML summary
-/notebooks       → EDA notebooks
-/powerbi         → Power BI dashboards (.pbix files)
-/architecture    → Azure architecture diagrams
-/documentation   → EDA report, findings, team documentation
 
 ---
 
