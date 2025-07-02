@@ -98,18 +98,6 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 
 ---
 
-## 🧰 Tech Stack
-| Use            | Technology                  |
-|----------------|-----------------------------|
-| Storage        | Azure Blob Storage          |
-| Processing     | Python (Google Colab)       |
-| Visualization  | Power BI                    |
-| Data Libraries | Pandas, NumPy               |
-| Docs           | Markdown, draw.io diagrams  |
-| Versioning     | Git + GitHub                |
-
----
-
 ## ⚙ Features
 - Upload & store datasets in Azure Blob
 - Simulate ETL pipeline in Python notebooks
