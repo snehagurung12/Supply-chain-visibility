@@ -25,8 +25,11 @@
 
 ## 🧭 Overview
 
-This project aims to provide real-time visibility and predictive analytics in a supply chain environment using cloud-based architecture. It empowers businesses to make data-driven decisions with predictive alerts and live dashboards.
+This documentation covers the analysis, architecture, and decision rationale behind building a cloud-based system to track and predict supply chain performance. It demonstrates:
 
+- Improved transparency and traceability of supply chain data
+- Early prediction of delivery risks or disruptions
+- Data-driven decision making via live dashboards
 ---
 
 ## 🎯 Project Goals
@@ -72,10 +75,43 @@ This architecture includes:
 - Modular codebase and collaboration through GitHub
 
 ---
+## 📊 Key Insights from EDA
+### Delivery Status
+- *Analysis:* A significant portion of orders are late, indicating operational bottlenecks.
+- *Recommendation:* Investigate shipping modes, product types, and regional issues. Implement monitoring to proactively identify high-risk orders.
 
-## 🛠 Getting Started
+### Order Type
+- *Analysis:* Majority are digital transactions (Payments & Expenses), with minimal Cash usage.
+- *Recommendation:* Support digital-first operations and explore additional digital payment options.
 
-```bash
-# Clone this documentation repository
-git clone https://github.com/yourusername/yourproject-docs.git
-cd yourproject-docs
+### Shipping Method
+- *Analysis:* Standard Class dominates, suggesting cost-focused shipping; 1st/2nd class used mainly for urgency.
+- *Recommendation:* Review shipping policies to balance speed vs cost.
+
+### Customer Segments
+- *Analysis:* Split mainly between Consumers & Corporate, with a smaller Home Office segment.
+- *Recommendation:* Continue focus on major segments, explore campaigns for Home Office customers.
+
+### Correlations
+- *Analysis:* Delivery time, risk, and discounts show correlated patterns.
+- *Recommendation:* Use regression or ML models to predict delays & optimize pricing.
+
+### Seasonality
+- *Analysis:* Sales volume fluctuates monthly, indicating seasonal patterns.
+- *Recommendation:* Align inventory and staffing plans to demand cycles.
+
+---
+
+
+## 📂 Folder Overview
+/data          → Raw and cleaned CSV datasets
+/pipeline      → Simulated pipeline (notebook, cleaned CSV, HTML output)
+/notebooks     → EDA and transformation notebooks
+/architecture  → Architecture diagrams (Azure-focused)
+/powerbi       → Power BI dashboards and KPIs
+/documentation → This README, EDA PDF, findings
+
+## 📚 Related Docs
+- /documentation/EDA_Report.pdf — full exploratory data analysis
+- /architecture/AzureArchitecture_SupplyChain.png — data pipeline diagram
+
