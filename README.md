@@ -58,4 +58,74 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 
 ---
 
+## 🎯 Project Goals
+- Enhance transparency across the supply chain
+- Predict delivery risks and delays before they happen
+- Visualize performance metrics through interactive dashboards
+- Use mostly free / accessible tools (Google Colab, Power BI, Azure Free Tier)
+
+---
+
+## 🏗 Architecture Overview
+![Architecture Diagram](architecture/AzureArchitecture_SupplyChain.png)
+
+*Pipeline:*
+- *Azure Blob Storage:* Stores raw and cleaned datasets.
+- *Python ETL:* Simulated in Google Colab notebooks (cleaning, feature engineering).
+- *Azure Synapse (simulated):* For advanced analytics and warehousing.
+- *Power BI:* Builds live dashboards with predictive insights.
+
+---
+
+## 🗂 Folder Structure
+
+/data            → Raw and cleaned datasets
+/pipeline        → Simulated ETL notebook, cleaned CSV, HTML summary
+/notebooks       → EDA notebooks
+/powerbi         → Power BI dashboards (.pbix files)
+/architecture    → Azure architecture diagrams
+/documentation   → EDA report, findings, team documentation
+
+---
+
+## 📊 Highlights from EDA
+- *Delivery Status:* Many orders delayed — investigate shipping, product, region causes.
+- *Order Types:* Payments & Expenses dominate; digital-first flow.
+- *Shipping Methods:* Mostly Standard Class — opportunity to optimize for speed vs cost.
+- *Customer Segments:* Balanced Consumer & Corporate, small Home Office niche.
+- *Correlations:* Delays linked with risk and discounts — ideal for predictive models.
+- *Seasonality:* Monthly fluctuations show demand cycles.
+
+---
+
+## 🧰 Tech Stack
+| Use            | Technology                  |
+|----------------|-----------------------------|
+| Storage        | Azure Blob Storage          |
+| Processing     | Python (Google Colab)       |
+| Visualization  | Power BI                    |
+| Data Libraries | Pandas, NumPy               |
+| Docs           | Markdown, draw.io diagrams  |
+| Versioning     | Git + GitHub                |
+
+---
+
+## ⚙ Features
+- Upload & store datasets in Azure Blob
+- Simulate ETL pipeline in Python notebooks
+- Run predictive analyses (risk, delays)
+- Build interactive dashboards in Power BI
+- Collaborate via GitHub with a modular structure
+
+---
+
+## 🚀 Get Started
+```bash
+git clone https://github.com/<yourusername>/Supply-chain-project.git
+cd Supply-chain-project
+
+•	Run /pipeline/simulate_pipeline.ipynb to process data.
+	•	Open /powerbi to explore dashboard .pbix files.
+	•	Review /documentation/EDA_Report.pdf for detailed insights.
+
 
