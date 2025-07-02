@@ -62,8 +62,3 @@ To mimic a real Azure pipeline (ADF, Blob Storage, SQL) using Google Colab and P
 5. *Power BI Dashboard*  
    Power BI reads the processed dataset (CSV exported from Pandas) to build interactive visual dashboards, just like connecting to Azure Data Warehouse.
 
-## Relevant Files in This Repository
-
-- 📂 [/Notebooks/Cleaning.ipynb](../Notebooks/Cleaning.ipynb) - Google Colab notebook that reads from GitHub and cleans the data.
-- 📂 [/Processed/processed_data.csv](../Processed/processed_data.csv) - Cleaned data exported from Pandas.
-- 📂 [/PowerBI/SupplyChainDashboard.pbix](../PowerBI/SupplyChainDashboard.pbix) - Power BI dashboard built on the processed dataset.
