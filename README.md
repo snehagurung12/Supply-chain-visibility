@@ -24,7 +24,7 @@ This project aims to simulate a supply chain analytics system using Azure archit
 
 ## 🧩 Architecture Diagram
 
-![Azure Architecture Diagram](diagram/deployment_architecture.png)
+![Azure Architecture Diagram](Architecture/AzureArchitecture_SupplyChain.png)
 
 *Figure: Azure Data Architecture for Supply Chain Visibility*
 
@@ -68,7 +68,7 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 ---
 
 ## 🏗 Architecture Overview
-![Architecture Diagram](architecture/AzureArchitecture_SupplyChain.png)
+![Architecture Diagram](diagram/deployment_architecture.png)
 
 *Pipeline:*
 - *Azure Blob Storage:* Stores raw and cleaned datasets.
