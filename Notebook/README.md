@@ -26,6 +26,3 @@ This folder contains all Jupyter/Colab notebooks used for:
 | model.ipynb | *(Coming soon)* Predictive model to forecast delivery delays / demand |
 | requirements.txt | *(Optional)* Libraries to run locally |
 
-## 🚀 Next Steps
-- You (leader) will build model.ipynb to predict delays or demand.
-- Predictions will be saved as predictions.csv for Power BI.
