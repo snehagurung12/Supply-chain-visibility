@@ -68,7 +68,7 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 ---
 
 ## 🏗 Architecture Overview
-![Architecture Diagram](diagram/deployment_architecture.png)
+![Architecture Deployment Diagram](Architecture/deployment_architecture.png)
 
 *Pipeline:*
 - *Azure Blob Storage:* Stores raw and cleaned datasets.
