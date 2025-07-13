@@ -1,0 +1,2000 @@
+Order_Id,Shipping_Mode,Days_for_Shipment(scheduled),Days_for_Shipping(real),Delivery_Status,Late_Delivery_Risk
+75834,Second Class,2,5,Late delivery,1
+75833,First Class,1,2,Late delivery,1
+75832,First Class,1,2,Late delivery,1
+75831,First Class,1,2,Late delivery,1
+75830,Standard Class,4,6,Late delivery,1
+75829,Standard Class,4,5,Late delivery,1
+75828,Standard Class,4,4,Shipping on time,0
+75827,Standard Class,4,3,Advance shipping,0
+75826,Standard Class,4,2,Advance shipping,0
+75825,Standard Class,4,6,Late delivery,1
+75824,Standard Class,4,5,Late delivery,1
+75823,Standard Class,4,4,Shipping on time,0
+75822,Standard Class,4,3,Advance shipping,0
+75821,Standard Class,4,2,Advance shipping,0
+75820,Standard Class,4,6,Late delivery,1
+75819,Standard Class,4,5,Late delivery,1
+75818,Standard Class,4,4,Shipping on time,0
+75817,Standard Class,4,3,Advance shipping,0
+75816,Standard Class,4,2,Advance shipping,0
+75815,Standard Class,4,6,Late delivery,1
+75814,Standard Class,4,5,Late delivery,1
+75813,Second Class,2,4,Late delivery,1
+75812,Second Class,2,3,Late delivery,1
+75811,First Class,1,2,Late delivery,1
+75810,Second Class,2,6,Late delivery,1
+75809,Second Class,2,5,Late delivery,1
+75808,Second Class,2,4,Late delivery,1
+75807,Same Day,0,1,Late delivery,1
+75806,Same Day,0,1,Late delivery,1
+75805,Same Day,0,1,Late delivery,1
+75804,Same Day,0,1,Late delivery,1
+75803,Same Day,0,1,Late delivery,1
+75802,Same Day,0,1,Shipping canceled,0
+75801,Same Day,0,1,Late delivery,1
+75800,Standard Class,4,6,Late delivery,1
+75799,Standard Class,4,5,Late delivery,1
+75798,Standard Class,4,4,Shipping on time,0
+75797,Standard Class,4,3,Advance shipping,0
+75796,Second Class,2,2,Shipping on time,0
+75795,Standard Class,4,6,Late delivery,1
+75794,Standard Class,4,5,Late delivery,1
+75793,Standard Class,4,4,Shipping on time,0
+75792,Standard Class,4,3,Advance shipping,0
+75791,Second Class,2,2,Shipping on time,0
+75790,Second Class,2,6,Late delivery,1
+75789,First Class,1,2,Late delivery,1
+75788,First Class,1,2,Late delivery,1
+75787,First Class,1,2,Late delivery,1
+75786,First Class,1,2,Late delivery,1
+75785,Standard Class,4,6,Late delivery,1
+75784,Standard Class,4,5,Late delivery,1
+75783,Standard Class,4,4,Shipping on time,0
+75782,Standard Class,4,3,Advance shipping,0
+75781,Standard Class,4,2,Advance shipping,0
+75780,Standard Class,4,6,Shipping canceled,0
+75779,Second Class,2,5,Late delivery,1
+75778,Second Class,2,4,Late delivery,1
+75777,Second Class,2,3,Late delivery,1
+75776,First Class,1,2,Late delivery,1
+75775,First Class,1,2,Late delivery,1
+75774,First Class,1,2,Late delivery,1
+75773,First Class,1,2,Late delivery,1
+75772,First Class,1,2,Late delivery,1
+75771,Same Day,0,0,Shipping on time,0
+75770,Standard Class,4,6,Late delivery,1
+75769,Standard Class,4,5,Late delivery,1
+75768,Standard Class,4,4,Shipping on time,0
+75767,Standard Class,4,3,Advance shipping,0
+75106,Standard Class,4,2,Advance shipping,0
+75116,Standard Class,4,2,Advance shipping,0
+75144,Second Class,2,5,Late delivery,1
+75131,Second Class,2,2,Shipping on time,0
+75149,Second Class,2,5,Late delivery,1
+75122,Standard Class,4,3,Advance shipping,0
+75098,Second Class,2,4,Late delivery,1
+75123,First Class,1,2,Late delivery,1
+75104,Standard Class,4,5,Late delivery,1
+75095,Standard Class,4,6,Late delivery,1
+75112,Standard Class,4,3,Advance shipping,0
+75124,First Class,1,2,Late delivery,1
+75083,First Class,1,2,Late delivery,1
+75085,First Class,1,2,Late delivery,1
+75088,First Class,1,2,Late delivery,1
+75136,Same Day,0,1,Late delivery,1
+75094,Standard Class,4,5,Late delivery,1
+75143,Second Class,2,4,Late delivery,1
+75119,Standard Class,4,5,Late delivery,1
+75134,Standard Class,4,5,Late delivery,1
+75107,Standard Class,4,3,Advance shipping,0
+75086,First Class,1,2,Late delivery,1
+75120,Standard Class,4,6,Late delivery,1
+75135,Standard Class,4,6,Late delivery,1
+75145,Second Class,2,6,Late delivery,1
+75096,Standard Class,4,2,Advance shipping,0
+75146,Second Class,2,2,Shipping on time,0
+75139,Second Class,2,5,Late delivery,1
+75118,Standard Class,4,4,Shipping on time,0
+75132,Standard Class,4,3,Advance shipping,0
+75121,Standard Class,4,2,Advance shipping,0
+75084,First Class,1,2,Late delivery,1
+75133,Standard Class,4,4,Shipping on time,0
+75100,Second Class,2,6,Late delivery,1
+75099,Second Class,2,5,Late delivery,1
+75097,Second Class,2,3,Late delivery,1
+75130,First Class,1,2,Late delivery,1
+75092,First Class,1,2,Late delivery,1
+75089,First Class,1,2,Late delivery,1
+75087,First Class,1,2,Late delivery,1
+75148,Second Class,2,4,Late delivery,1
+75093,Second Class,2,4,Late delivery,1
+75090,Second Class,2,6,Late delivery,1
+75141,Second Class,2,2,Shipping on time,0
+75117,Standard Class,4,3,Advance shipping,0
+75140,Second Class,2,6,Late delivery,1
+75138,Second Class,2,4,Late delivery,1
+75110,Standard Class,4,6,Late delivery,1
+75125,First Class,1,2,Late delivery,1
+75102,First Class,1,2,Late delivery,1
+75109,Standard Class,4,5,Late delivery,1
+75082,First Class,1,2,Late delivery,1
+75147,Second Class,2,3,Shipping canceled,0
+75113,Standard Class,4,4,Shipping canceled,0
+75111,Standard Class,4,2,Advance shipping,0
+75115,Standard Class,4,6,Late delivery,1
+75108,Standard Class,4,4,Shipping on time,0
+75114,Standard Class,4,5,Late delivery,1
+75126,First Class,1,2,Late delivery,1
+75137,First Class,1,2,Late delivery,1
+75105,Standard Class,4,6,Late delivery,1
+75127,First Class,1,2,Late delivery,1
+75103,Second Class,2,4,Late delivery,1
+75101,Second Class,2,2,Shipping on time,0
+75128,Second Class,2,4,Late delivery,1
+75142,Second Class,2,3,Late delivery,1
+75129,First Class,1,2,Late delivery,1
+75091,First Class,1,2,Late delivery,1
+75939,Standard Class,4,5,Late delivery,1
+75938,Standard Class,4,4,Shipping on time,0
+75937,Standard Class,4,3,Advance shipping,0
+75936,Standard Class,4,2,Advance shipping,0
+75935,Standard Class,4,6,Shipping canceled,0
+75934,First Class,1,2,Late delivery,1
+75933,First Class,1,2,Late delivery,1
+75932,Second Class,2,3,Late delivery,1
+75931,First Class,1,2,Late delivery,1
+75930,Second Class,2,6,Shipping canceled,0
+75929,Second Class,2,5,Late delivery,1
+75928,Second Class,2,4,Late delivery,1
+75927,First Class,1,2,Late delivery,1
+75926,First Class,1,2,Late delivery,1
+75925,First Class,1,2,Late delivery,1
+75924,Second Class,2,5,Late delivery,1
+75923,First Class,1,2,Late delivery,1
+75922,First Class,1,2,Late delivery,1
+75921,Same Day,0,0,Shipping on time,0
+75920,Same Day,0,0,Shipping on time,0
+75919,Standard Class,4,5,Late delivery,1
+75918,Second Class,2,4,Late delivery,1
+75917,Second Class,2,3,Shipping canceled,0
+75916,Second Class,2,2,Shipping canceled,0
+75915,Second Class,2,6,Late delivery,1
+75914,Second Class,2,5,Late delivery,1
+75913,Standard Class,4,4,Shipping on time,0
+75912,Standard Class,4,3,Advance shipping,0
+75911,Standard Class,4,2,Advance shipping,0
+75910,Standard Class,4,6,Late delivery,1
+75909,Standard Class,4,5,Late delivery,1
+75908,Standard Class,4,4,Shipping on time,0
+75907,First Class,1,2,Late delivery,1
+75906,First Class,1,2,Late delivery,1
+75905,First Class,1,2,Late delivery,1
+75904,First Class,1,2,Late delivery,1
+75971,Standard Class,4,2,Advance shipping,0
+75970,Standard Class,4,6,Late delivery,1
+75969,Standard Class,4,5,Late delivery,1
+75968,Standard Class,4,4,Shipping on time,0
+75967,Standard Class,4,3,Advance shipping,0
+75966,Standard Class,4,2,Advance shipping,0
+75965,First Class,1,2,Late delivery,1
+75964,First Class,1,2,Late delivery,1
+75963,Same Day,0,1,Shipping canceled,0
+75962,Standard Class,4,3,Advance shipping,0
+75961,Standard Class,4,2,Advance shipping,0
+75960,Standard Class,4,6,Late delivery,1
+75959,Standard Class,4,5,Late delivery,1
+75958,Standard Class,4,4,Shipping on time,0
+75957,Second Class,2,3,Late delivery,1
+75956,Second Class,2,2,Shipping on time,0
+75955,Second Class,2,6,Late delivery,1
+75954,Standard Class,4,5,Late delivery,1
+75953,First Class,1,2,Late delivery,1
+75952,Second Class,2,3,Late delivery,1
+75951,First Class,1,2,Late delivery,1
+75950,First Class,1,2,Late delivery,1
+75949,Second Class,2,5,Shipping canceled,0
+75948,First Class,1,2,Late delivery,1
+75947,First Class,1,2,Late delivery,1
+75946,First Class,1,2,Late delivery,1
+75945,Standard Class,4,6,Late delivery,1
+75944,Standard Class,4,5,Late delivery,1
+75943,Standard Class,4,4,Shipping on time,0
+75942,Standard Class,4,3,Advance shipping,0
+75941,Standard Class,4,2,Advance shipping,0
+75940,Standard Class,4,6,Late delivery,1
+76040,Standard Class,4,6,Shipping canceled,0
+76039,Standard Class,4,5,Late delivery,1
+76038,Second Class,2,4,Late delivery,1
+76037,First Class,1,2,Late delivery,1
+76036,Second Class,2,2,Shipping on time,0
+76035,First Class,1,2,Late delivery,1
+76034,First Class,1,2,Late delivery,1
+76033,Standard Class,4,4,Shipping on time,0
+76032,Standard Class,4,3,Advance shipping,0
+76031,Standard Class,4,2,Advance shipping,0
+76030,Standard Class,4,6,Late delivery,1
+76029,Second Class,2,5,Late delivery,1
+76028,Standard Class,4,4,Shipping on time,0
+76027,Standard Class,4,3,Advance shipping,0
+76026,Second Class,2,2,Shipping on time,0
+76025,Second Class,2,6,Late delivery,1
+76024,Standard Class,4,5,Late delivery,1
+76023,Second Class,2,4,Shipping canceled,0
+76022,Standard Class,4,3,Advance shipping,0
+76021,Second Class,2,2,Shipping on time,0
+76020,Standard Class,4,6,Late delivery,1
+76019,Standard Class,4,5,Late delivery,1
+76018,Standard Class,4,4,Shipping on time,0
+76017,Standard Class,4,3,Advance shipping,0
+76016,Standard Class,4,2,Advance shipping,0
+76015,Standard Class,4,6,Late delivery,1
+76014,Standard Class,4,5,Late delivery,1
+76013,Standard Class,4,4,Shipping on time,0
+76012,Standard Class,4,3,Advance shipping,0
+76011,Standard Class,4,2,Advance shipping,0
+76010,Standard Class,4,6,Late delivery,1
+76009,Standard Class,4,5,Late delivery,1
+76008,Second Class,2,4,Late delivery,1
+76007,Second Class,2,3,Late delivery,1
+76006,Standard Class,4,2,Advance shipping,0
+76005,Standard Class,4,6,Late delivery,1
+76004,Standard Class,4,5,Late delivery,1
+76003,First Class,1,2,Late delivery,1
+76002,Second Class,2,3,Late delivery,1
+76001,Second Class,2,2,Shipping on time,0
+76000,Second Class,2,6,Late delivery,1
+75999,Same Day,0,0,Shipping on time,0
+75998,Same Day,0,0,Shipping on time,0
+75997,Same Day,0,0,Shipping on time,0
+75996,Same Day,0,0,Shipping on time,0
+75995,Standard Class,4,6,Late delivery,1
+75994,Standard Class,4,5,Late delivery,1
+75993,Standard Class,4,4,Shipping on time,0
+75992,Standard Class,4,3,Advance shipping,0
+75991,Standard Class,4,2,Advance shipping,0
+75990,Standard Class,4,6,Late delivery,1
+75989,Standard Class,4,5,Late delivery,1
+75988,Standard Class,4,4,Shipping on time,0
+75987,Second Class,2,3,Shipping canceled,0
+75986,Second Class,2,2,Shipping on time,0
+75985,First Class,1,2,Late delivery,1
+75984,First Class,1,2,Late delivery,1
+75983,First Class,1,2,Late delivery,1
+75982,Second Class,2,3,Shipping canceled,0
+75981,First Class,1,2,Late delivery,1
+75980,First Class,1,2,Late delivery,1
+75979,First Class,1,2,Late delivery,1
+75978,Standard Class,4,4,Shipping on time,0
+75977,Standard Class,4,3,Advance shipping,0
+75976,Standard Class,4,2,Advance shipping,0
+75975,Standard Class,4,6,Shipping canceled,0
+75974,Standard Class,4,5,Late delivery,1
+75973,Standard Class,4,4,Shipping on time,0
+75972,Standard Class,4,3,Advance shipping,0
+76108,Standard Class,4,4,Shipping on time,0
+76107,Standard Class,4,3,Advance shipping,0
+76106,Standard Class,4,2,Advance shipping,0
+76105,Second Class,2,6,Late delivery,1
+76104,Second Class,2,5,Late delivery,1
+76103,Second Class,2,4,Late delivery,1
+76102,Standard Class,4,3,Advance shipping,0
+76101,Standard Class,4,2,Advance shipping,0
+76100,Standard Class,4,6,Late delivery,1
+76099,Standard Class,4,5,Late delivery,1
+76098,Standard Class,4,4,Shipping on time,0
+76097,First Class,1,2,Late delivery,1
+76096,First Class,1,2,Late delivery,1
+76095,Second Class,2,6,Late delivery,1
+76094,Second Class,2,5,Late delivery,1
+76093,Second Class,2,4,Late delivery,1
+76092,First Class,1,2,Late delivery,1
+76091,Standard Class,4,2,Advance shipping,0
+76090,Standard Class,4,6,Late delivery,1
+76089,Standard Class,4,5,Late delivery,1
+76088,Standard Class,4,4,Shipping on time,0
+76087,Standard Class,4,3,Advance shipping,0
+76086,Standard Class,4,2,Advance shipping,0
+76085,Standard Class,4,6,Late delivery,1
+76084,Standard Class,4,5,Late delivery,1
+76083,Second Class,2,4,Late delivery,1
+76082,First Class,1,2,Late delivery,1
+76081,First Class,1,2,Late delivery,1
+76080,Second Class,2,6,Late delivery,1
+76079,Second Class,2,5,Late delivery,1
+76078,Second Class,2,4,Late delivery,1
+76077,Same Day,0,1,Late delivery,1
+76076,Standard Class,4,2,Advance shipping,0
+76075,Standard Class,4,6,Late delivery,1
+76074,Standard Class,4,5,Late delivery,1
+76073,Standard Class,4,4,Shipping on time,0
+76072,Standard Class,4,3,Advance shipping,0
+76071,Standard Class,4,2,Advance shipping,0
+76070,Standard Class,4,6,Late delivery,1
+76069,Standard Class,4,5,Shipping canceled,0
+76068,Standard Class,4,4,Shipping on time,0
+76067,Standard Class,4,3,Advance shipping,0
+76066,Standard Class,4,2,Advance shipping,0
+76065,Standard Class,4,6,Late delivery,1
+76064,Standard Class,4,5,Late delivery,1
+76063,First Class,1,2,Late delivery,1
+76062,Standard Class,4,3,Advance shipping,0
+76061,Standard Class,4,2,Shipping canceled,0
+76060,Standard Class,4,6,Late delivery,1
+76059,Standard Class,4,5,Late delivery,1
+76058,Standard Class,4,4,Shipping on time,0
+76057,Standard Class,4,3,Advance shipping,0
+76056,Standard Class,4,2,Advance shipping,0
+76055,Standard Class,4,6,Late delivery,1
+76054,Standard Class,4,5,Late delivery,1
+76053,Second Class,2,4,Late delivery,1
+76052,Second Class,2,3,Late delivery,1
+76051,First Class,1,2,Late delivery,1
+76050,First Class,1,2,Late delivery,1
+76049,Standard Class,4,5,Late delivery,1
+76048,Standard Class,4,4,Shipping on time,0
+76047,Standard Class,4,3,Advance shipping,0
+76046,Standard Class,4,2,Advance shipping,0
+76045,Standard Class,4,6,Late delivery,1
+76044,Standard Class,4,5,Late delivery,1
+76043,Standard Class,4,4,Shipping on time,0
+76042,Standard Class,4,3,Advance shipping,0
+76041,Standard Class,4,2,Advance shipping,0
+76177,Standard Class,4,3,Advance shipping,0
+76176,Standard Class,4,2,Advance shipping,0
+76175,Standard Class,4,6,Late delivery,1
+76174,First Class,1,2,Late delivery,1
+76173,First Class,1,2,Late delivery,1
+76172,First Class,1,2,Late delivery,1
+76171,First Class,1,2,Late delivery,1
+76170,First Class,1,2,Late delivery,1
+76169,Standard Class,4,5,Shipping canceled,0
+76168,Standard Class,4,4,Shipping on time,0
+76167,Standard Class,4,3,Advance shipping,0
+76166,Standard Class,4,2,Advance shipping,0
+76165,Standard Class,4,6,Late delivery,1
+76164,Standard Class,4,5,Late delivery,1
+76163,Standard Class,4,4,Shipping on time,0
+76162,Standard Class,4,3,Advance shipping,0
+76161,Standard Class,4,2,Advance shipping,0
+76160,Standard Class,4,6,Late delivery,1
+76159,Standard Class,4,5,Late delivery,1
+76158,Standard Class,4,4,Shipping on time,0
+76157,Standard Class,4,3,Advance shipping,0
+76156,Standard Class,4,2,Advance shipping,0
+76155,Standard Class,4,6,Late delivery,1
+76154,Standard Class,4,5,Late delivery,1
+76153,Standard Class,4,4,Shipping on time,0
+76152,Standard Class,4,3,Advance shipping,0
+76151,Standard Class,4,2,Advance shipping,0
+76150,Standard Class,4,6,Late delivery,1
+76149,Same Day,0,1,Late delivery,1
+76148,Standard Class,4,4,Shipping on time,0
+76147,Standard Class,4,3,Advance shipping,0
+76146,Standard Class,4,2,Advance shipping,0
+76145,Standard Class,4,6,Late delivery,1
+76144,Standard Class,4,5,Late delivery,1
+76143,Standard Class,4,4,Shipping on time,0
+76142,Standard Class,4,3,Advance shipping,0
+76141,Standard Class,4,2,Advance shipping,0
+76140,Standard Class,4,6,Late delivery,1
+76139,Standard Class,4,5,Late delivery,1
+76138,First Class,1,2,Late delivery,1
+76137,Same Day,0,0,Shipping on time,0
+76136,Same Day,0,0,Shipping on time,0
+76135,Standard Class,4,6,Late delivery,1
+76134,Standard Class,4,5,Shipping canceled,0
+76133,Standard Class,4,4,Shipping on time,0
+76132,Standard Class,4,3,Advance shipping,0
+76131,Standard Class,4,2,Advance shipping,0
+76130,Second Class,2,6,Late delivery,1
+76129,Standard Class,4,5,Late delivery,1
+76128,Standard Class,4,4,Shipping on time,0
+76127,Standard Class,4,3,Advance shipping,0
+76126,Second Class,2,2,Shipping on time,0
+76125,Second Class,2,6,Late delivery,1
+76124,Standard Class,4,5,Late delivery,1
+76123,Second Class,2,4,Late delivery,1
+76122,Second Class,2,3,Late delivery,1
+76121,Standard Class,4,2,Advance shipping,0
+76120,Standard Class,4,6,Late delivery,1
+76119,Standard Class,4,5,Late delivery,1
+76118,Standard Class,4,4,Shipping on time,0
+76117,Standard Class,4,3,Advance shipping,0
+76116,Same Day,0,0,Shipping on time,0
+76115,Same Day,0,0,Shipping on time,0
+76114,Standard Class,4,5,Late delivery,1
+76113,Standard Class,4,4,Shipping on time,0
+76112,Standard Class,4,3,Advance shipping,0
+76111,Standard Class,4,2,Advance shipping,0
+76110,Standard Class,4,6,Late delivery,1
+76109,Standard Class,4,5,Late delivery,1
+76218,First Class,1,2,Late delivery,1
+76229,Standard Class,4,5,Late delivery,1
+76227,Standard Class,4,3,Advance shipping,0
+76231,Standard Class,4,2,Advance shipping,0
+76238,Standard Class,4,4,Shipping on time,0
+76236,Standard Class,4,2,Advance shipping,0
+76230,Standard Class,4,6,Late delivery,1
+76237,Standard Class,4,3,Advance shipping,0
+76245,Second Class,2,6,Late delivery,1
+76239,Standard Class,4,5,Late delivery,1
+76240,Standard Class,4,6,Late delivery,1
+76234,Standard Class,4,5,Late delivery,1
+76215,Standard Class,4,6,Late delivery,1
+76243,Second Class,2,4,Late delivery,1
+76214,Second Class,2,5,Late delivery,1
+76213,Standard Class,4,4,Shipping on time,0
+76212,Standard Class,4,3,Advance shipping,0
+76211,Standard Class,4,2,Advance shipping,0
+76210,Standard Class,4,6,Late delivery,1
+76209,Standard Class,4,5,Late delivery,1
+76208,Standard Class,4,4,Shipping on time,0
+76207,Standard Class,4,3,Advance shipping,0
+76206,Second Class,2,2,Shipping on time,0
+76205,Standard Class,4,6,Late delivery,1
+76204,Standard Class,4,5,Late delivery,1
+76203,Standard Class,4,4,Shipping on time,0
+76202,Standard Class,4,3,Advance shipping,0
+76201,Standard Class,4,2,Advance shipping,0
+76200,Standard Class,4,6,Late delivery,1
+76199,Standard Class,4,5,Late delivery,1
+76198,Standard Class,4,4,Shipping on time,0
+76197,Standard Class,4,3,Advance shipping,0
+76196,Second Class,2,2,Shipping on time,0
+76195,Second Class,2,6,Late delivery,1
+76194,First Class,1,2,Late delivery,1
+76193,Second Class,2,4,Late delivery,1
+76192,Second Class,2,3,Late delivery,1
+76191,Second Class,2,2,Shipping on time,0
+76190,Standard Class,4,6,Late delivery,1
+76189,Standard Class,4,5,Late delivery,1
+76188,First Class,1,2,Late delivery,1
+76187,First Class,1,2,Late delivery,1
+76186,First Class,1,2,Late delivery,1
+76185,Second Class,2,6,Late delivery,1
+76184,Second Class,2,5,Late delivery,1
+76183,Second Class,2,4,Late delivery,1
+76182,Standard Class,4,3,Advance shipping,0
+76181,Standard Class,4,2,Advance shipping,0
+76180,Standard Class,4,6,Late delivery,1
+76179,Standard Class,4,5,Late delivery,1
+76178,Standard Class,4,4,Shipping on time,0
+76221,Second Class,2,2,Shipping on time,0
+76244,Second Class,2,5,Late delivery,1
+76232,Standard Class,4,3,Advance shipping,0
+76233,Standard Class,4,4,Shipping canceled,0
+76217,Standard Class,4,3,Advance shipping,0
+76241,Standard Class,4,2,Advance shipping,0
+76235,Standard Class,4,6,Late delivery,1
+76228,Standard Class,4,4,Shipping on time,0
+76226,Standard Class,4,2,Advance shipping,0
+76219,First Class,1,2,Late delivery,1
+76225,Standard Class,4,6,Shipping canceled,0
+76222,Second Class,2,3,Late delivery,1
+76224,Standard Class,4,5,Late delivery,1
+76242,Standard Class,4,3,Shipping canceled,0
+76216,Standard Class,4,2,Advance shipping,0
+76223,Standard Class,4,4,Shipping on time,0
+76220,Second Class,2,6,Late delivery,1
+76263,Standard Class,4,4,Shipping on time,0
+76260,Standard Class,4,6,Late delivery,1
+76302,Standard Class,4,3,Advance shipping,0
+76258,Second Class,2,4,Late delivery,1
+76246,Second Class,2,2,Shipping on time,0
+76278,Second Class,2,4,Late delivery,1
+76267,Second Class,2,3,Late delivery,1
+76308,Second Class,2,4,Late delivery,1
+76265,Second Class,2,6,Late delivery,1
+76257,Second Class,2,3,Late delivery,1
+76311,First Class,1,2,Late delivery,1
+76256,Standard Class,4,2,Advance shipping,0
+76254,Standard Class,4,5,Late delivery,1
+76271,Standard Class,4,2,Advance shipping,0
+76288,Standard Class,4,4,Shipping on time,0
+76277,Standard Class,4,3,Advance shipping,0
+76300,Standard Class,4,6,Late delivery,1
+76312,First Class,1,2,Late delivery,1
+76282,Second Class,2,3,Late delivery,1
+76286,Standard Class,4,2,Advance shipping,0
+76304,Standard Class,4,5,Late delivery,1
+76273,Standard Class,4,4,Shipping on time,0
+76255,Standard Class,4,6,Late delivery,1
+76298,Standard Class,4,4,Shipping on time,0
+76314,Standard Class,4,5,Late delivery,1
+76309,Second Class,2,5,Late delivery,1
+76276,Standard Class,4,2,Advance shipping,0
+76253,Standard Class,4,4,Shipping on time,0
+76259,Second Class,2,5,Late delivery,1
+76306,Second Class,2,2,Shipping on time,0
+76305,Second Class,2,6,Late delivery,1
+76247,Second Class,2,3,Late delivery,1
+76310,Second Class,2,6,Late delivery,1
+76290,Standard Class,4,6,Late delivery,1
+76261,Standard Class,4,2,Advance shipping,0
+76301,Standard Class,4,2,Advance shipping,0
+76272,Standard Class,4,3,Advance shipping,0
+76252,First Class,1,2,Late delivery,1
+76270,Standard Class,4,6,Late delivery,1
+76299,Standard Class,4,5,Late delivery,1
+76248,Second Class,2,4,Late delivery,1
+76251,Second Class,2,2,Shipping on time,0
+76313,Second Class,2,4,Late delivery,1
+76262,Standard Class,4,3,Advance shipping,0
+76289,Standard Class,4,5,Late delivery,1
+76269,Second Class,2,5,Late delivery,1
+76279,Second Class,2,5,Late delivery,1
+76291,Standard Class,4,2,Shipping canceled,0
+76296,Standard Class,4,2,Advance shipping,0
+76249,Second Class,2,5,Late delivery,1
+76292,Standard Class,4,3,Advance shipping,0
+76287,Standard Class,4,3,Advance shipping,0
+76294,Standard Class,4,5,Late delivery,1
+76274,Standard Class,4,5,Late delivery,1
+76280,Second Class,2,6,Shipping canceled,0
+76281,Second Class,2,2,Shipping on time,0
+76275,Standard Class,4,6,Late delivery,1
+76264,First Class,1,2,Late delivery,1
+76266,Second Class,2,2,Shipping on time,0
+76307,Second Class,2,3,Late delivery,1
+76268,Second Class,2,4,Late delivery,1
+76285,Standard Class,4,6,Late delivery,1
+76303,Standard Class,4,4,Shipping on time,0
+76250,Second Class,2,6,Late delivery,1
+76284,Second Class,2,5,Late delivery,1
+76297,Standard Class,4,3,Advance shipping,0
+76293,Standard Class,4,4,Shipping on time,0
+76295,Standard Class,4,6,Shipping canceled,0
+76283,Second Class,2,4,Late delivery,1
+76382,Standard Class,4,3,Advance shipping,0
+76369,Standard Class,4,5,Late delivery,1
+76362,Second Class,2,3,Late delivery,1
+76353,Second Class,2,4,Shipping canceled,0
+76350,First Class,1,2,Late delivery,1
+76327,Standard Class,4,3,Advance shipping,0
+76321,Standard Class,4,2,Advance shipping,0
+76375,Standard Class,4,6,Late delivery,1
+76322,First Class,1,2,Late delivery,1
+76349,First Class,1,2,Late delivery,1
+76348,Second Class,2,4,Late delivery,1
+76324,Standard Class,4,5,Late delivery,1
+76346,Second Class,2,2,Shipping on time,0
+76365,Standard Class,4,6,Late delivery,1
+76378,Standard Class,4,4,Shipping on time,0
+76328,Standard Class,4,4,Shipping on time,0
+76380,Standard Class,4,6,Late delivery,1
+76376,Standard Class,4,2,Advance shipping,0
+76361,Second Class,2,2,Shipping on time,0
+76374,Second Class,2,5,Late delivery,1
+76368,Second Class,2,4,Late delivery,1
+76366,Second Class,2,2,Shipping on time,0
+76344,Standard Class,4,5,Late delivery,1
+76342,Standard Class,4,3,Advance shipping,0
+76340,Standard Class,4,6,Late delivery,1
+76355,Standard Class,4,6,Late delivery,1
+76381,Standard Class,4,2,Advance shipping,0
+76379,Standard Class,4,5,Late delivery,1
+76364,Standard Class,4,5,Late delivery,1
+76326,Standard Class,4,2,Advance shipping,0
+76377,Standard Class,4,3,Advance shipping,0
+76323,Standard Class,4,4,Shipping on time,0
+76339,Standard Class,4,5,Late delivery,1
+76333,Standard Class,4,4,Shipping on time,0
+76331,Standard Class,4,2,Advance shipping,0
+76338,First Class,1,2,Late delivery,1
+76347,Second Class,2,3,Late delivery,1
+76367,Second Class,2,3,Late delivery,1
+76345,Second Class,2,6,Late delivery,1
+76373,Standard Class,4,4,Shipping canceled,0
+76363,Standard Class,4,4,Shipping canceled,0
+76329,Standard Class,4,5,Late delivery,1
+76358,Standard Class,4,4,Shipping on time,0
+76371,Standard Class,4,2,Advance shipping,0
+76317,Standard Class,4,3,Advance shipping,0
+76315,Standard Class,4,6,Late delivery,1
+76351,First Class,1,2,Late delivery,1
+76343,Standard Class,4,4,Shipping on time,0
+76325,Standard Class,4,6,Late delivery,1
+76341,Standard Class,4,2,Advance shipping,0
+76334,Standard Class,4,5,Late delivery,1
+76356,Standard Class,4,2,Advance shipping,0
+76332,Standard Class,4,3,Advance shipping,0
+76357,Standard Class,4,3,Advance shipping,0
+76319,Standard Class,4,5,Late delivery,1
+76318,Standard Class,4,4,Shipping on time,0
+76316,Standard Class,4,2,Advance shipping,0
+76370,Standard Class,4,6,Late delivery,1
+76354,Standard Class,4,5,Late delivery,1
+76352,First Class,1,2,Late delivery,1
+76330,Standard Class,4,6,Late delivery,1
+76359,Standard Class,4,5,Late delivery,1
+76336,First Class,1,2,Shipping canceled,0
+76335,First Class,1,2,Late delivery,1
+76372,Standard Class,4,3,Advance shipping,0
+76320,Standard Class,4,6,Late delivery,1
+76360,Same Day,0,1,Late delivery,1
+76337,Same Day,0,0,Shipping on time,0
+76394,Standard Class,4,5,Late delivery,1
+76402,First Class,1,2,Late delivery,1
+76424,Standard Class,4,5,Late delivery,1
+76386,Second Class,2,2,Shipping on time,0
+76395,Second Class,2,6,Late delivery,1
+76448,Second Class,2,4,Late delivery,1
+76440,First Class,1,2,Late delivery,1
+76436,Standard Class,4,2,Advance shipping,0
+76433,Standard Class,4,4,Shipping on time,0
+76431,Standard Class,4,2,Advance shipping,0
+76411,Standard Class,4,2,Advance shipping,0
+76401,Standard Class,4,2,Advance shipping,0
+76443,First Class,1,2,Late delivery,1
+76413,Standard Class,4,4,Shipping on time,0
+76446,Standard Class,4,2,Advance shipping,0
+76426,Standard Class,4,2,Advance shipping,0
+76383,Standard Class,4,4,Shipping on time,0
+76419,Standard Class,4,5,Late delivery,1
+76387,Second Class,2,3,Late delivery,1
+76434,Second Class,2,5,Late delivery,1
+76405,Second Class,2,6,Late delivery,1
+76399,Standard Class,4,5,Late delivery,1
+76417,First Class,1,2,Late delivery,1
+76439,First Class,1,2,Late delivery,1
+76404,First Class,1,2,Late delivery,1
+76414,Same Day,0,0,Shipping on time,0
+76400,Standard Class,4,6,Late delivery,1
+76445,Standard Class,4,6,Late delivery,1
+76447,Second Class,2,3,Late delivery,1
+76432,Second Class,2,3,Late delivery,1
+76391,Second Class,2,2,Shipping on time,0
+76412,Standard Class,4,3,Advance shipping,0
+76398,Standard Class,4,4,Shipping on time,0
+76437,Standard Class,4,3,Advance shipping,0
+76393,Standard Class,4,4,Shipping on time,0
+76427,Standard Class,4,3,Advance shipping,0
+76390,Standard Class,4,6,Late delivery,1
+76435,Standard Class,4,6,Late delivery,1
+76430,Standard Class,4,6,Late delivery,1
+76425,Standard Class,4,6,Late delivery,1
+76388,Standard Class,4,4,Shipping on time,0
+76385,Standard Class,4,6,Late delivery,1
+76406,Standard Class,4,2,Advance shipping,0
+76441,First Class,1,2,Late delivery,1
+76416,Same Day,0,0,Shipping canceled,0
+76396,Second Class,2,2,Shipping on time,0
+76410,Second Class,2,6,Late delivery,1
+76408,Second Class,2,4,Late delivery,1
+76418,Second Class,2,4,Late delivery,1
+76449,Second Class,2,5,Late delivery,1
+76438,Same Day,0,1,Late delivery,1
+76415,Same Day,0,0,Shipping on time,0
+76409,Second Class,2,5,Late delivery,1
+76389,Second Class,2,5,Late delivery,1
+76444,Standard Class,4,5,Late delivery,1
+76384,Standard Class,4,5,Late delivery,1
+76428,Standard Class,4,4,Shipping on time,0
+76421,Standard Class,4,2,Advance shipping,0
+76451,Standard Class,4,2,Advance shipping,0
+76403,First Class,1,2,Late delivery,1
+76397,Second Class,2,3,Late delivery,1
+76407,Second Class,2,3,Late delivery,1
+76392,Second Class,2,3,Late delivery,1
+76420,Standard Class,4,6,Late delivery,1
+76450,Standard Class,4,6,Late delivery,1
+76429,Standard Class,4,5,Late delivery,1
+76423,Standard Class,4,4,Shipping on time,0
+76422,Standard Class,4,3,Advance shipping,0
+76442,First Class,1,2,Late delivery,1
+76473,Standard Class,4,4,Shipping on time,0
+76472,Standard Class,4,3,Advance shipping,0
+76471,Standard Class,4,2,Advance shipping,0
+76452,Standard Class,4,3,Advance shipping,0
+76461,Standard Class,4,2,Advance shipping,0
+76511,Standard Class,4,2,Advance shipping,0
+76514,Standard Class,4,5,Late delivery,1
+76502,Second Class,2,3,Late delivery,1
+76519,Second Class,2,5,Late delivery,1
+76478,First Class,1,2,Late delivery,1
+76506,First Class,1,2,Late delivery,1
+76491,Standard Class,4,2,Advance shipping,0
+76486,Standard Class,4,2,Advance shipping,0
+76464,Standard Class,4,5,Late delivery,1
+76481,Standard Class,4,2,Advance shipping,0
+76497,First Class,1,2,Late delivery,1
+76493,First Class,1,2,Late delivery,1
+76459,Standard Class,4,5,Late delivery,1
+76501,Second Class,2,2,Shipping on time,0
+76515,Second Class,2,6,Late delivery,1
+76470,Standard Class,4,6,Late delivery,1
+76457,Same Day,0,0,Shipping on time,0
+76469,Standard Class,4,5,Late delivery,1
+76468,Standard Class,4,4,Shipping on time,0
+76466,Standard Class,4,2,Advance shipping,0
+76463,Standard Class,4,4,Shipping on time,0
+76475,Same Day,0,0,Shipping on time,0
+76516,Second Class,2,2,Shipping on time,0
+76476,First Class,1,2,Late delivery,1
+76507,Second Class,2,3,Late delivery,1
+76518,Second Class,2,4,Late delivery,1
+76474,Same Day,0,0,Shipping on time,0
+76517,Second Class,2,3,Late delivery,1
+76465,Standard Class,4,6,Late delivery,1
+76498,Standard Class,4,4,Shipping on time,0
+76483,Standard Class,4,4,Shipping on time,0
+76490,Standard Class,4,6,Late delivery,1
+76504,Standard Class,4,5,Late delivery,1
+76482,Standard Class,4,3,Advance shipping,0
+76458,Standard Class,4,4,Shipping on time,0
+76494,First Class,1,2,Late delivery,1
+76488,Standard Class,4,4,Shipping on time,0
+76487,Standard Class,4,3,Advance shipping,0
+76485,Standard Class,4,6,Late delivery,1
+76513,Standard Class,4,4,Shipping on time,0
+76509,First Class,1,2,Late delivery,1
+76477,First Class,1,2,Late delivery,1
+76454,Same Day,0,0,Shipping on time,0
+76495,Second Class,2,6,Late delivery,1
+76505,Standard Class,4,6,Late delivery,1
+76500,Second Class,2,6,Late delivery,1
+76496,Second Class,2,2,Shipping on time,0
+76503,Standard Class,4,4,Shipping on time,0
+76499,Standard Class,4,5,Late delivery,1
+76510,First Class,1,2,Late delivery,1
+76484,Standard Class,4,5,Late delivery,1
+76460,Standard Class,4,6,Late delivery,1
+76512,Standard Class,4,3,Advance shipping,0
+76492,First Class,1,2,Late delivery,1
+76467,Standard Class,4,3,Advance shipping,0
+76462,Standard Class,4,3,Advance shipping,0
+76479,First Class,1,2,Late delivery,1
+76456,Same Day,0,0,Shipping on time,0
+76480,Standard Class,4,6,Late delivery,1
+76508,First Class,1,2,Late delivery,1
+76489,Standard Class,4,5,Late delivery,1
+76453,First Class,1,2,Late delivery,1
+76455,Same Day,0,0,Shipping on time,0
+76585,Standard Class,4,6,Late delivery,1
+76535,Standard Class,4,6,Late delivery,1
+76563,Second Class,2,4,Late delivery,1
+76520,Second Class,2,6,Late delivery,1
+76556,First Class,1,2,Late delivery,1
+76549,Same Day,0,0,Shipping on time,0
+76540,Same Day,0,0,Shipping on time,0
+76547,Standard Class,4,3,Advance shipping,0
+76579,Standard Class,4,5,Late delivery,1
+76557,First Class,1,2,Late delivery,1
+76558,First Class,1,2,Late delivery,1
+76546,Standard Class,4,2,Advance shipping,0
+76543,Second Class,2,4,Late delivery,1
+76587,Second Class,2,3,Late delivery,1
+76528,First Class,1,2,Late delivery,1
+76562,First Class,1,2,Late delivery,1
+76584,Second Class,2,5,Late delivery,1
+76566,Second Class,2,2,Shipping on time,0
+76582,Second Class,2,3,Late delivery,1
+76544,Second Class,2,5,Late delivery,1
+76533,Standard Class,4,4,Shipping on time,0
+76526,Second Class,2,2,Shipping on time,0
+76561,Second Class,2,2,Shipping on time,0
+76542,Second Class,2,3,Late delivery,1
+76559,Second Class,2,5,Late delivery,1
+76588,Second Class,2,4,Late delivery,1
+76564,Standard Class,4,5,Shipping canceled,0
+76525,Standard Class,4,6,Shipping canceled,0
+76548,Standard Class,4,4,Shipping on time,0
+76523,Standard Class,4,4,Shipping on time,0
+76575,Standard Class,4,6,Late delivery,1
+76572,Standard Class,4,3,Advance shipping,0
+76554,Standard Class,4,5,Late delivery,1
+76551,Standard Class,4,2,Advance shipping,0
+76555,Standard Class,4,6,Late delivery,1
+76583,First Class,1,2,Late delivery,1
+76570,First Class,1,2,Late delivery,1
+76580,Standard Class,4,6,Late delivery,1
+76577,Standard Class,4,3,Advance shipping,0
+76568,Standard Class,4,4,Shipping on time,0
+76571,Standard Class,4,2,Advance shipping,0
+76552,Standard Class,4,3,Advance shipping,0
+76536,First Class,1,2,Late delivery,1
+76538,Same Day,0,0,Shipping on time,0
+76537,Same Day,0,0,Shipping on time,0
+76569,Second Class,2,5,Late delivery,1
+76581,Second Class,2,2,Shipping on time,0
+76545,Second Class,2,6,Late delivery,1
+76560,Second Class,2,6,Late delivery,1
+76576,Second Class,2,2,Shipping on time,0
+76574,Standard Class,4,5,Shipping canceled,0
+76578,Standard Class,4,4,Shipping on time,0
+76522,Standard Class,4,3,Advance shipping,0
+76573,Standard Class,4,4,Shipping on time,0
+76531,Standard Class,4,2,Advance shipping,0
+76530,First Class,1,2,Late delivery,1
+76550,Same Day,0,0,Shipping on time,0
+76567,Standard Class,4,3,Advance shipping,0
+76553,Standard Class,4,4,Shipping canceled,0
+76529,First Class,1,2,Late delivery,1
+76565,Second Class,2,6,Late delivery,1
+76534,Standard Class,4,5,Late delivery,1
+76586,Second Class,2,2,Shipping on time,0
+76524,Standard Class,4,5,Late delivery,1
+76521,Standard Class,4,2,Advance shipping,0
+76532,Standard Class,4,3,Advance shipping,0
+76527,First Class,1,2,Late delivery,1
+76541,Same Day,0,0,Shipping on time,0
+76539,Same Day,0,0,Shipping on time,0
+76614,Standard Class,4,5,Late delivery,1
+76610,Standard Class,4,6,Late delivery,1
+76654,Standard Class,4,5,Late delivery,1
+76600,First Class,1,2,Late delivery,1
+76596,First Class,1,2,Late delivery,1
+76634,Standard Class,4,5,Late delivery,1
+76627,Standard Class,4,3,Advance shipping,0
+76619,Standard Class,4,5,Late delivery,1
+76592,First Class,1,2,Late delivery,1
+76603,First Class,1,2,Late delivery,1
+76589,Second Class,2,5,Late delivery,1
+76652,Standard Class,4,3,Shipping canceled,0
+76649,Standard Class,4,5,Shipping canceled,0
+76591,Standard Class,4,2,Advance shipping,0
+76629,Standard Class,4,5,Late delivery,1
+76643,Standard Class,4,4,Shipping on time,0
+76611,Standard Class,4,2,Advance shipping,0
+76604,First Class,1,2,Late delivery,1
+76637,First Class,1,2,Late delivery,1
+76612,Standard Class,4,3,Advance shipping,0
+76601,First Class,1,2,Late delivery,1
+76648,Standard Class,4,4,Shipping on time,0
+76635,Second Class,2,6,Late delivery,1
+76622,Second Class,2,3,Late delivery,1
+76595,First Class,1,2,Late delivery,1
+76593,First Class,1,2,Late delivery,1
+76628,Standard Class,4,4,Shipping on time,0
+76644,Standard Class,4,5,Late delivery,1
+76626,Standard Class,4,2,Advance shipping,0
+76642,Standard Class,4,3,Advance shipping,0
+76639,Standard Class,4,5,Late delivery,1
+76613,Standard Class,4,4,Shipping on time,0
+76618,Standard Class,4,4,Shipping on time,0
+76617,Standard Class,4,3,Advance shipping,0
+76633,Standard Class,4,4,Shipping on time,0
+76609,Standard Class,4,5,Late delivery,1
+76645,Standard Class,4,6,Late delivery,1
+76607,Standard Class,4,3,Advance shipping,0
+76605,Standard Class,4,6,Late delivery,1
+76623,Standard Class,4,4,Shipping on time,0
+76640,Standard Class,4,6,Late delivery,1
+76620,Standard Class,4,6,Late delivery,1
+76602,First Class,1,2,Late delivery,1
+76615,Second Class,2,6,Late delivery,1
+76594,Standard Class,4,5,Late delivery,1
+76616,Second Class,2,2,Shipping on time,0
+76624,Second Class,2,5,Late delivery,1
+76651,Standard Class,4,2,Advance shipping,0
+76625,Standard Class,4,6,Late delivery,1
+76647,Standard Class,4,3,Advance shipping,0
+76646,Standard Class,4,2,Advance shipping,0
+76598,First Class,1,2,Late delivery,1
+76590,Standard Class,4,6,Late delivery,1
+76641,Standard Class,4,2,Advance shipping,0
+76638,Standard Class,4,4,Shipping on time,0
+76621,Second Class,2,2,Shipping canceled,0
+76606,Standard Class,4,2,Advance shipping,0
+76656,Standard Class,4,2,Advance shipping,0
+76608,Standard Class,4,4,Shipping canceled,0
+76650,Standard Class,4,6,Late delivery,1
+76655,Standard Class,4,6,Late delivery,1
+76653,Standard Class,4,4,Shipping on time,0
+76630,Standard Class,4,6,Late delivery,1
+76631,Standard Class,4,2,Advance shipping,0
+76597,First Class,1,2,Late delivery,1
+76599,First Class,1,2,Late delivery,1
+76632,Second Class,2,3,Late delivery,1
+76636,First Class,1,2,Late delivery,1
+76683,Standard Class,4,4,Shipping on time,0
+76659,Standard Class,4,5,Late delivery,1
+76666,Second Class,2,2,Shipping on time,0
+76708,Standard Class,4,4,Shipping on time,0
+76664,Standard Class,4,5,Late delivery,1
+76680,Standard Class,4,6,Late delivery,1
+76692,Standard Class,4,3,Advance shipping,0
+76721,Standard Class,4,2,Advance shipping,0
+76725,Second Class,2,6,Late delivery,1
+76707,Standard Class,4,3,Advance shipping,0
+76722,Standard Class,4,3,Advance shipping,0
+76716,Standard Class,4,2,Advance shipping,0
+76724,Second Class,2,5,Late delivery,1
+76697,Standard Class,4,3,Advance shipping,0
+76670,Standard Class,4,6,Late delivery,1
+76685,Standard Class,4,6,Late delivery,1
+76705,Second Class,2,6,Late delivery,1
+76704,Second Class,2,5,Late delivery,1
+76701,Second Class,2,2,Shipping on time,0
+76690,Standard Class,4,6,Late delivery,1
+76672,Standard Class,4,3,Advance shipping,0
+76686,Standard Class,4,2,Advance shipping,0
+76702,Standard Class,4,3,Advance shipping,0
+76665,Second Class,2,6,Late delivery,1
+76678,First Class,1,2,Late delivery,1
+76706,Second Class,2,2,Shipping on time,0
+76679,Standard Class,4,5,Late delivery,1
+76720,Standard Class,4,6,Late delivery,1
+76700,Standard Class,4,6,Late delivery,1
+76714,Standard Class,4,5,Late delivery,1
+76696,Standard Class,4,2,Advance shipping,0
+76663,Standard Class,4,4,Shipping on time,0
+76660,Standard Class,4,6,Late delivery,1
+76676,Standard Class,4,2,Advance shipping,0
+76693,Standard Class,4,4,Shipping on time,0
+76691,Standard Class,4,2,Advance shipping,0
+76662,Standard Class,4,3,Advance shipping,0
+76689,Second Class,2,5,Late delivery,1
+76687,Second Class,2,3,Late delivery,1
+76668,Second Class,2,4,Late delivery,1
+76667,Second Class,2,3,Late delivery,1
+76718,Second Class,2,4,Late delivery,1
+76657,Second Class,2,3,Late delivery,1
+76669,Second Class,2,5,Late delivery,1
+76684,Standard Class,4,5,Late delivery,1
+76671,Standard Class,4,2,Advance shipping,0
+76710,Same Day,0,1,Late delivery,1
+76677,Standard Class,4,3,Advance shipping,0
+76712,Standard Class,4,3,Advance shipping,0
+76658,Standard Class,4,4,Shipping on time,0
+76674,Standard Class,4,5,Late delivery,1
+76688,Second Class,2,4,Late delivery,1
+76723,Standard Class,4,4,Shipping on time,0
+76661,Standard Class,4,2,Advance shipping,0
+76713,Standard Class,4,4,Shipping on time,0
+76695,Standard Class,4,6,Late delivery,1
+76719,Second Class,2,5,Late delivery,1
+76703,Standard Class,4,4,Shipping on time,0
+76717,Standard Class,4,3,Advance shipping,0
+76715,Standard Class,4,6,Late delivery,1
+76699,Standard Class,4,5,Late delivery,1
+76694,Standard Class,4,5,Late delivery,1
+76698,Second Class,2,4,Late delivery,1
+76681,Standard Class,4,2,Advance shipping,0
+76673,Standard Class,4,4,Shipping on time,0
+76682,Standard Class,4,3,Advance shipping,0
+76709,Standard Class,4,5,Late delivery,1
+76675,Standard Class,4,6,Late delivery,1
+76711,First Class,1,2,Late delivery,1
+76777,Same Day,0,1,Late delivery,1
+76774,Standard Class,4,5,Late delivery,1
+76729,Standard Class,4,5,Late delivery,1
+76727,Standard Class,4,3,Advance shipping,0
+76744,Second Class,2,5,Late delivery,1
+76742,First Class,1,2,Late delivery,1
+76760,Second Class,2,6,Late delivery,1
+76768,Second Class,2,4,Late delivery,1
+76750,First Class,1,2,Late delivery,1
+76766,Standard Class,4,2,Advance shipping,0
+76764,Standard Class,4,5,Late delivery,1
+76743,First Class,1,2,Late delivery,1
+76749,First Class,1,2,Late delivery,1
+76731,Standard Class,4,2,Advance shipping,0
+76728,Standard Class,4,4,Shipping on time,0
+76751,First Class,1,2,Late delivery,1
+76778,Same Day,0,1,Late delivery,1
+76776,Same Day,0,1,Late delivery,1
+76786,Same Day,0,1,Late delivery,1
+76745,Second Class,2,6,Late delivery,1
+76735,Standard Class,4,6,Late delivery,1
+76752,Second Class,2,3,Late delivery,1
+76767,Second Class,2,3,Late delivery,1
+76779,Same Day,0,1,Late delivery,1
+76784,Same Day,0,1,Late delivery,1
+76748,Second Class,2,4,Late delivery,1
+76733,Standard Class,4,4,Shipping on time,0
+76793,Same Day,0,1,Late delivery,1
+76792,Same Day,0,1,Late delivery,1
+76730,Standard Class,4,6,Late delivery,1
+76780,Same Day,0,1,Late delivery,1
+76785,Same Day,0,1,Late delivery,1
+76747,Second Class,2,3,Late delivery,1
+76746,Second Class,2,2,Shipping on time,0
+76769,Second Class,2,5,Late delivery,1
+76783,Same Day,0,1,Shipping canceled,0
+76762,Standard Class,4,3,Advance shipping,0
+76756,Standard Class,4,2,Advance shipping,0
+76736,Standard Class,4,2,Advance shipping,0
+76770,Standard Class,4,6,Late delivery,1
+76763,Standard Class,4,4,Shipping on time,0
+76726,Standard Class,4,2,Advance shipping,0
+76754,Standard Class,4,5,Late delivery,1
+76790,Standard Class,4,6,Late delivery,1
+76734,Standard Class,4,5,Late delivery,1
+76732,Standard Class,4,3,Advance shipping,0
+76738,Standard Class,4,4,Shipping on time,0
+76755,Standard Class,4,6,Late delivery,1
+76772,Standard Class,4,3,Advance shipping,0
+76741,Second Class,2,2,Shipping on time,0
+76765,First Class,1,2,Shipping canceled,0
+76759,Second Class,2,5,Late delivery,1
+76753,Second Class,2,4,Late delivery,1
+76758,Standard Class,4,4,Shipping on time,0
+76739,Standard Class,4,5,Late delivery,1
+76757,Standard Class,4,3,Advance shipping,0
+76775,Standard Class,4,6,Late delivery,1
+76737,Standard Class,4,3,Shipping canceled,0
+76771,Standard Class,4,2,Shipping canceled,0
+76761,Standard Class,4,2,Advance shipping,0
+76773,Standard Class,4,4,Shipping on time,0
+76787,Standard Class,4,3,Advance shipping,0
+76788,Standard Class,4,4,Shipping on time,0
+76781,Same Day,0,1,Late delivery,1
+76789,Standard Class,4,5,Late delivery,1
+76782,Same Day,0,1,Late delivery,1
+76740,Standard Class,4,6,Late delivery,1
+76791,Standard Class,4,2,Advance shipping,0
+76849,Standard Class,4,5,Late delivery,1
+76847,Standard Class,4,3,Advance shipping,0
+76807,First Class,1,2,Late delivery,1
+76822,Second Class,2,3,Late delivery,1
+76796,Second Class,2,2,Shipping on time,0
+76842,Second Class,2,3,Late delivery,1
+76795,Second Class,2,6,Late delivery,1
+76857,Standard Class,4,3,Advance shipping,0
+76829,Standard Class,4,5,Late delivery,1
+76827,Standard Class,4,3,Advance shipping,0
+76860,Standard Class,4,6,Late delivery,1
+76818,Standard Class,4,4,Shipping on time,0
+76814,Standard Class,4,5,Late delivery,1
+76802,First Class,1,2,Late delivery,1
+76830,Standard Class,4,6,Late delivery,1
+76816,Standard Class,4,2,Advance shipping,0
+76798,Standard Class,4,4,Shipping on time,0
+76813,Standard Class,4,4,Shipping on time,0
+76817,Standard Class,4,3,Advance shipping,0
+76848,Standard Class,4,4,Shipping on time,0
+76810,Standard Class,4,6,Late delivery,1
+76803,Standard Class,4,4,Shipping on time,0
+76819,Standard Class,4,5,Late delivery,1
+76826,First Class,1,2,Late delivery,1
+76804,First Class,1,2,Late delivery,1
+76856,First Class,1,2,Late delivery,1
+76805,First Class,1,2,Late delivery,1
+76801,First Class,1,2,Late delivery,1
+76832,Second Class,2,3,Late delivery,1
+76843,Second Class,2,4,Late delivery,1
+76821,Second Class,2,2,Shipping on time,0
+76800,First Class,1,2,Late delivery,1
+76853,Same Day,0,1,Late delivery,1
+76852,Standard Class,4,3,Advance shipping,0
+76861,Standard Class,4,2,Advance shipping,0
+76850,Standard Class,4,6,Late delivery,1
+76846,Standard Class,4,2,Advance shipping,0
+76858,Standard Class,4,4,Shipping on time,0
+76797,Standard Class,4,3,Advance shipping,0
+76811,Standard Class,4,2,Advance shipping,0
+76837,Standard Class,4,3,Advance shipping,0
+76828,Standard Class,4,4,Shipping on time,0
+76841,Standard Class,4,2,Advance shipping,0
+76859,Standard Class,4,5,Late delivery,1
+76855,First Class,1,2,Late delivery,1
+76806,First Class,1,2,Late delivery,1
+76825,Standard Class,4,6,Shipping canceled,0
+76838,Standard Class,4,4,Shipping on time,0
+76862,Standard Class,4,3,Advance shipping,0
+76854,Same Day,0,1,Late delivery,1
+76812,Standard Class,4,3,Shipping canceled,0
+76840,Standard Class,4,6,Late delivery,1
+76823,Standard Class,4,4,Shipping on time,0
+76824,Standard Class,4,5,Late delivery,1
+76815,Standard Class,4,6,Late delivery,1
+76809,Standard Class,4,5,Late delivery,1
+76836,Second Class,2,2,Shipping on time,0
+76799,Standard Class,4,5,Late delivery,1
+76831,Standard Class,4,2,Advance shipping,0
+76833,Second Class,2,4,Late delivery,1
+76808,Standard Class,4,4,Shipping on time,0
+76851,Standard Class,4,2,Advance shipping,0
+76839,Standard Class,4,5,Late delivery,1
+76834,Second Class,2,5,Late delivery,1
+76835,Standard Class,4,6,Late delivery,1
+76844,First Class,1,2,Late delivery,1
+76820,Second Class,2,6,Late delivery,1
+76794,First Class,1,2,Late delivery,1
+76845,Standard Class,4,6,Late delivery,1
+76870,Standard Class,4,6,Late delivery,1
+76918,Standard Class,4,4,Shipping on time,0
+76924,Second Class,2,5,Late delivery,1
+76920,Second Class,2,6,Late delivery,1
+76893,Standard Class,4,4,Shipping on time,0
+76907,Same Day,0,1,Late delivery,1
+76927,Second Class,2,3,Late delivery,1
+76925,Second Class,2,6,Late delivery,1
+76922,Second Class,2,3,Late delivery,1
+76913,Second Class,2,4,Late delivery,1
+76901,First Class,1,2,Late delivery,1
+76882,Same Day,0,0,Shipping on time,0
+76912,Standard Class,4,3,Advance shipping,0
+76909,First Class,1,2,Late delivery,1
+76895,First Class,1,2,Late delivery,1
+76896,First Class,1,2,Late delivery,1
+76885,Standard Class,4,6,Late delivery,1
+76905,Standard Class,4,6,Late delivery,1
+76887,Standard Class,4,3,Advance shipping,0
+76899,Standard Class,4,5,Late delivery,1
+76916,Second Class,2,2,Shipping on time,0
+76915,Second Class,2,6,Late delivery,1
+76871,Standard Class,4,2,Advance shipping,0
+76908,First Class,1,2,Late delivery,1
+76902,First Class,1,2,Late delivery,1
+76911,Standard Class,4,2,Advance shipping,0
+76892,Standard Class,4,3,Advance shipping,0
+76919,Standard Class,4,5,Late delivery,1
+76863,Second Class,2,4,Late delivery,1
+76921,Second Class,2,2,Shipping on time,0
+76903,First Class,1,2,Late delivery,1
+76873,Standard Class,4,4,Shipping on time,0
+76891,Standard Class,4,2,Advance shipping,0
+76872,Standard Class,4,3,Advance shipping,0
+76928,Second Class,2,4,Late delivery,1
+76904,Second Class,2,5,Late delivery,1
+76898,First Class,1,2,Late delivery,1
+76926,Second Class,2,2,Shipping on time,0
+76897,First Class,1,2,Shipping canceled,0
+76894,Standard Class,4,5,Late delivery,1
+76890,Standard Class,4,6,Late delivery,1
+76906,Standard Class,4,2,Advance shipping,0
+76879,Standard Class,4,5,Late delivery,1
+76888,Standard Class,4,4,Shipping on time,0
+76867,Standard Class,4,3,Advance shipping,0
+76865,Standard Class,4,6,Late delivery,1
+76883,Standard Class,4,4,Shipping on time,0
+76880,Standard Class,4,6,Late delivery,1
+76877,Standard Class,4,3,Advance shipping,0
+76914,Second Class,2,5,Late delivery,1
+76929,Second Class,2,5,Late delivery,1
+76923,Second Class,2,4,Late delivery,1
+76869,Second Class,2,5,Late delivery,1
+76910,Standard Class,4,6,Late delivery,1
+76874,Standard Class,4,5,Late delivery,1
+76864,Standard Class,4,5,Late delivery,1
+76930,Second Class,2,6,Late delivery,1
+76917,Second Class,2,3,Late delivery,1
+76866,Standard Class,4,2,Advance shipping,0
+76889,Standard Class,4,5,Late delivery,1
+76876,Standard Class,4,2,Advance shipping,0
+76881,Standard Class,4,2,Advance shipping,0
+76884,Standard Class,4,5,Late delivery,1
+76886,Standard Class,4,2,Advance shipping,0
+76868,Standard Class,4,4,Shipping on time,0
+76875,Standard Class,4,6,Late delivery,1
+76878,Standard Class,4,4,Shipping on time,0
+76900,First Class,1,2,Late delivery,1
+76976,Standard Class,4,2,Advance shipping,0
+76992,Standard Class,4,3,Advance shipping,0
+76938,Standard Class,4,4,Shipping on time,0
+76933,Standard Class,4,4,Shipping on time,0
+76990,Second Class,2,6,Late delivery,1
+76942,First Class,1,2,Late delivery,1
+76966,Standard Class,4,2,Advance shipping,0
+76980,First Class,1,2,Late delivery,1
+76987,First Class,1,2,Late delivery,1
+76936,Standard Class,4,2,Advance shipping,0
+76994,Standard Class,4,5,Late delivery,1
+76995,Second Class,2,6,Late delivery,1
+76986,Second Class,2,2,Shipping on time,0
+76960,Standard Class,4,6,Late delivery,1
+76971,Standard Class,4,2,Advance shipping,0
+76972,Standard Class,4,3,Advance shipping,0
+76943,First Class,1,2,Late delivery,1
+76956,Same Day,0,0,Shipping on time,0
+76964,Second Class,2,5,Late delivery,1
+76981,Second Class,2,2,Shipping on time,0
+76961,Second Class,2,2,Shipping on time,0
+76954,Same Day,0,0,Shipping on time,0
+76959,Second Class,2,5,Shipping canceled,0
+76978,Standard Class,4,4,Shipping on time,0
+76953,Standard Class,4,4,Shipping on time,0
+76944,Standard Class,4,5,Late delivery,1
+76974,Standard Class,4,5,Late delivery,1
+76991,Standard Class,4,2,Advance shipping,0
+76993,Standard Class,4,4,Shipping on time,0
+76999,Standard Class,4,5,Late delivery,1
+76998,Standard Class,4,4,Shipping on time,0
+76937,Standard Class,4,3,Advance shipping,0
+76935,Standard Class,4,6,Late delivery,1
+76934,Standard Class,4,5,Late delivery,1
+76984,Standard Class,4,5,Late delivery,1
+76947,First Class,1,2,Late delivery,1
+76932,First Class,1,2,Late delivery,1
+76931,First Class,1,2,Late delivery,1
+76967,Second Class,2,3,Late delivery,1
+76983,First Class,1,2,Late delivery,1
+76997,First Class,1,2,Late delivery,1
+76973,Second Class,2,4,Shipping canceled,0
+76963,Second Class,2,4,Late delivery,1
+76962,Second Class,2,3,Late delivery,1
+76989,Second Class,2,5,Late delivery,1
+76985,Same Day,0,1,Late delivery,1
+76970,Standard Class,4,6,Late delivery,1
+76957,Same Day,0,0,Shipping on time,0
+76982,Second Class,2,3,Late delivery,1
+76996,Second Class,2,2,Shipping on time,0
+76946,Standard Class,4,2,Advance shipping,0
+76950,Standard Class,4,6,Late delivery,1
+76969,Standard Class,4,5,Late delivery,1
+76941,First Class,1,2,Late delivery,1
+76988,First Class,1,2,Late delivery,1
+76948,First Class,1,2,Late delivery,1
+76977,Standard Class,4,3,Advance shipping,0
+76975,Standard Class,4,6,Late delivery,1
+76952,Standard Class,4,3,Advance shipping,0
+76949,Standard Class,4,5,Late delivery,1
+76940,First Class,1,2,Late delivery,1
+76965,Second Class,2,6,Late delivery,1
+76945,Standard Class,4,6,Late delivery,1
+76968,Standard Class,4,4,Shipping on time,0
+76951,Standard Class,4,2,Advance shipping,0
+76955,Same Day,0,0,Shipping on time,0
+76979,Same Day,0,1,Late delivery,1
+76958,Same Day,0,0,Shipping on time,0
+76939,Standard Class,4,5,Late delivery,1
+77039,Standard Class,4,5,Late delivery,1
+77041,Second Class,2,2,Shipping on time,0
+77064,Standard Class,4,5,Late delivery,1
+77046,Standard Class,4,2,Advance shipping,0
+77063,Standard Class,4,4,Shipping on time,0
+77047,Standard Class,4,3,Advance shipping,0
+77007,First Class,1,2,Late delivery,1
+77011,Second Class,2,2,Shipping on time,0
+77031,Standard Class,4,2,Advance shipping,0
+77040,Standard Class,4,6,Late delivery,1
+77006,Second Class,2,2,Shipping on time,0
+77065,Standard Class,4,6,Late delivery,1
+77026,Standard Class,4,2,Advance shipping,0
+77038,Standard Class,4,4,Shipping on time,0
+77049,First Class,1,2,Late delivery,1
+77044,First Class,1,2,Late delivery,1
+77048,Standard Class,4,4,Shipping on time,0
+77014,Second Class,2,5,Late delivery,1
+77013,Second Class,2,4,Late delivery,1
+77008,Second Class,2,4,Late delivery,1
+77004,Second Class,2,5,Late delivery,1
+77037,Second Class,2,3,Late delivery,1
+77005,Standard Class,4,6,Late delivery,1
+77002,Standard Class,4,3,Advance shipping,0
+77001,Standard Class,4,2,Advance shipping,0
+77054,Standard Class,4,5,Late delivery,1
+77051,Standard Class,4,2,Advance shipping,0
+77025,Standard Class,4,6,Late delivery,1
+77060,Standard Class,4,6,Late delivery,1
+77023,Standard Class,4,4,Shipping on time,0
+77020,Standard Class,4,6,Late delivery,1
+77053,Standard Class,4,4,Shipping on time,0
+77027,Standard Class,4,3,Advance shipping,0
+77062,Standard Class,4,3,Advance shipping,0
+77042,Standard Class,4,3,Advance shipping,0
+77021,Standard Class,4,2,Advance shipping,0
+77019,Standard Class,4,5,Late delivery,1
+77017,Standard Class,4,3,Advance shipping,0
+77056,Standard Class,4,2,Advance shipping,0
+77033,First Class,1,2,Late delivery,1
+77029,Same Day,0,0,Shipping on time,0
+77035,Second Class,2,6,Late delivery,1
+77009,Second Class,2,5,Late delivery,1
+77036,Second Class,2,2,Shipping canceled,0
+77000,Second Class,2,6,Late delivery,1
+77010,Standard Class,4,6,Late delivery,1
+77061,Standard Class,4,2,Advance shipping,0
+77024,Standard Class,4,5,Late delivery,1
+77059,Standard Class,4,5,Late delivery,1
+77022,Standard Class,4,3,Advance shipping,0
+77057,Standard Class,4,3,Advance shipping,0
+77003,Standard Class,4,4,Shipping on time,0
+77058,Standard Class,4,4,Shipping on time,0
+77015,Second Class,2,6,Late delivery,1
+77028,Second Class,2,4,Late delivery,1
+77055,Standard Class,4,6,Late delivery,1
+77012,Second Class,2,3,Late delivery,1
+77052,Standard Class,4,3,Advance shipping,0
+77050,Standard Class,4,6,Late delivery,1
+77067,Standard Class,4,3,Advance shipping,0
+77030,Standard Class,4,6,Late delivery,1
+77034,First Class,1,2,Late delivery,1
+77016,Second Class,2,2,Shipping on time,0
+77032,Standard Class,4,3,Advance shipping,0
+77066,Standard Class,4,2,Advance shipping,0
+77045,Standard Class,4,6,Late delivery,1
+77018,Second Class,2,4,Late delivery,1
+77043,First Class,1,2,Late delivery,1
+77102,Standard Class,4,3,Advance shipping,0
+77111,Standard Class,4,2,Advance shipping,0
+77110,Standard Class,4,6,Late delivery,1
+77129,Second Class,2,5,Late delivery,1
+77081,First Class,1,2,Shipping canceled,0
+77091,Same Day,0,0,Shipping canceled,0
+77114,Second Class,2,5,Late delivery,1
+77070,Second Class,2,6,Late delivery,1
+77104,Second Class,2,5,Late delivery,1
+77130,First Class,1,2,Late delivery,1
+77122,Standard Class,4,3,Advance shipping,0
+77085,Standard Class,4,6,Late delivery,1
+77083,Standard Class,4,4,Shipping on time,0
+77080,First Class,1,2,Late delivery,1
+77132,Second Class,2,3,Late delivery,1
+77124,Standard Class,4,5,Late delivery,1
+77116,Standard Class,4,2,Advance shipping,0
+77086,Standard Class,4,2,Advance shipping,0
+77078,Standard Class,4,4,Shipping on time,0
+77109,Standard Class,4,5,Late delivery,1
+77076,Standard Class,4,2,Advance shipping,0
+77133,First Class,1,2,Late delivery,1
+77093,First Class,1,2,Late delivery,1
+77092,Same Day,0,0,Shipping on time,0
+77100,Standard Class,4,6,Late delivery,1
+77073,Standard Class,4,4,Shipping on time,0
+77074,Standard Class,4,5,Late delivery,1
+77096,Second Class,2,2,Shipping on time,0
+77128,Second Class,2,4,Late delivery,1
+77108,Standard Class,4,4,Shipping on time,0
+77068,Standard Class,4,4,Shipping on time,0
+77125,Second Class,2,6,Late delivery,1
+77136,First Class,1,2,Late delivery,1
+77095,Second Class,2,6,Late delivery,1
+77118,Standard Class,4,4,Shipping on time,0
+77075,Standard Class,4,6,Late delivery,1
+77121,Standard Class,4,2,Advance shipping,0
+77135,Standard Class,4,6,Late delivery,1
+77098,Standard Class,4,4,Shipping on time,0
+77119,Standard Class,4,5,Late delivery,1
+77090,First Class,1,2,Late delivery,1
+77071,First Class,1,2,Late delivery,1
+77097,Second Class,2,3,Shipping canceled,0
+77126,Second Class,2,2,Shipping on time,0
+77112,Second Class,2,3,Late delivery,1
+77120,Standard Class,4,6,Late delivery,1
+77099,Standard Class,4,5,Late delivery,1
+77072,Standard Class,4,3,Advance shipping,0
+77134,Standard Class,4,5,Late delivery,1
+77088,Standard Class,4,4,Shipping on time,0
+77123,Standard Class,4,4,Shipping on time,0
+77084,Standard Class,4,5,Shipping canceled,0
+77069,Second Class,2,5,Late delivery,1
+77107,Standard Class,4,3,Advance shipping,0
+77105,Standard Class,4,6,Late delivery,1
+77127,Second Class,2,3,Late delivery,1
+77087,Standard Class,4,3,Advance shipping,0
+77103,Standard Class,4,4,Shipping on time,0
+77101,Standard Class,4,2,Advance shipping,0
+77089,Standard Class,4,5,Shipping canceled,0
+77115,Standard Class,4,6,Late delivery,1
+77113,Standard Class,4,4,Shipping on time,0
+77077,Standard Class,4,3,Advance shipping,0
+77106,Standard Class,4,2,Advance shipping,0
+77082,Standard Class,4,3,Shipping canceled,0
+77117,Standard Class,4,3,Shipping canceled,0
+77094,Standard Class,4,5,Late delivery,1
+77079,First Class,1,2,Late delivery,1
+77131,First Class,1,2,Late delivery,1
+77202,Standard Class,4,3,Advance shipping,0
+77169,Standard Class,4,5,Late delivery,1
+77146,Standard Class,4,2,Advance shipping,0
+77153,Second Class,2,4,Late delivery,1
+77166,Second Class,2,2,Shipping on time,0
+77150,Standard Class,4,6,Late delivery,1
+77187,First Class,1,2,Late delivery,1
+77154,Second Class,2,5,Late delivery,1
+77204,Same Day,0,1,Late delivery,1
+77199,First Class,1,2,Late delivery,1
+77145,Standard Class,4,6,Late delivery,1
+77157,Standard Class,4,3,Advance shipping,0
+77141,Standard Class,4,2,Advance shipping,0
+77140,Standard Class,4,6,Late delivery,1
+77139,Standard Class,4,5,Late delivery,1
+77137,First Class,1,2,Late delivery,1
+77152,Second Class,2,3,Late delivery,1
+77170,Standard Class,4,6,Late delivery,1
+77156,Second Class,2,2,Shipping on time,0
+77138,Standard Class,4,4,Shipping on time,0
+77183,Standard Class,4,4,Shipping on time,0
+77147,First Class,1,2,Late delivery,1
+77158,Standard Class,4,4,Shipping on time,0
+77175,Standard Class,4,6,Late delivery,1
+77167,Second Class,2,3,Late delivery,1
+77203,Standard Class,4,4,Shipping on time,0
+77198,First Class,1,2,Late delivery,1
+77188,First Class,1,2,Late delivery,1
+77186,Standard Class,4,2,Advance shipping,0
+77165,Second Class,2,6,Late delivery,1
+77149,First Class,1,2,Late delivery,1
+77178,Second Class,2,4,Late delivery,1
+77151,Second Class,2,2,Shipping on time,0
+77168,Second Class,2,4,Late delivery,1
+77193,Standard Class,4,4,Shipping on time,0
+77173,Standard Class,4,4,Shipping on time,0
+77184,Standard Class,4,5,Shipping canceled,0
+77163,Standard Class,4,4,Shipping on time,0
+77161,Standard Class,4,2,Advance shipping,0
+77179,Standard Class,4,5,Late delivery,1
+77174,Standard Class,4,5,Late delivery,1
+77172,Standard Class,4,3,Advance shipping,0
+77181,Standard Class,4,2,Advance shipping,0
+77143,Standard Class,4,4,Shipping on time,0
+77159,Standard Class,4,5,Late delivery,1
+77176,Standard Class,4,2,Advance shipping,0
+77190,Standard Class,4,6,Late delivery,1
+77201,Standard Class,4,2,Advance shipping,0
+77196,Second Class,2,2,Shipping on time,0
+77164,Second Class,2,5,Late delivery,1
+77180,Second Class,2,6,Late delivery,1
+77194,Second Class,2,5,Late delivery,1
+77162,Standard Class,4,3,Advance shipping,0
+77155,Standard Class,4,6,Late delivery,1
+77144,Standard Class,4,5,Late delivery,1
+77191,Standard Class,4,2,Advance shipping,0
+77197,Second Class,2,3,Late delivery,1
+77189,Second Class,2,5,Late delivery,1
+77185,Standard Class,4,6,Late delivery,1
+77148,First Class,1,2,Late delivery,1
+77142,Standard Class,4,3,Advance shipping,0
+77192,Standard Class,4,3,Advance shipping,0
+77200,Standard Class,4,6,Late delivery,1
+77171,Standard Class,4,2,Advance shipping,0
+77195,First Class,1,2,Late delivery,1
+77182,Second Class,2,3,Late delivery,1
+77177,Standard Class,4,3,Shipping canceled,0
+77160,Standard Class,4,6,Late delivery,1
+75903,First Class,1,2,Late delivery,1
+75902,Same Day,0,1,Late delivery,1
+75901,Same Day,0,1,Shipping canceled,0
+75900,Same Day,0,1,Late delivery,1
+75899,Same Day,0,1,Late delivery,1
+75898,Standard Class,4,4,Shipping on time,0
+75897,Standard Class,4,3,Advance shipping,0
+75896,Standard Class,4,2,Advance shipping,0
+75895,Standard Class,4,6,Late delivery,1
+75894,Second Class,2,5,Late delivery,1
+75893,Standard Class,4,4,Shipping on time,0
+75892,Standard Class,4,3,Advance shipping,0
+75891,Standard Class,4,2,Advance shipping,0
+75890,Second Class,2,6,Late delivery,1
+75889,Standard Class,4,5,Late delivery,1
+75888,Standard Class,4,4,Shipping on time,0
+75887,Standard Class,4,3,Advance shipping,0
+75886,Standard Class,4,2,Shipping canceled,0
+75885,Second Class,2,6,Late delivery,1
+75884,Standard Class,4,5,Late delivery,1
+75883,First Class,1,2,Late delivery,1
+75882,Standard Class,4,3,Advance shipping,0
+75881,Standard Class,4,2,Advance shipping,0
+75880,Standard Class,4,6,Late delivery,1
+75879,Standard Class,4,5,Late delivery,1
+75878,Standard Class,4,4,Shipping on time,0
+75877,Standard Class,4,3,Advance shipping,0
+75876,Standard Class,4,2,Advance shipping,0
+75875,Second Class,2,6,Late delivery,1
+75874,Standard Class,4,5,Late delivery,1
+75873,Standard Class,4,4,Shipping on time,0
+75872,Standard Class,4,3,Advance shipping,0
+75871,First Class,1,2,Late delivery,1
+75870,First Class,1,2,Late delivery,1
+75869,First Class,1,2,Late delivery,1
+75868,First Class,1,2,Late delivery,1
+75867,Same Day,0,0,Shipping on time,0
+75866,Same Day,0,0,Shipping on time,0
+75865,Same Day,0,0,Shipping on time,0
+75864,Standard Class,4,5,Late delivery,1
+75863,Standard Class,4,4,Shipping on time,0
+75862,Standard Class,4,3,Advance shipping,0
+75861,Standard Class,4,2,Advance shipping,0
+75860,Standard Class,4,6,Late delivery,1
+75859,Standard Class,4,5,Shipping canceled,0
+75858,Second Class,2,4,Late delivery,1
+75857,Standard Class,4,3,Advance shipping,0
+75856,Second Class,2,2,Shipping on time,0
+75855,First Class,1,2,Late delivery,1
+75854,Second Class,2,5,Late delivery,1
+75853,Second Class,2,4,Late delivery,1
+75852,Standard Class,4,3,Advance shipping,0
+75851,Standard Class,4,2,Advance shipping,0
+75850,Standard Class,4,6,Late delivery,1
+75849,Standard Class,4,5,Late delivery,1
+75848,Second Class,2,4,Late delivery,1
+75847,Second Class,2,3,Shipping canceled,0
+75846,Standard Class,4,2,Advance shipping,0
+75845,Standard Class,4,6,Late delivery,1
+75844,Standard Class,4,5,Late delivery,1
+75843,Second Class,2,4,Late delivery,1
+75842,Standard Class,4,3,Advance shipping,0
+75841,Standard Class,4,2,Advance shipping,0
+75840,Second Class,2,6,Late delivery,1
+75839,Second Class,2,5,Late delivery,1
+75838,First Class,1,2,Late delivery,1
+75837,First Class,1,2,Late delivery,1
+75836,Second Class,2,2,Shipping on time,0
+75835,Second Class,2,6,Late delivery,1
+75553,Standard Class,4,4,Shipping on time,0
+75531,First Class,1,2,Late delivery,1
+75505,Second Class,2,6,Late delivery,1
+75501,Second Class,2,2,Shipping on time,0
+75548,First Class,1,2,Late delivery,1
+75551,First Class,1,2,Late delivery,1
+75529,First Class,1,2,Late delivery,1
+75515,Same Day,0,0,Shipping on time,0
+75533,Standard Class,4,4,Shipping on time,0
+75538,Standard Class,4,4,Shipping on time,0
+75560,First Class,1,2,Late delivery,1
+75512,Same Day,0,0,Shipping on time,0
+75494,Second Class,2,5,Late delivery,1
+75540,Standard Class,4,6,Late delivery,1
+75536,Standard Class,4,2,Advance shipping,0
+75525,Standard Class,4,6,Late delivery,1
+75526,Same Day,0,0,Shipping on time,0
+75496,Standard Class,4,2,Advance shipping,0
+75503,Standard Class,4,4,Shipping on time,0
+75556,First Class,1,2,Late delivery,1
+75511,Same Day,0,0,Shipping on time,0
+75544,Same Day,0,1,Late delivery,1
+75500,Standard Class,4,6,Late delivery,1
+75497,Standard Class,4,3,Advance shipping,0
+75541,Standard Class,4,2,Advance shipping,0
+75527,Same Day,0,1,Late delivery,1
+75546,Second Class,2,2,Shipping on time,0
+75502,Second Class,2,3,Late delivery,1
+75518,Standard Class,4,4,Shipping on time,0
+75495,Standard Class,4,6,Late delivery,1
+75547,Second Class,2,3,Late delivery,1
+75559,First Class,1,2,Late delivery,1
+75558,First Class,1,2,Late delivery,1
+75499,Second Class,2,5,Late delivery,1
+75516,Second Class,2,2,Shipping on time,0
+75506,Standard Class,4,2,Advance shipping,0
+75498,Standard Class,4,4,Shipping on time,0
+75521,Standard Class,4,2,Advance shipping,0
+75528,First Class,1,2,Late delivery,1
+75550,First Class,1,2,Late delivery,1
+75535,Standard Class,4,6,Late delivery,1
+75509,Standard Class,4,5,Late delivery,1
+75523,Standard Class,4,4,Shipping on time,0
+75539,Standard Class,4,5,Late delivery,1
+75520,Standard Class,4,6,Late delivery,1
+75532,Standard Class,4,3,Advance shipping,0
+75504,Second Class,2,5,Late delivery,1
+75513,Same Day,0,0,Shipping on time,0
+75517,Second Class,2,3,Late delivery,1
+75519,Standard Class,4,5,Late delivery,1
+75508,Standard Class,4,4,Shipping on time,0
+75542,Standard Class,4,3,Advance shipping,0
+75537,Standard Class,4,3,Advance shipping,0
+75534,Standard Class,4,5,Late delivery,1
+75507,Standard Class,4,3,Advance shipping,0
+75552,Standard Class,4,3,Advance shipping,0
+75555,Standard Class,4,6,Late delivery,1
+75524,Standard Class,4,5,Late delivery,1
+75514,Same Day,0,0,Shipping on time,0
+75554,Standard Class,4,5,Late delivery,1
+75543,Standard Class,4,4,Shipping on time,0
+75549,First Class,1,2,Late delivery,1
+75510,Standard Class,4,6,Late delivery,1
+75522,Standard Class,4,3,Advance shipping,0
+75530,First Class,1,2,Late delivery,1
+75557,First Class,1,2,Late delivery,1
+75545,Same Day,0,1,Late delivery,1
+75493,Second Class,2,4,Late delivery,1
+75169,Standard Class,4,5,Late delivery,1
+75196,Standard Class,4,2,Advance shipping,0
+75189,Standard Class,4,5,Late delivery,1
+75184,Standard Class,4,5,Late delivery,1
+75163,Standard Class,4,4,Shipping on time,0
+75152,Standard Class,4,3,Advance shipping,0
+75198,Standard Class,4,4,Shipping on time,0
+75203,First Class,1,2,Late delivery,1
+75155,First Class,1,2,Late delivery,1
+75192,Standard Class,4,3,Advance shipping,0
+75209,Standard Class,4,5,Late delivery,1
+75162,Standard Class,4,3,Advance shipping,0
+75176,Standard Class,4,2,Advance shipping,0
+75174,Standard Class,4,5,Late delivery,1
+75172,Standard Class,4,3,Advance shipping,0
+75150,Second Class,2,6,Late delivery,1
+75200,Standard Class,4,6,Late delivery,1
+75199,Standard Class,4,5,Late delivery,1
+75166,Standard Class,4,2,Advance shipping,0
+75160,Standard Class,4,6,Late delivery,1
+75175,Standard Class,4,6,Late delivery,1
+75153,First Class,1,2,Late delivery,1
+75197,Standard Class,4,3,Advance shipping,0
+75170,Standard Class,4,6,Late delivery,1
+75167,Second Class,2,3,Late delivery,1
+75201,Standard Class,4,2,Advance shipping,0
+75216,Second Class,2,2,Shipping on time,0
+75214,Second Class,2,5,Late delivery,1
+75215,First Class,1,2,Late delivery,1
+75218,Second Class,2,4,Late delivery,1
+75212,Second Class,2,3,Late delivery,1
+75188,Standard Class,4,4,Shipping on time,0
+75178,Standard Class,4,4,Shipping on time,0
+75151,Standard Class,4,2,Advance shipping,0
+75168,Standard Class,4,4,Shipping on time,0
+75185,Standard Class,4,6,Late delivery,1
+75195,Standard Class,4,6,Late delivery,1
+75194,Standard Class,4,5,Late delivery,1
+75191,Standard Class,4,2,Advance shipping,0
+75190,Standard Class,4,6,Late delivery,1
+75205,Standard Class,4,6,Late delivery,1
+75187,Standard Class,4,3,Advance shipping,0
+75183,Standard Class,4,4,Shipping on time,0
+75164,Standard Class,4,5,Late delivery,1
+75161,Standard Class,4,2,Advance shipping,0
+75177,Standard Class,4,3,Advance shipping,0
+75211,First Class,1,2,Shipping canceled,0
+75213,Second Class,2,4,Late delivery,1
+75173,Same Day,0,0,Shipping on time,0
+75208,Standard Class,4,4,Shipping on time,0
+75179,Standard Class,4,5,Late delivery,1
+75181,Standard Class,4,2,Shipping canceled,0
+75156,Standard Class,4,2,Shipping canceled,0
+75207,Standard Class,4,3,Advance shipping,0
+75157,Standard Class,4,3,Advance shipping,0
+75180,Standard Class,4,6,Late delivery,1
+75193,Standard Class,4,4,Shipping canceled,0
+75217,Second Class,2,3,Late delivery,1
+75186,Standard Class,4,2,Advance shipping,0
+75182,Standard Class,4,3,Advance shipping,0
+75165,Standard Class,4,6,Late delivery,1
+75159,Standard Class,4,5,Late delivery,1
+75171,Standard Class,4,2,Advance shipping,0
+75206,Standard Class,4,2,Advance shipping,0
+75158,Standard Class,4,4,Shipping on time,0
+75202,First Class,1,2,Late delivery,1
+75210,First Class,1,2,Late delivery,1
+75204,First Class,1,2,Late delivery,1
+75154,First Class,1,2,Late delivery,1
+75766,Standard Class,4,2,Advance shipping,0
+75765,Standard Class,4,6,Late delivery,1
+75764,Second Class,2,5,Late delivery,1
+75763,Second Class,2,4,Late delivery,1
+75762,Second Class,2,3,Late delivery,1
+75761,Second Class,2,2,Shipping on time,0
+75760,Second Class,2,6,Late delivery,1
+75759,First Class,1,2,Late delivery,1
+75758,Second Class,2,4,Late delivery,1
+75757,Standard Class,4,3,Advance shipping,0
+75756,Standard Class,4,2,Advance shipping,0
+75755,Standard Class,4,6,Late delivery,1
+75754,Second Class,2,5,Late delivery,1
+75753,Second Class,2,4,Late delivery,1
+75752,Standard Class,4,3,Advance shipping,0
+75751,Standard Class,4,2,Advance shipping,0
+75750,Standard Class,4,6,Late delivery,1
+75749,Standard Class,4,5,Shipping canceled,0
+75748,Second Class,2,4,Late delivery,1
+75747,Same Day,0,1,Late delivery,1
+75746,Standard Class,4,2,Advance shipping,0
+75745,Standard Class,4,6,Late delivery,1
+75744,Standard Class,4,5,Late delivery,1
+75743,Standard Class,4,4,Shipping on time,0
+75742,Standard Class,4,3,Shipping canceled,0
+75741,Standard Class,4,2,Advance shipping,0
+75740,Standard Class,4,6,Late delivery,1
+75739,Standard Class,4,5,Late delivery,1
+75738,Standard Class,4,4,Shipping on time,0
+75737,Standard Class,4,3,Advance shipping,0
+75736,Standard Class,4,2,Advance shipping,0
+75735,Standard Class,4,6,Late delivery,1
+75734,Second Class,2,5,Late delivery,1
+75733,Second Class,2,4,Late delivery,1
+75732,Standard Class,4,3,Advance shipping,0
+75731,Standard Class,4,2,Advance shipping,0
+75730,Second Class,2,6,Late delivery,1
+75729,Second Class,2,5,Shipping canceled,0
+75713,Second Class,2,4,Late delivery,1
+75717,Second Class,2,3,Late delivery,1
+75715,Second Class,2,6,Late delivery,1
+75704,First Class,1,2,Late delivery,1
+75716,Second Class,2,2,Shipping on time,0
+75711,Second Class,2,2,Shipping on time,0
+75710,Second Class,2,6,Late delivery,1
+75727,Second Class,2,3,Late delivery,1
+75728,Second Class,2,4,Late delivery,1
+75705,First Class,1,2,Late delivery,1
+75706,First Class,1,2,Late delivery,1
+75725,Second Class,2,6,Late delivery,1
+75714,Second Class,2,5,Late delivery,1
+75708,Standard Class,4,4,Shipping on time,0
+75718,Standard Class,4,4,Shipping on time,0
+75719,Standard Class,4,5,Late delivery,1
+75722,Same Day,0,0,Shipping on time,0
+75724,Same Day,0,0,Shipping canceled,0
+75712,Second Class,2,3,Late delivery,1
+75726,Second Class,2,2,Shipping on time,0
+75709,Second Class,2,5,Late delivery,1
+75700,Standard Class,4,6,Late delivery,1
+75707,Standard Class,4,3,Advance shipping,0
+75698,Standard Class,4,4,Shipping on time,0
+75721,Same Day,0,0,Shipping on time,0
+75699,Standard Class,4,5,Late delivery,1
+75702,First Class,1,2,Late delivery,1
+75703,First Class,1,2,Late delivery,1
+75701,Standard Class,4,2,Shipping canceled,0
+75720,Same Day,0,0,Shipping on time,0
+75723,Same Day,0,0,Shipping on time,0
+75429,First Class,1,2,Late delivery,1
+75477,First Class,1,2,Late delivery,1
+75480,Standard Class,4,6,Late delivery,1
+75441,Second Class,2,2,Shipping on time,0
+75427,First Class,1,2,Late delivery,1
+75472,First Class,1,2,Late delivery,1
+75435,Standard Class,4,6,Late delivery,1
+75490,Standard Class,4,6,Late delivery,1
+75425,Standard Class,4,6,Late delivery,1
+75466,Standard Class,4,2,Advance shipping,0
+75444,First Class,1,2,Late delivery,1
+75483,Standard Class,4,4,Shipping on time,0
+75434,Standard Class,4,5,Late delivery,1
+75451,Standard Class,4,2,Advance shipping,0
+75461,First Class,1,2,Late delivery,1
+75459,First Class,1,2,Late delivery,1
+75492,Second Class,2,3,Late delivery,1
+75424,Standard Class,4,5,Late delivery,1
+75454,Standard Class,4,5,Late delivery,1
+75491,Second Class,2,2,Shipping on time,0
+75463,First Class,1,2,Shipping canceled,0
+75465,Standard Class,4,6,Late delivery,1
+75448,Standard Class,4,4,Shipping on time,0
+75447,Standard Class,4,3,Advance shipping,0
+75433,Standard Class,4,4,Shipping on time,0
+75450,Standard Class,4,6,Late delivery,1
+75468,Standard Class,4,4,Shipping on time,0
+75445,First Class,1,2,Late delivery,1
+75487,Standard Class,4,3,Advance shipping,0
+75482,Standard Class,4,3,Advance shipping,0
+75476,Standard Class,4,2,Advance shipping,0
+75438,Standard Class,4,4,Shipping on time,0
+75474,Standard Class,4,5,Late delivery,1
+75431,First Class,1,2,Late delivery,1
+75443,Second Class,2,4,Late delivery,1
+75479,Second Class,2,5,Late delivery,1
+75453,Standard Class,4,4,Shipping on time,0
+75439,Same Day,0,0,Shipping on time,0
+75432,Standard Class,4,3,Shipping canceled,0
+75470,Standard Class,4,6,Late delivery,1
+75486,Standard Class,4,2,Advance shipping,0
+75484,Standard Class,4,5,Late delivery,1
+75426,Standard Class,4,2,Advance shipping,0
+75436,Standard Class,4,2,Advance shipping,0
+75456,Standard Class,4,2,Advance shipping,0
+75485,First Class,1,2,Late delivery,1
+75458,First Class,1,2,Late delivery,1
+75488,Standard Class,4,4,Shipping on time,0
+75449,Standard Class,4,5,Late delivery,1
+75460,First Class,1,2,Late delivery,1
+75437,Standard Class,4,3,Advance shipping,0
+75471,Standard Class,4,2,Advance shipping,0
+75469,Standard Class,4,5,Late delivery,1
+75446,First Class,1,2,Late delivery,1
+75464,First Class,1,2,Late delivery,1
+75440,Same Day,0,0,Shipping on time,0
+75430,Second Class,2,6,Shipping canceled,0
+75473,Standard Class,4,4,Shipping canceled,0
+75475,Standard Class,4,6,Late delivery,1
+75452,Standard Class,4,3,Advance shipping,0
+75455,Standard Class,4,6,Late delivery,1
+75462,First Class,1,2,Late delivery,1
+75457,First Class,1,2,Late delivery,1
+75489,Standard Class,4,5,Late delivery,1
+75481,Second Class,2,2,Shipping on time,0
+75442,First Class,1,2,Late delivery,1
+75428,Second Class,2,4,Late delivery,1
+75467,Standard Class,4,3,Advance shipping,0
+75478,First Class,1,2,Late delivery,1
+75257,Second Class,2,3,Late delivery,1
+75233,Second Class,2,4,Late delivery,1
+75246,Standard Class,4,2,Advance shipping,0
+75260,First Class,1,2,Late delivery,1
+75242,Standard Class,4,3,Advance shipping,0
+75229,Standard Class,4,5,Late delivery,1
+75221,Standard Class,4,2,Advance shipping,0
+75279,First Class,1,2,Late delivery,1
+75236,First Class,1,2,Late delivery,1
+75270,Standard Class,4,6,Late delivery,1
+75247,Standard Class,4,3,Advance shipping,0
+75256,First Class,1,2,Late delivery,1
+75273,Standard Class,4,4,Shipping on time,0
+75263,Standard Class,4,4,Shipping on time,0
+75254,Same Day,0,1,Late delivery,1
+75219,Second Class,2,5,Late delivery,1
+75245,Standard Class,4,6,Late delivery,1
+75237,Second Class,2,3,Late delivery,1
+75235,Second Class,2,6,Late delivery,1
+75277,Second Class,2,3,Late delivery,1
+75266,Second Class,2,2,Shipping on time,0
+75280,First Class,1,2,Late delivery,1
+75267,Second Class,2,3,Late delivery,1
+75269,Standard Class,4,5,Late delivery,1
+75268,Standard Class,4,4,Shipping on time,0
+75231,Standard Class,4,2,Advance shipping,0
+75230,Standard Class,4,6,Late delivery,1
+75275,Standard Class,4,6,Late delivery,1
+75226,Standard Class,4,2,Advance shipping,0
+75241,Standard Class,4,2,Advance shipping,0
+75274,Standard Class,4,5,Late delivery,1
+75222,Standard Class,4,3,Advance shipping,0
+75286,Standard Class,4,2,Advance shipping,0
+75284,Standard Class,4,5,Late delivery,1
+75265,Standard Class,4,6,Late delivery,1
+75262,Standard Class,4,3,Advance shipping,0
+75243,Standard Class,4,4,Shipping on time,0
+75281,First Class,1,2,Late delivery,1
+75238,First Class,1,2,Late delivery,1
+75239,First Class,1,2,Late delivery,1
+75234,Second Class,2,5,Late delivery,1
+75232,Second Class,2,3,Late delivery,1
+75258,Second Class,2,4,Late delivery,1
+75278,Second Class,2,4,Shipping canceled,0
+75272,Standard Class,4,3,Advance shipping,0
+75220,Standard Class,4,6,Late delivery,1
+75227,Standard Class,4,3,Advance shipping,0
+75244,Standard Class,4,5,Late delivery,1
+75271,Standard Class,4,2,Advance shipping,0
+75228,Standard Class,4,4,Shipping on time,0
+75240,Standard Class,4,6,Late delivery,1
+75248,Standard Class,4,4,Shipping on time,0
+75224,Standard Class,4,5,Late delivery,1
+75253,Same Day,0,1,Late delivery,1
+75251,Standard Class,4,2,Advance shipping,0
+75261,Standard Class,4,2,Advance shipping,0
+75285,Standard Class,4,6,Shipping canceled,0
+75250,Standard Class,4,6,Late delivery,1
+75249,Standard Class,4,5,Late delivery,1
+75264,Standard Class,4,5,Late delivery,1
+75223,Second Class,2,4,Late delivery,1
+75283,Standard Class,4,4,Shipping on time,0
+75252,Same Day,0,0,Shipping on time,0
+75282,Standard Class,4,3,Advance shipping,0
+75225,Standard Class,4,6,Late delivery,1
+75259,First Class,1,2,Late delivery,1
+75276,Standard Class,4,2,Advance shipping,0
+75255,First Class,1,2,Late delivery,1
+75653,Standard Class,4,4,Shipping on time,0
+75637,Second Class,2,3,Late delivery,1
+75686,Same Day,0,1,Late delivery,1
+75634,Second Class,2,5,Late delivery,1
+75645,First Class,1,2,Late delivery,1
+75685,Same Day,0,1,Late delivery,1
+75671,Standard Class,4,2,Advance shipping,0
+75668,Standard Class,4,4,Shipping on time,0
+75684,Standard Class,4,5,Late delivery,1
+75679,Standard Class,4,5,Late delivery,1
+75692,First Class,1,2,Late delivery,1
+75646,First Class,1,2,Late delivery,1
+75690,Same Day,0,1,Late delivery,1
+75647,Second Class,2,3,Late delivery,1
+75660,Standard Class,4,6,Late delivery,1
+75657,Standard Class,4,3,Advance shipping,0
+75630,Standard Class,4,6,Late delivery,1
+75662,Second Class,2,3,Late delivery,1
+75636,Second Class,2,2,Shipping on time,0
+75664,Second Class,2,5,Late delivery,1
+75688,Same Day,0,1,Late delivery,1
+75648,Second Class,2,4,Late delivery,1
+75631,Standard Class,4,2,Advance shipping,0
+75644,First Class,1,2,Late delivery,1
+75666,First Class,1,2,Late delivery,1
+75682,Standard Class,4,3,Advance shipping,0
+75694,Standard Class,4,5,Late delivery,1
+75687,Same Day,0,1,Late delivery,1
+75642,Second Class,2,3,Late delivery,1
+75641,Second Class,2,2,Shipping on time,0
+75689,Same Day,0,1,Late delivery,1
+75633,Second Class,2,4,Late delivery,1
+75667,Second Class,2,3,Late delivery,1
+75638,Second Class,2,4,Late delivery,1
+75639,Second Class,2,5,Late delivery,1
+75654,Second Class,2,5,Late delivery,1
+75677,Standard Class,4,3,Advance shipping,0
+75693,Standard Class,4,4,Shipping on time,0
+75673,Standard Class,4,4,Shipping on time,0
+75697,Standard Class,4,3,Advance shipping,0
+75691,First Class,1,2,Late delivery,1
+75661,Standard Class,4,2,Advance shipping,0
+75676,Standard Class,4,2,Advance shipping,0
+75652,Standard Class,4,3,Advance shipping,0
+75651,Standard Class,4,2,Advance shipping,0
+75675,Standard Class,4,6,Late delivery,1
+75672,Standard Class,4,3,Advance shipping,0
+75640,Second Class,2,6,Shipping canceled,0
+75695,Standard Class,4,6,Late delivery,1
+75635,Second Class,2,6,Late delivery,1
+75665,Second Class,2,6,Late delivery,1
+75656,Standard Class,4,2,Advance shipping,0
+75632,Standard Class,4,3,Shipping canceled,0
+75680,Standard Class,4,6,Late delivery,1
+75670,Standard Class,4,6,Late delivery,1
+75669,Standard Class,4,5,Late delivery,1
+75683,Standard Class,4,4,Shipping on time,0
+75658,Standard Class,4,4,Shipping on time,0
+75678,Standard Class,4,4,Shipping on time,0
+75674,Standard Class,4,5,Late delivery,1
+75681,Standard Class,4,2,Advance shipping,0
+75655,Standard Class,4,6,Late delivery,1
+75649,Second Class,2,5,Late delivery,1
+75696,Standard Class,4,2,Advance shipping,0
+75643,Second Class,2,4,Late delivery,1
+75659,Second Class,2,5,Late delivery,1
+75650,Standard Class,4,6,Late delivery,1
+75663,First Class,1,2,Late delivery,1
+75328,Second Class,2,4,Late delivery,1
+75349,First Class,1,2,Late delivery,1
+75318,First Class,1,2,Late delivery,1
+75290,Same Day,0,0,Shipping on time,0
+75314,First Class,1,2,Late delivery,1
+75350,First Class,1,2,Late delivery,1
+75339,First Class,1,2,Late delivery,1
+75351,First Class,1,2,Late delivery,1
+75292,Same Day,0,0,Shipping on time,0
+75287,Standard Class,4,3,Advance shipping,0
+75296,Standard Class,4,2,Advance shipping,0
+75320,Standard Class,4,6,Late delivery,1
+75342,Standard Class,4,3,Advance shipping,0
+75325,Standard Class,4,6,Late delivery,1
+75299,First Class,1,2,Late delivery,1
+75337,First Class,1,2,Late delivery,1
+75338,First Class,1,2,Late delivery,1
+75313,First Class,1,2,Late delivery,1
+75289,Standard Class,4,5,Late delivery,1
+75321,Standard Class,4,2,Advance shipping,0
+75304,Standard Class,4,5,Late delivery,1
+75302,First Class,1,2,Late delivery,1
+75301,First Class,1,2,Late delivery,1
+75329,First Class,1,2,Late delivery,1
+75353,First Class,1,2,Late delivery,1
+75295,First Class,1,2,Late delivery,1
+75324,Standard Class,4,5,Late delivery,1
+75346,Standard Class,4,2,Advance shipping,0
+75332,First Class,1,2,Late delivery,1
+75303,First Class,1,2,Late delivery,1
+75316,First Class,1,2,Late delivery,1
+75312,Same Day,0,0,Shipping on time,0
+75327,Standard Class,4,3,Advance shipping,0
+75340,Standard Class,4,6,Late delivery,1
+75343,Standard Class,4,4,Shipping on time,0
+75326,Standard Class,4,2,Advance shipping,0
+75315,First Class,1,2,Late delivery,1
+75298,First Class,1,2,Shipping canceled,0
+75305,Standard Class,4,6,Late delivery,1
+75341,Standard Class,4,2,Advance shipping,0
+75288,Standard Class,4,4,Shipping on time,0
+75317,First Class,1,2,Late delivery,1
+75333,First Class,1,2,Late delivery,1
+75309,Same Day,0,0,Shipping on time,0
+75348,Second Class,2,4,Late delivery,1
+75335,First Class,1,2,Late delivery,1
+75355,First Class,1,2,Late delivery,1
+75319,First Class,1,2,Late delivery,1
+75297,Second Class,2,3,Late delivery,1
+75330,Second Class,2,6,Late delivery,1
+75347,Second Class,2,3,Late delivery,1
+75323,Standard Class,4,4,Shipping on time,0
+75345,Standard Class,4,6,Late delivery,1
+75311,Same Day,0,0,Shipping on time,0
+75336,First Class,1,2,Late delivery,1
+75352,First Class,1,2,Late delivery,1
+75300,First Class,1,2,Late delivery,1
+75331,First Class,1,2,Late delivery,1
+75291,Same Day,0,0,Shipping on time,0
+75307,Same Day,0,0,Shipping on time,0
+75322,Standard Class,4,3,Advance shipping,0
+75344,Standard Class,4,5,Late delivery,1
+75334,Standard Class,4,5,Late delivery,1
+75306,Standard Class,4,2,Advance shipping,0
+75310,Same Day,0,0,Shipping on time,0
+75308,Same Day,0,0,Shipping canceled,0
+75354,First Class,1,2,Late delivery,1
+75293,Same Day,0,0,Shipping on time,0
+75294,Same Day,0,0,Shipping on time,0
+75624,Standard Class,4,5,Late delivery,1
+75612,First Class,1,2,Late delivery,1
+75575,Standard Class,4,6,Late delivery,1
+75585,Standard Class,4,6,Late delivery,1
+75566,Standard Class,4,2,Advance shipping,0
+75628,Standard Class,4,4,Shipping on time,0
+75623,Standard Class,4,4,Shipping on time,0
+75621,Standard Class,4,2,Advance shipping,0
+75577,Standard Class,4,3,Advance shipping,0
+75592,Standard Class,4,3,Advance shipping,0
+75573,Standard Class,4,4,Shipping on time,0
+75586,First Class,1,2,Late delivery,1
+75599,Second Class,2,5,Late delivery,1
