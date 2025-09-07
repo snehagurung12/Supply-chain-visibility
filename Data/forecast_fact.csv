@@ -1,0 +1,16 @@
+Series,Product,Date,Demand,Type
+Desk Lamp,Desk Lamp,2024-03-01,34.0,Actual
+Desk Lamp,Desk Lamp,2024-04-01,51.0,Actual
+Desk Lamp,Desk Lamp,2024-05-01,47.2125,Forecast
+Desk Lamp,Desk Lamp,2024-06-01,47.2125,Forecast
+Desk Lamp,Desk Lamp,2024-07-01,47.2125,Forecast
+File Cabinet,File Cabinet,2024-04-01,59.0,Actual
+File Cabinet,File Cabinet,2024-05-01,53.42875,Forecast
+File Cabinet,File Cabinet,2024-06-01,53.42875,Forecast
+File Cabinet,File Cabinet,2024-07-01,53.42875,Forecast
+Headphones,Headphones,2024-03-01,68.0,Actual
+Headphones,Headphones,2024-04-01,54.5,Actual
+Headphones,Headphones,2024-05-01,59.0,Actual
+Headphones,Headphones,2024-06-01,60.5,Forecast
+Headphones,Headphones,2024-07-01,60.5,Forecast
+Headphones,Headphones,2024-08-01,60.5,Forecast
