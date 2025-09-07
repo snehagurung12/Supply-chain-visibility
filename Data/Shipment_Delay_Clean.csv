@@ -1,0 +1,2000 @@
+Order_Id,Supplier_Name,Supplier_Country,Product_Name,Order_Item_Quantity,Expected_Delivery_Date,Actual_Delivery_Date,Days_Delayed
+75834,BrewMaster,Italy,Coffee Maker,1,03-01-2025,06-01-2025,3
+75833,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75832,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75831,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75830,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75829,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75828,BrewMaster,Italy,Coffee Maker,1,05-01-2025,05-01-2025,0
+75827,BrewMaster,Italy,Coffee Maker,1,05-01-2025,04-01-2025,-1
+75826,BrewMaster,Italy,Coffee Maker,1,05-01-2025,03-01-2025,-2
+75825,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75824,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75823,BrewMaster,Italy,Coffee Maker,1,05-01-2025,05-01-2025,0
+75822,BrewMaster,Italy,Coffee Maker,1,05-01-2025,04-01-2025,-1
+75821,BrewMaster,Italy,Coffee Maker,1,05-01-2025,03-01-2025,-2
+75820,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75819,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75818,BrewMaster,Italy,Coffee Maker,1,05-01-2025,05-01-2025,0
+75817,BrewMaster,Italy,Coffee Maker,1,05-01-2025,04-01-2025,-1
+75816,BrewMaster,Italy,Coffee Maker,1,05-01-2025,03-01-2025,-2
+75815,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75814,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75813,BrewMaster,Italy,Coffee Maker,1,03-01-2025,05-01-2025,2
+75812,BrewMaster,Italy,Coffee Maker,1,03-01-2025,04-01-2025,1
+75811,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75810,BrewMaster,Italy,Coffee Maker,1,03-01-2025,07-01-2025,4
+75809,BrewMaster,Italy,Coffee Maker,1,03-01-2025,06-01-2025,3
+75808,BrewMaster,Italy,Coffee Maker,1,03-01-2025,05-01-2025,2
+75807,BrewMaster,Italy,Coffee Maker,1,01-01-2025,02-01-2025,1
+75806,BrewMaster,Italy,Coffee Maker,1,01-01-2025,02-01-2025,1
+75805,BrewMaster,Italy,Coffee Maker,1,01-01-2025,02-01-2025,1
+75804,BrewMaster,Italy,Coffee Maker,1,01-01-2025,02-01-2025,1
+75803,BrewMaster,Italy,Coffee Maker,1,01-01-2025,02-01-2025,1
+75802,BrewMaster,Italy,Coffee Maker,1,01-01-2025,02-01-2025,1
+75801,BrewMaster,Italy,Coffee Maker,1,01-01-2025,02-01-2025,1
+75800,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75799,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75798,BrewMaster,Italy,Coffee Maker,1,05-01-2025,05-01-2025,0
+75797,BrewMaster,Italy,Coffee Maker,1,05-01-2025,04-01-2025,-1
+75796,BrewMaster,Italy,Coffee Maker,1,03-01-2025,03-01-2025,0
+75795,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75794,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75793,BrewMaster,Italy,Coffee Maker,1,05-01-2025,05-01-2025,0
+75792,BrewMaster,Italy,Coffee Maker,1,05-01-2025,04-01-2025,-1
+75791,BrewMaster,Italy,Coffee Maker,1,03-01-2025,03-01-2025,0
+75790,BrewMaster,Italy,Coffee Maker,1,03-01-2025,07-01-2025,4
+75789,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75788,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75787,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75786,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75785,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75784,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75783,BrewMaster,Italy,Coffee Maker,1,05-01-2025,05-01-2025,0
+75782,BrewMaster,Italy,Coffee Maker,1,05-01-2025,04-01-2025,-1
+75781,BrewMaster,Italy,Coffee Maker,1,05-01-2025,03-01-2025,-2
+75780,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75779,BrewMaster,Italy,Coffee Maker,1,03-01-2025,06-01-2025,3
+75778,BrewMaster,Italy,Coffee Maker,1,03-01-2025,05-01-2025,2
+75777,BrewMaster,Italy,Coffee Maker,1,03-01-2025,04-01-2025,1
+75776,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75775,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75774,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75773,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75772,BrewMaster,Italy,Coffee Maker,1,02-01-2025,03-01-2025,1
+75771,BrewMaster,Italy,Coffee Maker,1,01-01-2025,01-01-2025,0
+75770,BrewMaster,Italy,Coffee Maker,1,05-01-2025,07-01-2025,2
+75769,BrewMaster,Italy,Coffee Maker,1,05-01-2025,06-01-2025,1
+75768,BrewMaster,Italy,Coffee Maker,1,05-01-2025,05-01-2025,0
+75767,BrewMaster,Italy,Coffee Maker,1,05-01-2025,04-01-2025,-1
+75106,GermanWorks,Germany,Computer Desk,1,05-01-2025,03-01-2025,-2
+75116,GermanWorks,Germany,Computer Desk,1,05-01-2025,03-01-2025,-2
+75144,GermanWorks,Germany,Computer Desk,1,03-01-2025,06-01-2025,3
+75131,GermanWorks,Germany,Computer Desk,1,03-01-2025,03-01-2025,0
+75149,GermanWorks,Germany,Computer Desk,1,03-01-2025,06-01-2025,3
+75122,GermanWorks,Germany,Computer Desk,1,05-01-2025,04-01-2025,-1
+75098,GermanWorks,Germany,Computer Desk,1,03-01-2025,05-01-2025,2
+75123,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75104,GermanWorks,Germany,Computer Desk,1,05-01-2025,06-01-2025,1
+75095,GermanWorks,Germany,Computer Desk,1,05-01-2025,07-01-2025,2
+75112,GermanWorks,Germany,Computer Desk,1,05-01-2025,04-01-2025,-1
+75124,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75083,Nordic Craft,Sweden ,Office Chair,1,02-01-2025,03-01-2025,1
+75085,Nordic Craft,Sweden ,Office Chair,1,02-01-2025,03-01-2025,1
+75088,Nordic Craft,Sweden ,Office Chair,1,02-01-2025,03-01-2025,1
+75136,GermanWorks,Germany,Computer Desk,1,01-01-2025,02-01-2025,1
+75094,GermanWorks,Germany,Computer Desk,1,05-01-2025,06-01-2025,1
+75143,GermanWorks,Germany,Computer Desk,1,03-01-2025,05-01-2025,2
+75119,GermanWorks,Germany,Computer Desk,1,05-01-2025,06-01-2025,1
+75134,GermanWorks,Germany,Computer Desk,1,05-01-2025,06-01-2025,1
+75107,GermanWorks,Germany,Computer Desk,1,05-01-2025,04-01-2025,-1
+75086,Nordic Craft,Sweden ,Office Chair,1,02-01-2025,03-01-2025,1
+75120,GermanWorks,Germany,Computer Desk,1,05-01-2025,07-01-2025,2
+75135,GermanWorks,Germany,Computer Desk,1,05-01-2025,07-01-2025,2
+75145,GermanWorks,Germany,Computer Desk,1,03-01-2025,07-01-2025,4
+75096,GermanWorks,Germany,Computer Desk,1,05-01-2025,03-01-2025,-2
+75146,GermanWorks,Germany,Computer Desk,1,03-01-2025,03-01-2025,0
+75139,GermanWorks,Germany,Computer Desk,1,03-01-2025,06-01-2025,3
+75118,GermanWorks,Germany,Computer Desk,1,05-01-2025,05-01-2025,0
+75132,GermanWorks,Germany,Computer Desk,1,05-01-2025,04-01-2025,-1
+75121,GermanWorks,Germany,Computer Desk,1,05-01-2025,03-01-2025,-2
+75084,Nordic Craft,Sweden ,Office Chair,1,02-01-2025,03-01-2025,1
+75133,GermanWorks,Germany,Computer Desk,1,05-01-2025,05-01-2025,0
+75100,GermanWorks,Germany,Computer Desk,1,03-01-2025,07-01-2025,4
+75099,GermanWorks,Germany,Computer Desk,1,03-01-2025,06-01-2025,3
+75097,GermanWorks,Germany,Computer Desk,1,03-01-2025,04-01-2025,1
+75130,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75092,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75089,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75087,Nordic Craft,Sweden ,Office Chair,1,02-01-2025,03-01-2025,1
+75148,GermanWorks,Germany,Computer Desk,1,03-01-2025,05-01-2025,2
+75093,GermanWorks,Germany,Computer Desk,1,03-01-2025,05-01-2025,2
+75090,GermanWorks,Germany,Computer Desk,1,03-01-2025,07-01-2025,4
+75141,GermanWorks,Germany,Computer Desk,1,03-01-2025,03-01-2025,0
+75117,GermanWorks,Germany,Computer Desk,1,05-01-2025,04-01-2025,-1
+75140,GermanWorks,Germany,Computer Desk,1,03-01-2025,07-01-2025,4
+75138,GermanWorks,Germany,Computer Desk,1,03-01-2025,05-01-2025,2
+75110,GermanWorks,Germany,Computer Desk,1,05-01-2025,07-01-2025,2
+75125,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75102,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75109,GermanWorks,Germany,Computer Desk,1,05-01-2025,06-01-2025,1
+75082,Nordic Craft,Sweden ,Office Chair,1,02-01-2025,03-01-2025,1
+75147,GermanWorks,Germany,Computer Desk,1,03-01-2025,04-01-2025,1
+75113,GermanWorks,Germany,Computer Desk,1,05-01-2025,05-01-2025,0
+75111,GermanWorks,Germany,Computer Desk,1,05-01-2025,03-01-2025,-2
+75115,GermanWorks,Germany,Computer Desk,1,05-01-2025,07-01-2025,2
+75108,GermanWorks,Germany,Computer Desk,1,05-01-2025,05-01-2025,0
+75114,GermanWorks,Germany,Computer Desk,1,05-01-2025,06-01-2025,1
+75126,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75137,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75105,GermanWorks,Germany,Computer Desk,1,05-01-2025,07-01-2025,2
+75127,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75103,GermanWorks,Germany,Computer Desk,1,03-01-2025,05-01-2025,2
+75101,GermanWorks,Germany,Computer Desk,1,03-01-2025,03-01-2025,0
+75128,GermanWorks,Germany,Computer Desk,1,03-01-2025,05-01-2025,2
+75142,GermanWorks,Germany,Computer Desk,1,03-01-2025,04-01-2025,1
+75129,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75091,GermanWorks,Germany,Computer Desk,1,02-01-2025,03-01-2025,1
+75939,BrewMaster,Italy,Coffee Maker,1,17-01-2025,18-01-2025,1
+75938,BrewMaster,Italy,Coffee Maker,1,17-01-2025,17-01-2025,0
+75937,BrewMaster,Italy,Coffee Maker,1,17-01-2025,16-01-2025,-1
+75936,BrewMaster,Italy,Coffee Maker,1,17-01-2025,15-01-2025,-2
+75935,BrewMaster,Italy,Coffee Maker,1,17-01-2025,19-01-2025,2
+75934,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75933,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75932,BrewMaster,Italy,Coffee Maker,1,15-01-2025,16-01-2025,1
+75931,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75930,BrewMaster,Italy,Coffee Maker,1,15-01-2025,19-01-2025,4
+75929,BrewMaster,Italy,Coffee Maker,1,15-01-2025,18-01-2025,3
+75928,BrewMaster,Italy,Coffee Maker,1,15-01-2025,17-01-2025,2
+75927,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75926,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75925,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75924,BrewMaster,Italy,Coffee Maker,1,15-01-2025,18-01-2025,3
+75923,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75922,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75921,BrewMaster,Italy,Coffee Maker,1,13-01-2025,13-01-2025,0
+75920,BrewMaster,Italy,Coffee Maker,1,13-01-2025,13-01-2025,0
+75919,BrewMaster,Italy,Coffee Maker,1,17-01-2025,18-01-2025,1
+75918,BrewMaster,Italy,Coffee Maker,1,15-01-2025,17-01-2025,2
+75917,BrewMaster,Italy,Coffee Maker,1,15-01-2025,16-01-2025,1
+75916,BrewMaster,Italy,Coffee Maker,1,15-01-2025,15-01-2025,0
+75915,BrewMaster,Italy,Coffee Maker,1,15-01-2025,19-01-2025,4
+75914,BrewMaster,Italy,Coffee Maker,1,15-01-2025,18-01-2025,3
+75913,BrewMaster,Italy,Coffee Maker,1,17-01-2025,17-01-2025,0
+75912,BrewMaster,Italy,Coffee Maker,1,17-01-2025,16-01-2025,-1
+75911,BrewMaster,Italy,Coffee Maker,1,17-01-2025,15-01-2025,-2
+75910,BrewMaster,Italy,Coffee Maker,1,17-01-2025,19-01-2025,2
+75909,BrewMaster,Italy,Coffee Maker,1,17-01-2025,18-01-2025,1
+75908,BrewMaster,Italy,Coffee Maker,1,17-01-2025,17-01-2025,0
+75907,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75906,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75905,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75904,BrewMaster,Italy,Coffee Maker,1,14-01-2025,15-01-2025,1
+75971,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,15-01-2025,-2
+75970,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+75969,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+75968,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,17-01-2025,0
+75967,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,16-01-2025,-1
+75966,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,15-01-2025,-2
+75965,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75964,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75963,ConnectPlus,Taiwan,Smart Plug,1,13-01-2025,14-01-2025,1
+75962,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,16-01-2025,-1
+75961,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,15-01-2025,-2
+75960,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+75959,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+75958,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,17-01-2025,0
+75957,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75956,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,15-01-2025,0
+75955,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,19-01-2025,4
+75954,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+75953,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75952,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75951,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75950,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75949,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,18-01-2025,3
+75948,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75947,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75946,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,15-01-2025,1
+75945,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+75944,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+75943,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,17-01-2025,0
+75942,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,16-01-2025,-1
+75941,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,15-01-2025,-2
+75940,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+76040,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+76039,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76038,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,18-01-2025,2
+76037,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+76036,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76035,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+76034,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+76033,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+76032,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+76031,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,16-01-2025,-2
+76030,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+76029,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,19-01-2025,3
+76028,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+76027,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+76026,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76025,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,20-01-2025,4
+76024,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76023,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,18-01-2025,2
+76022,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+76021,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76020,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+76019,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76018,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+76017,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+76016,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,16-01-2025,-2
+76015,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+76014,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76013,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+76012,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+76011,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,16-01-2025,-2
+76010,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+76009,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76008,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,18-01-2025,2
+76007,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76006,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,16-01-2025,-2
+76005,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+76004,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76003,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+76002,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76001,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76000,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,20-01-2025,4
+75999,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,14-01-2025,0
+75998,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,14-01-2025,0
+75997,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,14-01-2025,0
+75996,ConnectPlus,Taiwan,Smart Plug,1,14-01-2025,14-01-2025,0
+75995,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+75994,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+75993,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+75992,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+75991,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,16-01-2025,-2
+75990,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+75989,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+75988,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+75987,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+75986,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+75985,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75984,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75983,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75982,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+75981,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75980,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75979,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+75978,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+75977,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+75976,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,16-01-2025,-2
+75975,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+75974,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+75973,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+75972,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,17-01-2025,-1
+76108,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76107,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76106,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76105,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,21-01-2025,4
+76104,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,20-01-2025,3
+76103,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+76102,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76101,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76100,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76099,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76098,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76097,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76096,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76095,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,21-01-2025,4
+76094,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,20-01-2025,3
+76093,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+76092,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76091,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76090,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76089,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76088,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76087,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76086,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76085,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76084,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76083,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+76082,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76081,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76080,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,21-01-2025,4
+76079,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,20-01-2025,3
+76078,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+76077,ConnectPlus,Taiwan,Smart Plug,1,15-01-2025,16-01-2025,1
+76076,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76075,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76074,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76073,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76072,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76071,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76070,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76069,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76068,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76067,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76066,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76065,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76064,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76063,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76062,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76061,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76060,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76059,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76058,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76057,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76056,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76055,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76054,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76053,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,19-01-2025,2
+76052,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+76051,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76050,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76049,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76048,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76047,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76046,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76045,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76044,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76043,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76042,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,18-01-2025,-1
+76041,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,17-01-2025,-2
+76177,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76176,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76175,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76174,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+76173,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+76172,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+76171,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+76170,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+76169,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76168,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76167,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76166,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76165,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76164,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76163,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76162,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76161,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76160,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76159,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76158,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76157,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76156,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76155,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76154,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76153,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76152,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76151,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76150,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76149,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,17-01-2025,1
+76148,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76147,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76146,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76145,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76144,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76143,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76142,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76141,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76140,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76139,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76138,ConnectPlus,Taiwan,Smart Plug,1,17-01-2025,18-01-2025,1
+76137,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76136,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76135,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76134,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76133,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76132,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76131,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76130,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,22-01-2025,4
+76129,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76128,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76127,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76126,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,18-01-2025,0
+76125,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,22-01-2025,4
+76124,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76123,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,20-01-2025,2
+76122,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76121,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76120,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76119,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76118,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76117,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76116,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76115,ConnectPlus,Taiwan,Smart Plug,1,16-01-2025,16-01-2025,0
+76114,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76113,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,20-01-2025,0
+76112,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,19-01-2025,-1
+76111,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,18-01-2025,-2
+76110,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,22-01-2025,2
+76109,ConnectPlus,Taiwan,Smart Plug,1,20-01-2025,21-01-2025,1
+76218,ComfortCraft,Poland,Armchair,1,18-01-2025,19-01-2025,1
+76229,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76227,ComfortCraft,Poland,Armchair,1,21-01-2025,20-01-2025,-1
+76231,ComfortCraft,Poland,Armchair,1,21-01-2025,19-01-2025,-2
+76238,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76236,ComfortCraft,Poland,Armchair,1,21-01-2025,19-01-2025,-2
+76230,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76237,ComfortCraft,Poland,Armchair,1,21-01-2025,20-01-2025,-1
+76245,ComfortCraft,Poland,Armchair,1,19-01-2025,23-01-2025,4
+76239,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76240,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76234,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76215,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76243,ComfortCraft,Poland,Armchair,1,19-01-2025,21-01-2025,2
+76214,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,22-01-2025,3
+76213,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,21-01-2025,0
+76212,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,20-01-2025,-1
+76211,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,19-01-2025,-2
+76210,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,23-01-2025,2
+76209,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,22-01-2025,1
+76208,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,21-01-2025,0
+76207,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,20-01-2025,-1
+76206,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76205,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,23-01-2025,2
+76204,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,22-01-2025,1
+76203,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,21-01-2025,0
+76202,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,20-01-2025,-1
+76201,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,19-01-2025,-2
+76200,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,23-01-2025,2
+76199,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,22-01-2025,1
+76198,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,21-01-2025,0
+76197,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,20-01-2025,-1
+76196,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76195,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,23-01-2025,4
+76194,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76193,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76192,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,20-01-2025,1
+76191,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,19-01-2025,0
+76190,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,23-01-2025,2
+76189,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,22-01-2025,1
+76188,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76187,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76186,ConnectPlus,Taiwan,Smart Plug,1,18-01-2025,19-01-2025,1
+76185,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,23-01-2025,4
+76184,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,22-01-2025,3
+76183,ConnectPlus,Taiwan,Smart Plug,1,19-01-2025,21-01-2025,2
+76182,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,20-01-2025,-1
+76181,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,19-01-2025,-2
+76180,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,23-01-2025,2
+76179,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,22-01-2025,1
+76178,ConnectPlus,Taiwan,Smart Plug,1,21-01-2025,21-01-2025,0
+76221,ComfortCraft,Poland,Armchair,1,19-01-2025,19-01-2025,0
+76244,ComfortCraft,Poland,Armchair,1,19-01-2025,22-01-2025,3
+76232,ComfortCraft,Poland,Armchair,1,21-01-2025,20-01-2025,-1
+76233,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76217,ComfortCraft,Poland,Armchair,1,21-01-2025,20-01-2025,-1
+76241,ComfortCraft,Poland,Armchair,1,21-01-2025,19-01-2025,-2
+76235,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76228,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76226,ComfortCraft,Poland,Armchair,1,21-01-2025,19-01-2025,-2
+76219,ComfortCraft,Poland,Armchair,1,18-01-2025,19-01-2025,1
+76225,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76222,ComfortCraft,Poland,Armchair,1,19-01-2025,20-01-2025,1
+76224,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76242,ComfortCraft,Poland,Armchair,1,21-01-2025,20-01-2025,-1
+76216,ComfortCraft,Poland,Armchair,1,21-01-2025,19-01-2025,-2
+76223,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76220,ComfortCraft,Poland,Armchair,1,19-01-2025,23-01-2025,4
+76263,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76260,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76302,ComfortCraft,Poland,Armchair,1,22-01-2025,21-01-2025,-1
+76258,ComfortCraft,Poland,Armchair,1,20-01-2025,22-01-2025,2
+76246,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76278,ComfortCraft,Poland,Armchair,1,20-01-2025,22-01-2025,2
+76267,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76308,ComfortCraft,Poland,Armchair,1,20-01-2025,22-01-2025,2
+76265,ComfortCraft,Poland,Armchair,1,20-01-2025,24-01-2025,4
+76257,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76311,ComfortCraft,Poland,Armchair,1,19-01-2025,20-01-2025,1
+76256,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76254,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76271,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76288,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76277,ComfortCraft,Poland,Armchair,1,22-01-2025,21-01-2025,-1
+76300,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76312,ComfortCraft,Poland,Armchair,1,19-01-2025,20-01-2025,1
+76282,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76286,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76304,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76273,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76255,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76298,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76314,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76309,ComfortCraft,Poland,Armchair,1,20-01-2025,23-01-2025,3
+76276,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76253,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76259,ComfortCraft,Poland,Armchair,1,20-01-2025,23-01-2025,3
+76306,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76305,ComfortCraft,Poland,Armchair,1,20-01-2025,24-01-2025,4
+76247,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76310,ComfortCraft,Poland,Armchair,1,20-01-2025,24-01-2025,4
+76290,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76261,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76301,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76272,ComfortCraft,Poland,Armchair,1,22-01-2025,21-01-2025,-1
+76252,ComfortCraft,Poland,Armchair,1,19-01-2025,20-01-2025,1
+76270,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76299,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76248,ComfortCraft,Poland,Armchair,1,20-01-2025,22-01-2025,2
+76251,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76313,ComfortCraft,Poland,Armchair,1,20-01-2025,22-01-2025,2
+76262,ComfortCraft,Poland,Armchair,1,22-01-2025,21-01-2025,-1
+76289,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76269,ComfortCraft,Poland,Armchair,1,20-01-2025,23-01-2025,3
+76279,ComfortCraft,Poland,Armchair,1,20-01-2025,23-01-2025,3
+76291,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76296,ComfortCraft,Poland,Armchair,1,22-01-2025,20-01-2025,-2
+76249,ComfortCraft,Poland,Armchair,1,20-01-2025,23-01-2025,3
+76292,ComfortCraft,Poland,Armchair,1,22-01-2025,21-01-2025,-1
+76287,ComfortCraft,Poland,Armchair,1,22-01-2025,21-01-2025,-1
+76294,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76274,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76280,ComfortCraft,Poland,Armchair,1,20-01-2025,24-01-2025,4
+76281,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76275,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76264,ComfortCraft,Poland,Armchair,1,19-01-2025,20-01-2025,1
+76266,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76307,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76268,ComfortCraft,Poland,Armchair,1,20-01-2025,22-01-2025,2
+76285,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76303,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76250,ComfortCraft,Poland,Armchair,1,20-01-2025,24-01-2025,4
+76284,ComfortCraft,Poland,Armchair,1,20-01-2025,23-01-2025,3
+76297,ComfortCraft,Poland,Armchair,1,22-01-2025,21-01-2025,-1
+76293,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76295,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76283,ComfortCraft,Poland,Armchair,1,20-01-2025,22-01-2025,2
+76382,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76369,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76362,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76353,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76350,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76327,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76321,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76375,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76322,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76349,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76348,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76324,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76346,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76365,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76378,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76328,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76380,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76376,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76361,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76374,ComfortCraft,Poland,Armchair,1,21-01-2025,24-01-2025,3
+76368,ComfortCraft,Poland,Armchair,1,21-01-2025,23-01-2025,2
+76366,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76344,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76342,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76340,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76355,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76381,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76379,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76364,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76326,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76377,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76323,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76339,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76333,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76331,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76338,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76347,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76367,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76345,ComfortCraft,Poland,Armchair,1,21-01-2025,25-01-2025,4
+76373,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76363,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76329,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76358,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76371,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76317,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76315,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76351,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76343,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76325,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76341,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76334,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76356,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76332,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76357,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76319,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76318,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76316,ComfortCraft,Poland,Armchair,1,23-01-2025,21-01-2025,-2
+76370,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76354,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76352,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76330,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76359,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76336,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76335,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76372,ComfortCraft,Poland,Armchair,1,23-01-2025,22-01-2025,-1
+76320,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76360,ComfortCraft,Poland,Armchair,1,19-01-2025,20-01-2025,1
+76337,ComfortCraft,Poland,Armchair,1,19-01-2025,19-01-2025,0
+76394,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76402,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76424,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76386,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76395,ComfortCraft,Poland,Armchair,1,22-01-2025,26-01-2025,4
+76448,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76440,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76436,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76433,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76431,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76411,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76401,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76443,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76413,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76446,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76426,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76383,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76419,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76387,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76434,ComfortCraft,Poland,Armchair,1,22-01-2025,25-01-2025,3
+76405,ComfortCraft,Poland,Armchair,1,22-01-2025,26-01-2025,4
+76399,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76417,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76439,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76404,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76414,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76400,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76445,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76447,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76432,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76391,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76412,ComfortCraft,Poland,Armchair,1,24-01-2025,23-01-2025,-1
+76398,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76437,ComfortCraft,Poland,Armchair,1,24-01-2025,23-01-2025,-1
+76393,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76427,ComfortCraft,Poland,Armchair,1,24-01-2025,23-01-2025,-1
+76390,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76435,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76430,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76425,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76388,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76385,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76406,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76441,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76416,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76396,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76410,ComfortCraft,Poland,Armchair,1,22-01-2025,26-01-2025,4
+76408,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76418,ComfortCraft,Poland,Armchair,1,22-01-2025,24-01-2025,2
+76449,ComfortCraft,Poland,Armchair,1,22-01-2025,25-01-2025,3
+76438,ComfortCraft,Poland,Armchair,1,20-01-2025,21-01-2025,1
+76415,ComfortCraft,Poland,Armchair,1,20-01-2025,20-01-2025,0
+76409,ComfortCraft,Poland,Armchair,1,22-01-2025,25-01-2025,3
+76389,ComfortCraft,Poland,Armchair,1,22-01-2025,25-01-2025,3
+76444,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76384,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76428,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76421,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76451,ComfortCraft,Poland,Armchair,1,24-01-2025,22-01-2025,-2
+76403,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76397,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76407,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76392,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76420,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76450,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76429,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76423,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76422,ComfortCraft,Poland,Armchair,1,24-01-2025,23-01-2025,-1
+76442,ComfortCraft,Poland,Armchair,1,21-01-2025,22-01-2025,1
+76473,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76472,ComfortCraft,Poland,Armchair,1,25-01-2025,24-01-2025,-1
+76471,ComfortCraft,Poland,Armchair,1,25-01-2025,23-01-2025,-2
+76452,ComfortCraft,Poland,Armchair,1,25-01-2025,24-01-2025,-1
+76461,ComfortCraft,Poland,Armchair,1,25-01-2025,23-01-2025,-2
+76511,ComfortCraft,Poland,Armchair,1,25-01-2025,23-01-2025,-2
+76514,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76502,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76519,ComfortCraft,Poland,Armchair,1,23-01-2025,26-01-2025,3
+76478,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76506,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76491,ComfortCraft,Poland,Armchair,1,25-01-2025,23-01-2025,-2
+76486,ComfortCraft,Poland,Armchair,1,25-01-2025,23-01-2025,-2
+76464,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76481,ComfortCraft,Poland,Armchair,1,25-01-2025,23-01-2025,-2
+76497,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76493,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76459,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76501,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76515,ComfortCraft,Poland,Armchair,1,23-01-2025,27-01-2025,4
+76470,ComfortCraft,Poland,Armchair,1,25-01-2025,27-01-2025,2
+76457,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76469,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76468,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76466,ComfortCraft,Poland,Armchair,1,25-01-2025,23-01-2025,-2
+76463,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76475,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76516,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76476,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76507,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76518,ComfortCraft,Poland,Armchair,1,23-01-2025,25-01-2025,2
+76474,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76517,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76465,ComfortCraft,Poland,Armchair,1,25-01-2025,27-01-2025,2
+76498,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76483,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76490,ComfortCraft,Poland,Armchair,1,25-01-2025,27-01-2025,2
+76504,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76482,ComfortCraft,Poland,Armchair,1,25-01-2025,24-01-2025,-1
+76458,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76494,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76488,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76487,ComfortCraft,Poland,Armchair,1,25-01-2025,24-01-2025,-1
+76485,ComfortCraft,Poland,Armchair,1,25-01-2025,27-01-2025,2
+76513,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76509,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76477,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76454,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76495,ComfortCraft,Poland,Armchair,1,23-01-2025,27-01-2025,4
+76505,ComfortCraft,Poland,Armchair,1,25-01-2025,27-01-2025,2
+76500,ComfortCraft,Poland,Armchair,1,23-01-2025,27-01-2025,4
+76496,ComfortCraft,Poland,Armchair,1,23-01-2025,23-01-2025,0
+76503,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76499,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76510,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76484,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76460,ComfortCraft,Poland,Armchair,1,25-01-2025,27-01-2025,2
+76512,ComfortCraft,Poland,Armchair,1,25-01-2025,24-01-2025,-1
+76492,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76467,ComfortCraft,Poland,Armchair,1,25-01-2025,24-01-2025,-1
+76462,ComfortCraft,Poland,Armchair,1,25-01-2025,24-01-2025,-1
+76479,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76456,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76480,ComfortCraft,Poland,Armchair,1,25-01-2025,27-01-2025,2
+76508,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76489,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76453,ComfortCraft,Poland,Armchair,1,22-01-2025,23-01-2025,1
+76455,ComfortCraft,Poland,Armchair,1,21-01-2025,21-01-2025,0
+76585,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76535,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76563,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76520,ComfortCraft,Poland,Armchair,1,24-01-2025,28-01-2025,4
+76556,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76549,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76540,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76547,ComfortCraft,Poland,Armchair,1,26-01-2025,25-01-2025,-1
+76579,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76557,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76558,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76546,ComfortCraft,Poland,Armchair,1,26-01-2025,24-01-2025,-2
+76543,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76587,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76528,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76562,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76584,ComfortCraft,Poland,Armchair,1,24-01-2025,27-01-2025,3
+76566,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76582,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76544,ComfortCraft,Poland,Armchair,1,24-01-2025,27-01-2025,3
+76533,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76526,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76561,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76542,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76559,ComfortCraft,Poland,Armchair,1,24-01-2025,27-01-2025,3
+76588,ComfortCraft,Poland,Armchair,1,24-01-2025,26-01-2025,2
+76564,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76525,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76548,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76523,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76575,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76572,ComfortCraft,Poland,Armchair,1,26-01-2025,25-01-2025,-1
+76554,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76551,ComfortCraft,Poland,Armchair,1,26-01-2025,24-01-2025,-2
+76555,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76583,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76570,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76580,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76577,ComfortCraft,Poland,Armchair,1,26-01-2025,25-01-2025,-1
+76568,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76571,ComfortCraft,Poland,Armchair,1,26-01-2025,24-01-2025,-2
+76552,ComfortCraft,Poland,Armchair,1,26-01-2025,25-01-2025,-1
+76536,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76538,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76537,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76569,ComfortCraft,Poland,Armchair,1,24-01-2025,27-01-2025,3
+76581,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76545,ComfortCraft,Poland,Armchair,1,24-01-2025,28-01-2025,4
+76560,ComfortCraft,Poland,Armchair,1,24-01-2025,28-01-2025,4
+76576,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76574,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76578,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76522,ComfortCraft,Poland,Armchair,1,26-01-2025,25-01-2025,-1
+76573,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76531,ComfortCraft,Poland,Armchair,1,26-01-2025,24-01-2025,-2
+76530,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76550,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76567,ComfortCraft,Poland,Armchair,1,26-01-2025,25-01-2025,-1
+76553,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76529,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76565,ComfortCraft,Poland,Armchair,1,24-01-2025,28-01-2025,4
+76534,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76586,ComfortCraft,Poland,Armchair,1,24-01-2025,24-01-2025,0
+76524,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76521,ComfortCraft,Poland,Armchair,1,26-01-2025,24-01-2025,-2
+76532,ComfortCraft,Poland,Armchair,1,26-01-2025,25-01-2025,-1
+76527,ComfortCraft,Poland,Armchair,1,23-01-2025,24-01-2025,1
+76541,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76539,ComfortCraft,Poland,Armchair,1,22-01-2025,22-01-2025,0
+76614,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76610,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76654,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76600,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76596,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76634,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76627,ComfortCraft,Poland,Armchair,1,27-01-2025,26-01-2025,-1
+76619,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76592,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76603,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76589,ComfortCraft,Poland,Armchair,1,25-01-2025,28-01-2025,3
+76652,ComfortCraft,Poland,Armchair,1,27-01-2025,26-01-2025,-1
+76649,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76591,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76629,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76643,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76611,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76604,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76637,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76612,ComfortCraft,Poland,Armchair,1,27-01-2025,26-01-2025,-1
+76601,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76648,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76635,ComfortCraft,Poland,Armchair,1,25-01-2025,29-01-2025,4
+76622,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76595,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76593,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76628,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76644,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76626,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76642,ComfortCraft,Poland,Armchair,1,27-01-2025,26-01-2025,-1
+76639,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76613,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76618,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76617,ComfortCraft,Poland,Armchair,1,27-01-2025,26-01-2025,-1
+76633,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76609,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76645,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76607,ComfortCraft,Poland,Armchair,1,27-01-2025,26-01-2025,-1
+76605,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76623,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76640,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76620,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76602,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76615,ComfortCraft,Poland,Armchair,1,25-01-2025,29-01-2025,4
+76594,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76616,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76624,ComfortCraft,Poland,Armchair,1,25-01-2025,28-01-2025,3
+76651,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76625,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76647,ComfortCraft,Poland,Armchair,1,27-01-2025,26-01-2025,-1
+76646,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76598,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76590,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76641,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76638,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76621,ComfortCraft,Poland,Armchair,1,25-01-2025,25-01-2025,0
+76606,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76656,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76608,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76650,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76655,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76653,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76630,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76631,ComfortCraft,Poland,Armchair,1,27-01-2025,25-01-2025,-2
+76597,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76599,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76632,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76636,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76683,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76659,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76666,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76708,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76664,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76680,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76692,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76721,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76725,ComfortCraft,Poland,Armchair,1,26-01-2025,30-01-2025,4
+76707,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76722,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76716,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76724,ComfortCraft,Poland,Armchair,1,26-01-2025,29-01-2025,3
+76697,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76670,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76685,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76705,ComfortCraft,Poland,Armchair,1,26-01-2025,30-01-2025,4
+76704,ComfortCraft,Poland,Armchair,1,26-01-2025,29-01-2025,3
+76701,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76690,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76672,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76686,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76702,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76665,ComfortCraft,Poland,Armchair,1,26-01-2025,30-01-2025,4
+76678,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76706,ComfortCraft,Poland,Armchair,1,26-01-2025,26-01-2025,0
+76679,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76720,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76700,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76714,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76696,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76663,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76660,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76676,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76693,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76691,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76662,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76689,ComfortCraft,Poland,Armchair,1,26-01-2025,29-01-2025,3
+76687,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76668,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76667,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76718,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76657,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76669,ComfortCraft,Poland,Armchair,1,26-01-2025,29-01-2025,3
+76684,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76671,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76710,ComfortCraft,Poland,Armchair,1,24-01-2025,25-01-2025,1
+76677,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76712,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76658,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76674,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76688,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76723,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76661,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76713,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76695,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76719,ComfortCraft,Poland,Armchair,1,26-01-2025,29-01-2025,3
+76703,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76717,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76715,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76699,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76694,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76698,ComfortCraft,Poland,Armchair,1,26-01-2025,28-01-2025,2
+76681,ComfortCraft,Poland,Armchair,1,28-01-2025,26-01-2025,-2
+76673,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76682,ComfortCraft,Poland,Armchair,1,28-01-2025,27-01-2025,-1
+76709,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76675,ComfortCraft,Poland,Armchair,1,28-01-2025,30-01-2025,2
+76711,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76777,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76774,ComfortCraft,Poland,Armchair,1,29-01-2025,30-01-2025,1
+76729,ComfortCraft,Poland,Armchair,1,29-01-2025,30-01-2025,1
+76727,ComfortCraft,Poland,Armchair,1,29-01-2025,28-01-2025,-1
+76744,ComfortCraft,Poland,Armchair,1,27-01-2025,30-01-2025,3
+76742,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76760,ComfortCraft,Poland,Armchair,1,27-01-2025,31-01-2025,4
+76768,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76750,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76766,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76764,ComfortCraft,Poland,Armchair,1,29-01-2025,30-01-2025,1
+76743,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76749,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76731,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76728,ComfortCraft,Poland,Armchair,1,29-01-2025,29-01-2025,0
+76751,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76778,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76776,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76786,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76745,ComfortCraft,Poland,Armchair,1,27-01-2025,31-01-2025,4
+76735,ComfortCraft,Poland,Armchair,1,29-01-2025,31-01-2025,2
+76752,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76767,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76779,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76784,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76748,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76733,ComfortCraft,Poland,Armchair,1,29-01-2025,29-01-2025,0
+76793,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76792,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76730,ComfortCraft,Poland,Armchair,1,29-01-2025,31-01-2025,2
+76780,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76785,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76747,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76746,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76769,ComfortCraft,Poland,Armchair,1,27-01-2025,30-01-2025,3
+76783,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76762,ComfortCraft,Poland,Armchair,1,29-01-2025,28-01-2025,-1
+76756,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76736,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76770,ComfortCraft,Poland,Armchair,1,29-01-2025,31-01-2025,2
+76763,ComfortCraft,Poland,Armchair,1,29-01-2025,29-01-2025,0
+76726,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76754,ComfortCraft,Poland,Armchair,1,29-01-2025,30-01-2025,1
+76790,ComfortCraft,Poland,Armchair,1,29-01-2025,31-01-2025,2
+76734,ComfortCraft,Poland,Armchair,1,29-01-2025,30-01-2025,1
+76732,ComfortCraft,Poland,Armchair,1,29-01-2025,28-01-2025,-1
+76738,ComfortCraft,Poland,Armchair,1,29-01-2025,29-01-2025,0
+76755,ComfortCraft,Poland,Armchair,1,29-01-2025,31-01-2025,2
+76772,ComfortCraft,Poland,Armchair,1,29-01-2025,28-01-2025,-1
+76741,ComfortCraft,Poland,Armchair,1,27-01-2025,27-01-2025,0
+76765,ComfortCraft,Poland,Armchair,1,26-01-2025,27-01-2025,1
+76759,ComfortCraft,Poland,Armchair,1,27-01-2025,30-01-2025,3
+76753,ComfortCraft,Poland,Armchair,1,27-01-2025,29-01-2025,2
+76758,ComfortCraft,Poland,Armchair,1,29-01-2025,29-01-2025,0
+76739,ComfortCraft,Poland,Armchair,1,29-01-2025,30-01-2025,1
+76757,ComfortCraft,Poland,Armchair,1,29-01-2025,28-01-2025,-1
+76775,ComfortCraft,Poland,Armchair,1,29-01-2025,31-01-2025,2
+76737,ComfortCraft,Poland,Armchair,1,29-01-2025,28-01-2025,-1
+76771,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76761,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76773,ComfortCraft,Poland,Armchair,1,29-01-2025,29-01-2025,0
+76787,ComfortCraft,Poland,Armchair,1,29-01-2025,28-01-2025,-1
+76788,ComfortCraft,Poland,Armchair,1,29-01-2025,29-01-2025,0
+76781,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76789,ComfortCraft,Poland,Armchair,1,29-01-2025,30-01-2025,1
+76782,ComfortCraft,Poland,Armchair,1,25-01-2025,26-01-2025,1
+76740,ComfortCraft,Poland,Armchair,1,29-01-2025,31-01-2025,2
+76791,ComfortCraft,Poland,Armchair,1,29-01-2025,27-01-2025,-2
+76849,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76847,DataLink,South Korea,USB Hub,1,30-01-2025,29-01-2025,-1
+76807,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76822,ComfortCraft,Poland,Armchair,1,28-01-2025,29-01-2025,1
+76796,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76842,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76795,ComfortCraft,Poland,Armchair,1,28-01-2025,01-02-2025,4
+76857,DataLink,South Korea,USB Hub,1,30-01-2025,29-01-2025,-1
+76829,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76827,DataLink,South Korea,USB Hub,1,30-01-2025,29-01-2025,-1
+76860,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76818,ComfortCraft,Poland,Armchair,1,30-01-2025,30-01-2025,0
+76814,ComfortCraft,Poland,Armchair,1,30-01-2025,31-01-2025,1
+76802,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76830,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76816,ComfortCraft,Poland,Armchair,1,30-01-2025,28-01-2025,-2
+76798,ComfortCraft,Poland,Armchair,1,30-01-2025,30-01-2025,0
+76813,ComfortCraft,Poland,Armchair,1,30-01-2025,30-01-2025,0
+76817,ComfortCraft,Poland,Armchair,1,30-01-2025,29-01-2025,-1
+76848,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76810,ComfortCraft,Poland,Armchair,1,30-01-2025,01-02-2025,2
+76803,ComfortCraft,Poland,Armchair,1,30-01-2025,30-01-2025,0
+76819,ComfortCraft,Poland,Armchair,1,30-01-2025,31-01-2025,1
+76826,DataLink,South Korea,USB Hub,1,27-01-2025,28-01-2025,1
+76804,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76856,DataLink,South Korea,USB Hub,1,27-01-2025,28-01-2025,1
+76805,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76801,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76832,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76843,DataLink,South Korea,USB Hub,1,28-01-2025,30-01-2025,2
+76821,ComfortCraft,Poland,Armchair,1,28-01-2025,28-01-2025,0
+76800,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76853,DataLink,South Korea,USB Hub,1,26-01-2025,27-01-2025,1
+76852,DataLink,South Korea,USB Hub,1,30-01-2025,29-01-2025,-1
+76861,DataLink,South Korea,USB Hub,1,30-01-2025,28-01-2025,-2
+76850,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76846,DataLink,South Korea,USB Hub,1,30-01-2025,28-01-2025,-2
+76858,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76797,ComfortCraft,Poland,Armchair,1,30-01-2025,29-01-2025,-1
+76811,ComfortCraft,Poland,Armchair,1,30-01-2025,28-01-2025,-2
+76837,DataLink,South Korea,USB Hub,1,30-01-2025,29-01-2025,-1
+76828,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76841,DataLink,South Korea,USB Hub,1,30-01-2025,28-01-2025,-2
+76859,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76855,DataLink,South Korea,USB Hub,1,27-01-2025,28-01-2025,1
+76806,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76825,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76838,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76862,DataLink,South Korea,USB Hub,1,30-01-2025,29-01-2025,-1
+76854,DataLink,South Korea,USB Hub,1,26-01-2025,27-01-2025,1
+76812,ComfortCraft,Poland,Armchair,1,30-01-2025,29-01-2025,-1
+76840,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76823,ComfortCraft,Poland,Armchair,1,30-01-2025,30-01-2025,0
+76824,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76815,ComfortCraft,Poland,Armchair,1,30-01-2025,01-02-2025,2
+76809,ComfortCraft,Poland,Armchair,1,30-01-2025,31-01-2025,1
+76836,DataLink,South Korea,USB Hub,1,28-01-2025,28-01-2025,0
+76799,ComfortCraft,Poland,Armchair,1,30-01-2025,31-01-2025,1
+76831,DataLink,South Korea,USB Hub,1,30-01-2025,28-01-2025,-2
+76833,DataLink,South Korea,USB Hub,1,28-01-2025,30-01-2025,2
+76808,ComfortCraft,Poland,Armchair,1,30-01-2025,30-01-2025,0
+76851,DataLink,South Korea,USB Hub,1,30-01-2025,28-01-2025,-2
+76839,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76834,DataLink,South Korea,USB Hub,1,28-01-2025,31-01-2025,3
+76835,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76844,DataLink,South Korea,USB Hub,1,27-01-2025,28-01-2025,1
+76820,ComfortCraft,Poland,Armchair,1,28-01-2025,01-02-2025,4
+76794,ComfortCraft,Poland,Armchair,1,27-01-2025,28-01-2025,1
+76845,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76870,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76918,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+76924,DataLink,South Korea,USB Hub,1,29-01-2025,01-02-2025,3
+76920,DataLink,South Korea,USB Hub,1,29-01-2025,02-02-2025,4
+76893,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+76907,DataLink,South Korea,USB Hub,1,27-01-2025,28-01-2025,1
+76927,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76925,DataLink,South Korea,USB Hub,1,29-01-2025,02-02-2025,4
+76922,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76913,DataLink,South Korea,USB Hub,1,29-01-2025,31-01-2025,2
+76901,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76882,DataLink,South Korea,USB Hub,1,27-01-2025,27-01-2025,0
+76912,DataLink,South Korea,USB Hub,1,31-01-2025,30-01-2025,-1
+76909,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76895,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76896,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76885,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76905,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76887,DataLink,South Korea,USB Hub,1,31-01-2025,30-01-2025,-1
+76899,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76916,DataLink,South Korea,USB Hub,1,29-01-2025,29-01-2025,0
+76915,DataLink,South Korea,USB Hub,1,29-01-2025,02-02-2025,4
+76871,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76908,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76902,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76911,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76892,DataLink,South Korea,USB Hub,1,31-01-2025,30-01-2025,-1
+76919,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76863,DataLink,South Korea,USB Hub,1,29-01-2025,31-01-2025,2
+76921,DataLink,South Korea,USB Hub,1,29-01-2025,29-01-2025,0
+76903,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76873,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+76891,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76872,DataLink,South Korea,USB Hub,1,31-01-2025,30-01-2025,-1
+76928,DataLink,South Korea,USB Hub,1,29-01-2025,31-01-2025,2
+76904,DataLink,South Korea,USB Hub,1,29-01-2025,01-02-2025,3
+76898,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76926,DataLink,South Korea,USB Hub,1,29-01-2025,29-01-2025,0
+76897,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76894,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76890,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76906,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76879,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76888,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+76867,DataLink,South Korea,USB Hub,1,31-01-2025,30-01-2025,-1
+76865,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76883,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+76880,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76877,DataLink,South Korea,USB Hub,1,31-01-2025,30-01-2025,-1
+76914,DataLink,South Korea,USB Hub,1,29-01-2025,01-02-2025,3
+76929,DataLink,South Korea,USB Hub,1,29-01-2025,01-02-2025,3
+76923,DataLink,South Korea,USB Hub,1,29-01-2025,31-01-2025,2
+76869,DataLink,South Korea,USB Hub,1,29-01-2025,01-02-2025,3
+76910,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76874,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76864,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76930,DataLink,South Korea,USB Hub,1,29-01-2025,02-02-2025,4
+76917,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76866,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76889,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76876,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76881,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76884,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+76886,DataLink,South Korea,USB Hub,1,31-01-2025,29-01-2025,-2
+76868,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+76875,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+76878,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+76900,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76976,DataLink,South Korea,USB Hub,1,01-02-2025,30-01-2025,-2
+76992,DataLink,South Korea,USB Hub,1,01-02-2025,31-01-2025,-1
+76938,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+76933,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+76990,DataLink,South Korea,USB Hub,1,30-01-2025,03-02-2025,4
+76942,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76966,DataLink,South Korea,USB Hub,1,01-02-2025,30-01-2025,-2
+76980,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76987,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76936,DataLink,South Korea,USB Hub,1,01-02-2025,30-01-2025,-2
+76994,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76995,DataLink,South Korea,USB Hub,1,30-01-2025,03-02-2025,4
+76986,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76960,DataLink,South Korea,USB Hub,1,01-02-2025,03-02-2025,2
+76971,DataLink,South Korea,USB Hub,1,01-02-2025,30-01-2025,-2
+76972,DataLink,South Korea,USB Hub,1,01-02-2025,31-01-2025,-1
+76943,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76956,DataLink,South Korea,USB Hub,1,28-01-2025,28-01-2025,0
+76964,DataLink,South Korea,USB Hub,1,30-01-2025,02-02-2025,3
+76981,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76961,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76954,DataLink,South Korea,USB Hub,1,28-01-2025,28-01-2025,0
+76959,DataLink,South Korea,USB Hub,1,30-01-2025,02-02-2025,3
+76978,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+76953,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+76944,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76974,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76991,DataLink,South Korea,USB Hub,1,01-02-2025,30-01-2025,-2
+76993,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+76999,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76998,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+76937,DataLink,South Korea,USB Hub,1,01-02-2025,31-01-2025,-1
+76935,DataLink,South Korea,USB Hub,1,01-02-2025,03-02-2025,2
+76934,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76984,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76947,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76932,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76931,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76967,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76983,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76997,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76973,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76963,DataLink,South Korea,USB Hub,1,30-01-2025,01-02-2025,2
+76962,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76989,DataLink,South Korea,USB Hub,1,30-01-2025,02-02-2025,3
+76985,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76970,DataLink,South Korea,USB Hub,1,01-02-2025,03-02-2025,2
+76957,DataLink,South Korea,USB Hub,1,28-01-2025,28-01-2025,0
+76982,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+76996,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+76946,DataLink,South Korea,USB Hub,1,01-02-2025,30-01-2025,-2
+76950,DataLink,South Korea,USB Hub,1,01-02-2025,03-02-2025,2
+76969,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76941,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76988,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76948,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76977,DataLink,South Korea,USB Hub,1,01-02-2025,31-01-2025,-1
+76975,DataLink,South Korea,USB Hub,1,01-02-2025,03-02-2025,2
+76952,DataLink,South Korea,USB Hub,1,01-02-2025,31-01-2025,-1
+76949,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+76940,DataLink,South Korea,USB Hub,1,29-01-2025,30-01-2025,1
+76965,DataLink,South Korea,USB Hub,1,30-01-2025,03-02-2025,4
+76945,DataLink,South Korea,USB Hub,1,01-02-2025,03-02-2025,2
+76968,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+76951,DataLink,South Korea,USB Hub,1,01-02-2025,30-01-2025,-2
+76955,DataLink,South Korea,USB Hub,1,28-01-2025,28-01-2025,0
+76979,DataLink,South Korea,USB Hub,1,28-01-2025,29-01-2025,1
+76958,DataLink,South Korea,USB Hub,1,28-01-2025,28-01-2025,0
+76939,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77039,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77041,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+77064,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77046,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77063,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77047,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77007,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+77011,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+77031,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77040,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77006,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+77065,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77026,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77038,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77049,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+77044,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+77048,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77014,DataLink,South Korea,USB Hub,1,31-01-2025,03-02-2025,3
+77013,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+77008,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+77004,DataLink,South Korea,USB Hub,1,31-01-2025,03-02-2025,3
+77037,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77005,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77002,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77001,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77054,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77051,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77025,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77060,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77023,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77020,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77053,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77027,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77062,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77042,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77021,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77019,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77017,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77056,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77033,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+77029,DataLink,South Korea,USB Hub,1,29-01-2025,29-01-2025,0
+77035,DataLink,South Korea,USB Hub,1,31-01-2025,04-02-2025,4
+77009,DataLink,South Korea,USB Hub,1,31-01-2025,03-02-2025,3
+77036,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+77000,DataLink,South Korea,USB Hub,1,31-01-2025,04-02-2025,4
+77010,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77061,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77024,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77059,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77022,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77057,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77003,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77058,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77015,DataLink,South Korea,USB Hub,1,31-01-2025,04-02-2025,4
+77028,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+77055,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77012,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77052,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77050,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77067,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77030,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77034,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+77016,DataLink,South Korea,USB Hub,1,31-01-2025,31-01-2025,0
+77032,DataLink,South Korea,USB Hub,1,02-02-2025,01-02-2025,-1
+77066,DataLink,South Korea,USB Hub,1,02-02-2025,31-01-2025,-2
+77045,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77018,DataLink,South Korea,USB Hub,1,31-01-2025,02-02-2025,2
+77043,DataLink,South Korea,USB Hub,1,30-01-2025,31-01-2025,1
+77102,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77111,DataLink,South Korea,USB Hub,1,03-02-2025,01-02-2025,-2
+77110,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77129,DataLink,South Korea,USB Hub,1,01-02-2025,04-02-2025,3
+77081,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77091,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+77114,DataLink,South Korea,USB Hub,1,01-02-2025,04-02-2025,3
+77070,DataLink,South Korea,USB Hub,1,01-02-2025,05-02-2025,4
+77104,DataLink,South Korea,USB Hub,1,01-02-2025,04-02-2025,3
+77130,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77122,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77085,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77083,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77080,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77132,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77124,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77116,DataLink,South Korea,USB Hub,1,03-02-2025,01-02-2025,-2
+77086,DataLink,South Korea,USB Hub,1,03-02-2025,01-02-2025,-2
+77078,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77109,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77076,DataLink,South Korea,USB Hub,1,03-02-2025,01-02-2025,-2
+77133,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77093,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77092,DataLink,South Korea,USB Hub,1,30-01-2025,30-01-2025,0
+77100,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77073,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77074,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77096,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+77128,DataLink,South Korea,USB Hub,1,01-02-2025,03-02-2025,2
+77108,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77068,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77125,DataLink,South Korea,USB Hub,1,01-02-2025,05-02-2025,4
+77136,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77095,DataLink,South Korea,USB Hub,1,01-02-2025,05-02-2025,4
+77118,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77075,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77121,DataLink,South Korea,USB Hub,1,03-02-2025,01-02-2025,-2
+77135,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77098,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77119,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77090,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77071,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77097,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77126,DataLink,South Korea,USB Hub,1,01-02-2025,01-02-2025,0
+77112,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77120,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77099,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77072,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77134,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77088,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77123,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77084,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77069,DataLink,South Korea,USB Hub,1,01-02-2025,04-02-2025,3
+77107,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77105,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77127,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77087,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77103,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77101,DataLink,South Korea,USB Hub,1,03-02-2025,01-02-2025,-2
+77089,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77115,DataLink,South Korea,USB Hub,1,03-02-2025,05-02-2025,2
+77113,DataLink,South Korea,USB Hub,1,03-02-2025,03-02-2025,0
+77077,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77106,DataLink,South Korea,USB Hub,1,03-02-2025,01-02-2025,-2
+77082,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77117,DataLink,South Korea,USB Hub,1,03-02-2025,02-02-2025,-1
+77094,DataLink,South Korea,USB Hub,1,03-02-2025,04-02-2025,1
+77079,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77131,DataLink,South Korea,USB Hub,1,31-01-2025,01-02-2025,1
+77202,BrewMaster,Italy,Coffee Maker,1,04-02-2025,03-02-2025,-1
+77169,DataLink,South Korea,USB Hub,1,04-02-2025,05-02-2025,1
+77146,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77153,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77166,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77150,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77187,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77154,DataLink,South Korea,USB Hub,1,02-02-2025,05-02-2025,3
+77204,ComfortCraft,Poland,Armchair,1,31-01-2025,01-02-2025,1
+77199,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77145,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77157,DataLink,South Korea,USB Hub,1,04-02-2025,03-02-2025,-1
+77141,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77140,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77139,DataLink,South Korea,USB Hub,1,04-02-2025,05-02-2025,1
+77137,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77152,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77170,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77156,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77138,DataLink,South Korea,USB Hub,1,04-02-2025,04-02-2025,0
+77183,DataLink,South Korea,USB Hub,1,04-02-2025,04-02-2025,0
+77147,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77158,DataLink,South Korea,USB Hub,1,04-02-2025,04-02-2025,0
+77175,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77167,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77203,ConnectPlus,Taiwan,Smart Plug,1,04-02-2025,04-02-2025,0
+77198,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77188,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77186,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77165,DataLink,South Korea,USB Hub,1,02-02-2025,06-02-2025,4
+77149,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77178,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77151,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77168,DataLink,South Korea,USB Hub,1,02-02-2025,04-02-2025,2
+77193,DataLink,South Korea,USB Hub,1,04-02-2025,04-02-2025,0
+77173,DataLink,South Korea,USB Hub,1,04-02-2025,04-02-2025,0
+77184,DataLink,South Korea,USB Hub,1,04-02-2025,05-02-2025,1
+77163,DataLink,South Korea,USB Hub,1,04-02-2025,04-02-2025,0
+77161,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77179,DataLink,South Korea,USB Hub,1,04-02-2025,05-02-2025,1
+77174,DataLink,South Korea,USB Hub,1,04-02-2025,05-02-2025,1
+77172,DataLink,South Korea,USB Hub,1,04-02-2025,03-02-2025,-1
+77181,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77143,DataLink,South Korea,USB Hub,1,04-02-2025,04-02-2025,0
+77159,DataLink,South Korea,USB Hub,1,04-02-2025,05-02-2025,1
+77176,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77190,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77201,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77196,DataLink,South Korea,USB Hub,1,02-02-2025,02-02-2025,0
+77164,DataLink,South Korea,USB Hub,1,02-02-2025,05-02-2025,3
+77180,DataLink,South Korea,USB Hub,1,02-02-2025,06-02-2025,4
+77194,DataLink,South Korea,USB Hub,1,02-02-2025,05-02-2025,3
+77162,DataLink,South Korea,USB Hub,1,04-02-2025,03-02-2025,-1
+77155,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77144,DataLink,South Korea,USB Hub,1,04-02-2025,05-02-2025,1
+77191,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77197,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77189,DataLink,South Korea,USB Hub,1,02-02-2025,05-02-2025,3
+77185,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77148,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77142,DataLink,South Korea,USB Hub,1,04-02-2025,03-02-2025,-1
+77192,DataLink,South Korea,USB Hub,1,04-02-2025,03-02-2025,-1
+77200,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+77171,DataLink,South Korea,USB Hub,1,04-02-2025,02-02-2025,-2
+77195,DataLink,South Korea,USB Hub,1,01-02-2025,02-02-2025,1
+77182,DataLink,South Korea,USB Hub,1,02-02-2025,03-02-2025,1
+77177,DataLink,South Korea,USB Hub,1,04-02-2025,03-02-2025,-1
+77160,DataLink,South Korea,USB Hub,1,04-02-2025,06-02-2025,2
+75903,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75902,BrewMaster,Italy,Coffee Maker,1,01-02-2025,02-02-2025,1
+75901,BrewMaster,Italy,Coffee Maker,1,01-02-2025,02-02-2025,1
+75900,BrewMaster,Italy,Coffee Maker,1,01-02-2025,02-02-2025,1
+75899,BrewMaster,Italy,Coffee Maker,1,01-02-2025,02-02-2025,1
+75898,BrewMaster,Italy,Coffee Maker,1,05-02-2025,05-02-2025,0
+75897,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75896,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75895,BrewMaster,Italy,Coffee Maker,1,05-02-2025,07-02-2025,2
+75894,BrewMaster,Italy,Coffee Maker,1,03-02-2025,06-02-2025,3
+75893,BrewMaster,Italy,Coffee Maker,1,05-02-2025,05-02-2025,0
+75892,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75891,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75890,BrewMaster,Italy,Coffee Maker,1,03-02-2025,07-02-2025,4
+75889,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75888,BrewMaster,Italy,Coffee Maker,1,05-02-2025,05-02-2025,0
+75887,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75886,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75885,BrewMaster,Italy,Coffee Maker,1,03-02-2025,07-02-2025,4
+75884,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75883,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75882,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75881,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75880,BrewMaster,Italy,Coffee Maker,1,05-02-2025,07-02-2025,2
+75879,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75878,BrewMaster,Italy,Coffee Maker,1,05-02-2025,05-02-2025,0
+75877,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75876,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75875,BrewMaster,Italy,Coffee Maker,1,03-02-2025,07-02-2025,4
+75874,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75873,BrewMaster,Italy,Coffee Maker,1,05-02-2025,05-02-2025,0
+75872,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75871,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75870,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75869,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75868,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75867,BrewMaster,Italy,Coffee Maker,1,01-02-2025,01-02-2025,0
+75866,BrewMaster,Italy,Coffee Maker,1,01-02-2025,01-02-2025,0
+75865,BrewMaster,Italy,Coffee Maker,1,01-02-2025,01-02-2025,0
+75864,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75863,BrewMaster,Italy,Coffee Maker,1,05-02-2025,05-02-2025,0
+75862,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75861,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75860,BrewMaster,Italy,Coffee Maker,1,05-02-2025,07-02-2025,2
+75859,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75858,BrewMaster,Italy,Coffee Maker,1,03-02-2025,05-02-2025,2
+75857,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75856,BrewMaster,Italy,Coffee Maker,1,03-02-2025,03-02-2025,0
+75855,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75854,BrewMaster,Italy,Coffee Maker,1,03-02-2025,06-02-2025,3
+75853,BrewMaster,Italy,Coffee Maker,1,03-02-2025,05-02-2025,2
+75852,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75851,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75850,BrewMaster,Italy,Coffee Maker,1,05-02-2025,07-02-2025,2
+75849,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75848,BrewMaster,Italy,Coffee Maker,1,03-02-2025,05-02-2025,2
+75847,BrewMaster,Italy,Coffee Maker,1,03-02-2025,04-02-2025,1
+75846,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75845,BrewMaster,Italy,Coffee Maker,1,05-02-2025,07-02-2025,2
+75844,BrewMaster,Italy,Coffee Maker,1,05-02-2025,06-02-2025,1
+75843,BrewMaster,Italy,Coffee Maker,1,03-02-2025,05-02-2025,2
+75842,BrewMaster,Italy,Coffee Maker,1,05-02-2025,04-02-2025,-1
+75841,BrewMaster,Italy,Coffee Maker,1,05-02-2025,03-02-2025,-2
+75840,BrewMaster,Italy,Coffee Maker,1,03-02-2025,07-02-2025,4
+75839,BrewMaster,Italy,Coffee Maker,1,03-02-2025,06-02-2025,3
+75838,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75837,BrewMaster,Italy,Coffee Maker,1,02-02-2025,03-02-2025,1
+75836,BrewMaster,Italy,Coffee Maker,1,03-02-2025,03-02-2025,0
+75835,BrewMaster,Italy,Coffee Maker,1,03-02-2025,07-02-2025,4
+75553,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75531,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75505,AudioTech,South Korea,Headphones,1,03-02-2025,07-02-2025,4
+75501,AudioTech,South Korea,Headphones,1,03-02-2025,03-02-2025,0
+75548,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75551,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75529,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75515,AudioTech,South Korea,Headphones,1,01-02-2025,01-02-2025,0
+75533,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75538,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75560,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75512,AudioTech,South Korea,Headphones,1,01-02-2025,01-02-2025,0
+75494,AudioTech,South Korea,Headphones,1,03-02-2025,06-02-2025,3
+75540,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75536,AudioTech,South Korea,Headphones,1,05-02-2025,03-02-2025,-2
+75525,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75526,AudioTech,South Korea,Headphones,1,01-02-2025,01-02-2025,0
+75496,AudioTech,South Korea,Headphones,1,05-02-2025,03-02-2025,-2
+75503,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75556,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75511,AudioTech,South Korea,Headphones,1,01-02-2025,01-02-2025,0
+75544,AudioTech,South Korea,Headphones,1,01-02-2025,02-02-2025,1
+75500,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75497,AudioTech,South Korea,Headphones,1,05-02-2025,04-02-2025,-1
+75541,AudioTech,South Korea,Headphones,1,05-02-2025,03-02-2025,-2
+75527,AudioTech,South Korea,Headphones,1,01-02-2025,02-02-2025,1
+75546,AudioTech,South Korea,Headphones,1,03-02-2025,03-02-2025,0
+75502,AudioTech,South Korea,Headphones,1,03-02-2025,04-02-2025,1
+75518,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75495,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75547,AudioTech,South Korea,Headphones,1,03-02-2025,04-02-2025,1
+75559,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75558,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75499,AudioTech,South Korea,Headphones,1,03-02-2025,06-02-2025,3
+75516,AudioTech,South Korea,Headphones,1,03-02-2025,03-02-2025,0
+75506,AudioTech,South Korea,Headphones,1,05-02-2025,03-02-2025,-2
+75498,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75521,AudioTech,South Korea,Headphones,1,05-02-2025,03-02-2025,-2
+75528,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75550,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75535,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75509,AudioTech,South Korea,Headphones,1,05-02-2025,06-02-2025,1
+75523,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75539,AudioTech,South Korea,Headphones,1,05-02-2025,06-02-2025,1
+75520,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75532,AudioTech,South Korea,Headphones,1,05-02-2025,04-02-2025,-1
+75504,AudioTech,South Korea,Headphones,1,03-02-2025,06-02-2025,3
+75513,AudioTech,South Korea,Headphones,1,01-02-2025,01-02-2025,0
+75517,AudioTech,South Korea,Headphones,1,03-02-2025,04-02-2025,1
+75519,AudioTech,South Korea,Headphones,1,05-02-2025,06-02-2025,1
+75508,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75542,AudioTech,South Korea,Headphones,1,05-02-2025,04-02-2025,-1
+75537,AudioTech,South Korea,Headphones,1,05-02-2025,04-02-2025,-1
+75534,AudioTech,South Korea,Headphones,1,05-02-2025,06-02-2025,1
+75507,AudioTech,South Korea,Headphones,1,05-02-2025,04-02-2025,-1
+75552,AudioTech,South Korea,Headphones,1,05-02-2025,04-02-2025,-1
+75555,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75524,AudioTech,South Korea,Headphones,1,05-02-2025,06-02-2025,1
+75514,AudioTech,South Korea,Headphones,1,01-02-2025,01-02-2025,0
+75554,AudioTech,South Korea,Headphones,1,05-02-2025,06-02-2025,1
+75543,AudioTech,South Korea,Headphones,1,05-02-2025,05-02-2025,0
+75549,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75510,AudioTech,South Korea,Headphones,1,05-02-2025,07-02-2025,2
+75522,AudioTech,South Korea,Headphones,1,05-02-2025,04-02-2025,-1
+75530,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75557,AudioTech,South Korea,Headphones,1,02-02-2025,03-02-2025,1
+75545,AudioTech,South Korea,Headphones,1,01-02-2025,02-02-2025,1
+75493,AudioTech,South Korea,Headphones,1,03-02-2025,05-02-2025,2
+75169,GermanWorks,Germany,Computer Desk,1,05-02-2025,06-02-2025,1
+75196,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,03-02-2025,-2
+75189,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,06-02-2025,1
+75184,GermanWorks,Germany,Computer Desk,1,05-02-2025,06-02-2025,1
+75163,GermanWorks,Germany,Computer Desk,1,05-02-2025,05-02-2025,0
+75152,GermanWorks,Germany,Computer Desk,1,05-02-2025,04-02-2025,-1
+75198,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,05-02-2025,0
+75203,BrightTech,Taiwan,Desk Lamp,1,02-02-2025,03-02-2025,1
+75155,GermanWorks,Germany,Computer Desk,1,02-02-2025,03-02-2025,1
+75192,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,04-02-2025,-1
+75209,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,06-02-2025,1
+75162,GermanWorks,Germany,Computer Desk,1,05-02-2025,04-02-2025,-1
+75176,GermanWorks,Germany,Computer Desk,1,05-02-2025,03-02-2025,-2
+75174,GermanWorks,Germany,Computer Desk,1,05-02-2025,06-02-2025,1
+75172,GermanWorks,Germany,Computer Desk,1,05-02-2025,04-02-2025,-1
+75150,GermanWorks,Germany,Computer Desk,1,03-02-2025,07-02-2025,4
+75200,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,07-02-2025,2
+75199,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,06-02-2025,1
+75166,GermanWorks,Germany,Computer Desk,1,05-02-2025,03-02-2025,-2
+75160,GermanWorks,Germany,Computer Desk,1,05-02-2025,07-02-2025,2
+75175,GermanWorks,Germany,Computer Desk,1,05-02-2025,07-02-2025,2
+75153,GermanWorks,Germany,Computer Desk,1,02-02-2025,03-02-2025,1
+75197,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,04-02-2025,-1
+75170,GermanWorks,Germany,Computer Desk,1,05-02-2025,07-02-2025,2
+75167,GermanWorks,Germany,Computer Desk,1,03-02-2025,04-02-2025,1
+75201,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,03-02-2025,-2
+75216,BrightTech,Taiwan,Desk Lamp,1,03-02-2025,03-02-2025,0
+75214,BrightTech,Taiwan,Desk Lamp,1,03-02-2025,06-02-2025,3
+75215,BrightTech,Taiwan,Desk Lamp,1,02-02-2025,03-02-2025,1
+75218,BrightTech,Taiwan,Desk Lamp,1,03-02-2025,05-02-2025,2
+75212,BrightTech,Taiwan,Desk Lamp,1,03-02-2025,04-02-2025,1
+75188,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,05-02-2025,0
+75178,GermanWorks,Germany,Computer Desk,1,05-02-2025,05-02-2025,0
+75151,GermanWorks,Germany,Computer Desk,1,05-02-2025,03-02-2025,-2
+75168,GermanWorks,Germany,Computer Desk,1,05-02-2025,05-02-2025,0
+75185,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,07-02-2025,2
+75195,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,07-02-2025,2
+75194,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,06-02-2025,1
+75191,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,03-02-2025,-2
+75190,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,07-02-2025,2
+75205,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,07-02-2025,2
+75187,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,04-02-2025,-1
+75183,GermanWorks,Germany,Computer Desk,1,05-02-2025,05-02-2025,0
+75164,GermanWorks,Germany,Computer Desk,1,05-02-2025,06-02-2025,1
+75161,GermanWorks,Germany,Computer Desk,1,05-02-2025,03-02-2025,-2
+75177,GermanWorks,Germany,Computer Desk,1,05-02-2025,04-02-2025,-1
+75211,BrightTech,Taiwan,Desk Lamp,1,02-02-2025,03-02-2025,1
+75213,BrightTech,Taiwan,Desk Lamp,1,03-02-2025,05-02-2025,2
+75173,GermanWorks,Germany,Computer Desk,1,01-02-2025,01-02-2025,0
+75208,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,05-02-2025,0
+75179,GermanWorks,Germany,Computer Desk,1,05-02-2025,06-02-2025,1
+75181,GermanWorks,Germany,Computer Desk,1,05-02-2025,03-02-2025,-2
+75156,GermanWorks,Germany,Computer Desk,1,05-02-2025,03-02-2025,-2
+75207,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,04-02-2025,-1
+75157,GermanWorks,Germany,Computer Desk,1,05-02-2025,04-02-2025,-1
+75180,GermanWorks,Germany,Computer Desk,1,05-02-2025,07-02-2025,2
+75193,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,05-02-2025,0
+75217,BrightTech,Taiwan,Desk Lamp,1,03-02-2025,04-02-2025,1
+75186,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,03-02-2025,-2
+75182,GermanWorks,Germany,Computer Desk,1,05-02-2025,04-02-2025,-1
+75165,GermanWorks,Germany,Computer Desk,1,05-02-2025,07-02-2025,2
+75159,GermanWorks,Germany,Computer Desk,1,05-02-2025,06-02-2025,1
+75171,GermanWorks,Germany,Computer Desk,1,05-02-2025,03-02-2025,-2
+75206,BrightTech,Taiwan,Desk Lamp,1,05-02-2025,03-02-2025,-2
+75158,GermanWorks,Germany,Computer Desk,1,05-02-2025,05-02-2025,0
+75202,BrightTech,Taiwan,Desk Lamp,1,02-02-2025,03-02-2025,1
+75210,BrightTech,Taiwan,Desk Lamp,1,02-02-2025,03-02-2025,1
+75204,BrightTech,Taiwan,Desk Lamp,1,02-02-2025,03-02-2025,1
+75154,GermanWorks,Germany,Computer Desk,1,02-02-2025,03-02-2025,1
+75766,BrewMaster,Italy,Coffee Maker,1,05-03-2025,03-03-2025,-2
+75765,BrewMaster,Italy,Coffee Maker,1,05-03-2025,07-03-2025,2
+75764,BrewMaster,Italy,Coffee Maker,1,03-03-2025,06-03-2025,3
+75763,BrewMaster,Italy,Coffee Maker,1,03-03-2025,05-03-2025,2
+75762,BrewMaster,Italy,Coffee Maker,1,03-03-2025,04-03-2025,1
+75761,BrewMaster,Italy,Coffee Maker,1,03-03-2025,03-03-2025,0
+75760,BrewMaster,Italy,Coffee Maker,1,03-03-2025,07-03-2025,4
+75759,BrewMaster,Italy,Coffee Maker,1,02-03-2025,03-03-2025,1
+75758,BrewMaster,Italy,Coffee Maker,1,03-03-2025,05-03-2025,2
+75757,BrewMaster,Italy,Coffee Maker,1,05-03-2025,04-03-2025,-1
+75756,BrewMaster,Italy,Coffee Maker,1,05-03-2025,03-03-2025,-2
+75755,BrewMaster,Italy,Coffee Maker,1,05-03-2025,07-03-2025,2
+75754,BrewMaster,Italy,Coffee Maker,1,03-03-2025,06-03-2025,3
+75753,BrewMaster,Italy,Coffee Maker,1,03-03-2025,05-03-2025,2
+75752,BrewMaster,Italy,Coffee Maker,1,05-03-2025,04-03-2025,-1
+75751,BrewMaster,Italy,Coffee Maker,1,05-03-2025,03-03-2025,-2
+75750,BrewMaster,Italy,Coffee Maker,1,05-03-2025,07-03-2025,2
+75749,BrewMaster,Italy,Coffee Maker,1,05-03-2025,06-03-2025,1
+75748,BrewMaster,Italy,Coffee Maker,1,03-03-2025,05-03-2025,2
+75747,BrewMaster,Italy,Coffee Maker,1,01-03-2025,02-03-2025,1
+75746,BrewMaster,Italy,Coffee Maker,1,05-03-2025,03-03-2025,-2
+75745,BrewMaster,Italy,Coffee Maker,1,05-03-2025,07-03-2025,2
+75744,BrewMaster,Italy,Coffee Maker,1,05-03-2025,06-03-2025,1
+75743,BrewMaster,Italy,Coffee Maker,1,05-03-2025,05-03-2025,0
+75742,BrewMaster,Italy,Coffee Maker,1,05-03-2025,04-03-2025,-1
+75741,BrewMaster,Italy,Coffee Maker,1,05-03-2025,03-03-2025,-2
+75740,BrewMaster,Italy,Coffee Maker,1,05-03-2025,07-03-2025,2
+75739,BrewMaster,Italy,Coffee Maker,1,05-03-2025,06-03-2025,1
+75738,BrewMaster,Italy,Coffee Maker,1,05-03-2025,05-03-2025,0
+75737,BrewMaster,Italy,Coffee Maker,1,05-03-2025,04-03-2025,-1
+75736,BrewMaster,Italy,Coffee Maker,1,05-03-2025,03-03-2025,-2
+75735,BrewMaster,Italy,Coffee Maker,1,05-03-2025,07-03-2025,2
+75734,BrewMaster,Italy,Coffee Maker,1,03-03-2025,06-03-2025,3
+75733,BrewMaster,Italy,Coffee Maker,1,03-03-2025,05-03-2025,2
+75732,BrewMaster,Italy,Coffee Maker,1,05-03-2025,04-03-2025,-1
+75731,BrewMaster,Italy,Coffee Maker,1,05-03-2025,03-03-2025,-2
+75730,BrewMaster,Italy,Coffee Maker,1,03-03-2025,07-03-2025,4
+75729,BrewMaster,Italy,Coffee Maker,1,03-03-2025,06-03-2025,3
+75713,AudioTech,South Korea,Headphones,1,03-03-2025,05-03-2025,2
+75717,AudioTech,South Korea,Headphones,1,03-03-2025,04-03-2025,1
+75715,AudioTech,South Korea,Headphones,1,03-03-2025,07-03-2025,4
+75704,AudioTech,South Korea,Headphones,1,02-03-2025,03-03-2025,1
+75716,AudioTech,South Korea,Headphones,1,03-03-2025,03-03-2025,0
+75711,AudioTech,South Korea,Headphones,1,03-03-2025,03-03-2025,0
+75710,AudioTech,South Korea,Headphones,1,03-03-2025,07-03-2025,4
+75727,AudioTech,South Korea,Headphones,1,03-03-2025,04-03-2025,1
+75728,AudioTech,South Korea,Headphones,1,03-03-2025,05-03-2025,2
+75705,AudioTech,South Korea,Headphones,1,02-03-2025,03-03-2025,1
+75706,AudioTech,South Korea,Headphones,1,02-03-2025,03-03-2025,1
+75725,AudioTech,South Korea,Headphones,1,03-03-2025,07-03-2025,4
+75714,AudioTech,South Korea,Headphones,1,03-03-2025,06-03-2025,3
+75708,AudioTech,South Korea,Headphones,1,05-03-2025,05-03-2025,0
+75718,AudioTech,South Korea,Headphones,1,05-03-2025,05-03-2025,0
+75719,AudioTech,South Korea,Headphones,1,05-03-2025,06-03-2025,1
+75722,AudioTech,South Korea,Headphones,1,01-03-2025,01-03-2025,0
+75724,AudioTech,South Korea,Headphones,1,01-03-2025,01-03-2025,0
+75712,AudioTech,South Korea,Headphones,1,03-03-2025,04-03-2025,1
+75726,AudioTech,South Korea,Headphones,1,03-03-2025,03-03-2025,0
+75709,AudioTech,South Korea,Headphones,1,03-03-2025,06-03-2025,3
+75700,AudioTech,South Korea,Headphones,1,05-03-2025,07-03-2025,2
+75707,AudioTech,South Korea,Headphones,1,05-03-2025,04-03-2025,-1
+75698,AudioTech,South Korea,Headphones,1,05-03-2025,05-03-2025,0
+75721,AudioTech,South Korea,Headphones,1,01-03-2025,01-03-2025,0
+75699,AudioTech,South Korea,Headphones,1,05-03-2025,06-03-2025,1
+75702,AudioTech,South Korea,Headphones,1,02-03-2025,03-03-2025,1
+75703,AudioTech,South Korea,Headphones,1,02-03-2025,03-03-2025,1
+75701,AudioTech,South Korea,Headphones,1,05-03-2025,03-03-2025,-2
+75720,AudioTech,South Korea,Headphones,1,01-03-2025,01-03-2025,0
+75723,AudioTech,South Korea,Headphones,1,01-03-2025,01-03-2025,0
+75429,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75477,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75480,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75441,SteelBuilt,USA,File Cabinet,1,03-03-2025,03-03-2025,0
+75427,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75472,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75435,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75490,AudioTech,South Korea,Headphones,1,05-03-2025,07-03-2025,2
+75425,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75466,SteelBuilt,USA,File Cabinet,1,05-03-2025,03-03-2025,-2
+75444,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75483,AudioTech,South Korea,Headphones,1,05-03-2025,05-03-2025,0
+75434,SteelBuilt,USA,File Cabinet,1,05-03-2025,06-03-2025,1
+75451,SteelBuilt,USA,File Cabinet,1,05-03-2025,03-03-2025,-2
+75461,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75459,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75492,AudioTech,South Korea,Headphones,1,03-03-2025,04-03-2025,1
+75424,SteelBuilt,USA,File Cabinet,1,05-03-2025,06-03-2025,1
+75454,SteelBuilt,USA,File Cabinet,1,05-03-2025,06-03-2025,1
+75491,AudioTech,South Korea,Headphones,1,03-03-2025,03-03-2025,0
+75463,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75465,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75448,SteelBuilt,USA,File Cabinet,1,05-03-2025,05-03-2025,0
+75447,SteelBuilt,USA,File Cabinet,1,05-03-2025,04-03-2025,-1
+75433,SteelBuilt,USA,File Cabinet,1,05-03-2025,05-03-2025,0
+75450,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75468,SteelBuilt,USA,File Cabinet,1,05-03-2025,05-03-2025,0
+75445,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75487,AudioTech,South Korea,Headphones,1,05-03-2025,04-03-2025,-1
+75482,SteelBuilt,USA,File Cabinet,1,05-03-2025,04-03-2025,-1
+75476,SteelBuilt,USA,File Cabinet,1,05-03-2025,03-03-2025,-2
+75438,SteelBuilt,USA,File Cabinet,1,05-03-2025,05-03-2025,0
+75474,SteelBuilt,USA,File Cabinet,1,05-03-2025,06-03-2025,1
+75431,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75443,SteelBuilt,USA,File Cabinet,1,03-03-2025,05-03-2025,2
+75479,SteelBuilt,USA,File Cabinet,1,03-03-2025,06-03-2025,3
+75453,SteelBuilt,USA,File Cabinet,1,05-03-2025,05-03-2025,0
+75439,SteelBuilt,USA,File Cabinet,1,01-03-2025,01-03-2025,0
+75432,SteelBuilt,USA,File Cabinet,1,05-03-2025,04-03-2025,-1
+75470,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75486,AudioTech,South Korea,Headphones,1,05-03-2025,03-03-2025,-2
+75484,AudioTech,South Korea,Headphones,1,05-03-2025,06-03-2025,1
+75426,SteelBuilt,USA,File Cabinet,1,05-03-2025,03-03-2025,-2
+75436,SteelBuilt,USA,File Cabinet,1,05-03-2025,03-03-2025,-2
+75456,SteelBuilt,USA,File Cabinet,1,05-03-2025,03-03-2025,-2
+75485,AudioTech,South Korea,Headphones,1,02-03-2025,03-03-2025,1
+75458,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75488,AudioTech,South Korea,Headphones,1,05-03-2025,05-03-2025,0
+75449,SteelBuilt,USA,File Cabinet,1,05-03-2025,06-03-2025,1
+75460,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75437,SteelBuilt,USA,File Cabinet,1,05-03-2025,04-03-2025,-1
+75471,SteelBuilt,USA,File Cabinet,1,05-03-2025,03-03-2025,-2
+75469,SteelBuilt,USA,File Cabinet,1,05-03-2025,06-03-2025,1
+75446,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75464,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75440,SteelBuilt,USA,File Cabinet,1,01-03-2025,01-03-2025,0
+75430,SteelBuilt,USA,File Cabinet,1,03-03-2025,07-03-2025,4
+75473,SteelBuilt,USA,File Cabinet,1,05-03-2025,05-03-2025,0
+75475,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75452,SteelBuilt,USA,File Cabinet,1,05-03-2025,04-03-2025,-1
+75455,SteelBuilt,USA,File Cabinet,1,05-03-2025,07-03-2025,2
+75462,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75457,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75489,AudioTech,South Korea,Headphones,1,05-03-2025,06-03-2025,1
+75481,SteelBuilt,USA,File Cabinet,1,03-03-2025,03-03-2025,0
+75442,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75428,SteelBuilt,USA,File Cabinet,1,03-03-2025,05-03-2025,2
+75467,SteelBuilt,USA,File Cabinet,1,05-03-2025,04-03-2025,-1
+75478,SteelBuilt,USA,File Cabinet,1,02-03-2025,03-03-2025,1
+75257,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,04-03-2025,1
+75233,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,05-03-2025,2
+75246,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75260,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75242,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,04-03-2025,-1
+75229,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75221,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75279,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75236,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75270,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75247,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,04-03-2025,-1
+75256,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75273,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,05-03-2025,0
+75263,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,05-03-2025,0
+75254,BrightTech,Taiwan,Desk Lamp,1,01-03-2025,02-03-2025,1
+75219,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,06-03-2025,3
+75245,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75237,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,04-03-2025,1
+75235,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,07-03-2025,4
+75277,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,04-03-2025,1
+75266,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,03-03-2025,0
+75280,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75267,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,04-03-2025,1
+75269,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75268,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,05-03-2025,0
+75231,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75230,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75275,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75226,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75241,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75274,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75222,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,04-03-2025,-1
+75286,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75284,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75265,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75262,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,04-03-2025,-1
+75243,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,05-03-2025,0
+75281,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75238,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75239,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75234,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,06-03-2025,3
+75232,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,04-03-2025,1
+75258,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,05-03-2025,2
+75278,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,05-03-2025,2
+75272,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,04-03-2025,-1
+75220,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75227,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,04-03-2025,-1
+75244,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75271,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75228,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,05-03-2025,0
+75240,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75248,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,05-03-2025,0
+75224,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75253,BrightTech,Taiwan,Desk Lamp,1,01-03-2025,02-03-2025,1
+75251,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75261,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75285,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75250,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75249,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75264,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,06-03-2025,1
+75223,BrightTech,Taiwan,Desk Lamp,1,03-03-2025,05-03-2025,2
+75283,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,05-03-2025,0
+75252,BrightTech,Taiwan,Desk Lamp,1,01-03-2025,01-03-2025,0
+75282,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,04-03-2025,-1
+75225,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,07-03-2025,2
+75259,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75276,BrightTech,Taiwan,Desk Lamp,1,05-03-2025,03-03-2025,-2
+75255,BrightTech,Taiwan,Desk Lamp,1,02-03-2025,03-03-2025,1
+75653,AudioTech,South Korea,Headphones,1,05-04-2025,05-04-2025,0
+75637,AudioTech,South Korea,Headphones,1,03-04-2025,04-04-2025,1
+75686,AudioTech,South Korea,Headphones,1,01-04-2025,02-04-2025,1
+75634,AudioTech,South Korea,Headphones,1,03-04-2025,06-04-2025,3
+75645,AudioTech,South Korea,Headphones,1,02-04-2025,03-04-2025,1
+75685,AudioTech,South Korea,Headphones,1,01-04-2025,02-04-2025,1
+75671,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75668,AudioTech,South Korea,Headphones,1,05-04-2025,05-04-2025,0
+75684,AudioTech,South Korea,Headphones,1,05-04-2025,06-04-2025,1
+75679,AudioTech,South Korea,Headphones,1,05-04-2025,06-04-2025,1
+75692,AudioTech,South Korea,Headphones,1,02-04-2025,03-04-2025,1
+75646,AudioTech,South Korea,Headphones,1,02-04-2025,03-04-2025,1
+75690,AudioTech,South Korea,Headphones,1,01-04-2025,02-04-2025,1
+75647,AudioTech,South Korea,Headphones,1,03-04-2025,04-04-2025,1
+75660,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75657,AudioTech,South Korea,Headphones,1,05-04-2025,04-04-2025,-1
+75630,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75662,AudioTech,South Korea,Headphones,1,03-04-2025,04-04-2025,1
+75636,AudioTech,South Korea,Headphones,1,03-04-2025,03-04-2025,0
+75664,AudioTech,South Korea,Headphones,1,03-04-2025,06-04-2025,3
+75688,AudioTech,South Korea,Headphones,1,01-04-2025,02-04-2025,1
+75648,AudioTech,South Korea,Headphones,1,03-04-2025,05-04-2025,2
+75631,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75644,AudioTech,South Korea,Headphones,1,02-04-2025,03-04-2025,1
+75666,AudioTech,South Korea,Headphones,1,02-04-2025,03-04-2025,1
+75682,AudioTech,South Korea,Headphones,1,05-04-2025,04-04-2025,-1
+75694,AudioTech,South Korea,Headphones,1,05-04-2025,06-04-2025,1
+75687,AudioTech,South Korea,Headphones,1,01-04-2025,02-04-2025,1
+75642,AudioTech,South Korea,Headphones,1,03-04-2025,04-04-2025,1
+75641,AudioTech,South Korea,Headphones,1,03-04-2025,03-04-2025,0
+75689,AudioTech,South Korea,Headphones,1,01-04-2025,02-04-2025,1
+75633,AudioTech,South Korea,Headphones,1,03-04-2025,05-04-2025,2
+75667,AudioTech,South Korea,Headphones,1,03-04-2025,04-04-2025,1
+75638,AudioTech,South Korea,Headphones,1,03-04-2025,05-04-2025,2
+75639,AudioTech,South Korea,Headphones,1,03-04-2025,06-04-2025,3
+75654,AudioTech,South Korea,Headphones,1,03-04-2025,06-04-2025,3
+75677,AudioTech,South Korea,Headphones,1,05-04-2025,04-04-2025,-1
+75693,AudioTech,South Korea,Headphones,1,05-04-2025,05-04-2025,0
+75673,AudioTech,South Korea,Headphones,1,05-04-2025,05-04-2025,0
+75697,AudioTech,South Korea,Headphones,1,05-04-2025,04-04-2025,-1
+75691,AudioTech,South Korea,Headphones,1,02-04-2025,03-04-2025,1
+75661,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75676,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75652,AudioTech,South Korea,Headphones,1,05-04-2025,04-04-2025,-1
+75651,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75675,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75672,AudioTech,South Korea,Headphones,1,05-04-2025,04-04-2025,-1
+75640,AudioTech,South Korea,Headphones,1,03-04-2025,07-04-2025,4
+75695,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75635,AudioTech,South Korea,Headphones,1,03-04-2025,07-04-2025,4
+75665,AudioTech,South Korea,Headphones,1,03-04-2025,07-04-2025,4
+75656,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75632,AudioTech,South Korea,Headphones,1,05-04-2025,04-04-2025,-1
+75680,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75670,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75669,AudioTech,South Korea,Headphones,1,05-04-2025,06-04-2025,1
+75683,AudioTech,South Korea,Headphones,1,05-04-2025,05-04-2025,0
+75658,AudioTech,South Korea,Headphones,1,05-04-2025,05-04-2025,0
+75678,AudioTech,South Korea,Headphones,1,05-04-2025,05-04-2025,0
+75674,AudioTech,South Korea,Headphones,1,05-04-2025,06-04-2025,1
+75681,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75655,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75649,AudioTech,South Korea,Headphones,1,03-04-2025,06-04-2025,3
+75696,AudioTech,South Korea,Headphones,1,05-04-2025,03-04-2025,-2
+75643,AudioTech,South Korea,Headphones,1,03-04-2025,05-04-2025,2
+75659,AudioTech,South Korea,Headphones,1,03-04-2025,06-04-2025,3
+75650,AudioTech,South Korea,Headphones,1,05-04-2025,07-04-2025,2
+75663,AudioTech,South Korea,Headphones,1,02-04-2025,03-04-2025,1
+75328,TechPrecision,Japan,Wireless Keyboard,1,03-04-2025,05-04-2025,2
+75349,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75318,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75290,BrightTech,Taiwan,Desk Lamp,1,01-04-2025,01-04-2025,0
+75314,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75350,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75339,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75351,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75292,BrightTech,Taiwan,Desk Lamp,1,01-04-2025,01-04-2025,0
+75287,BrightTech,Taiwan,Desk Lamp,1,05-04-2025,04-04-2025,-1
+75296,BrightTech,Taiwan,Desk Lamp,1,05-04-2025,03-04-2025,-2
+75320,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,07-04-2025,2
+75342,SteelBuilt,USA,File Cabinet,1,05-04-2025,04-04-2025,-1
+75325,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,07-04-2025,2
+75299,BrightTech,Taiwan,Desk Lamp,1,02-04-2025,03-04-2025,1
+75337,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75338,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75313,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75289,BrightTech,Taiwan,Desk Lamp,1,05-04-2025,06-04-2025,1
+75321,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,03-04-2025,-2
+75304,BrightTech,Taiwan,Desk Lamp,1,05-04-2025,06-04-2025,1
+75302,BrightTech,Taiwan,Desk Lamp,1,02-04-2025,03-04-2025,1
+75301,BrightTech,Taiwan,Desk Lamp,1,02-04-2025,03-04-2025,1
+75329,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75353,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75295,BrightTech,Taiwan,Desk Lamp,1,02-04-2025,03-04-2025,1
+75324,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,06-04-2025,1
+75346,SteelBuilt,USA,File Cabinet,1,05-04-2025,03-04-2025,-2
+75332,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75303,BrightTech,Taiwan,Desk Lamp,1,02-04-2025,03-04-2025,1
+75316,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75312,TechPrecision,Japan,Wireless Keyboard,1,01-04-2025,01-04-2025,0
+75327,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,04-04-2025,-1
+75340,SteelBuilt,USA,File Cabinet,1,05-04-2025,07-04-2025,2
+75343,SteelBuilt,USA,File Cabinet,1,05-04-2025,05-04-2025,0
+75326,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,03-04-2025,-2
+75315,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75298,BrightTech,Taiwan,Desk Lamp,1,02-04-2025,03-04-2025,1
+75305,BrightTech,Taiwan,Desk Lamp,1,05-04-2025,07-04-2025,2
+75341,SteelBuilt,USA,File Cabinet,1,05-04-2025,03-04-2025,-2
+75288,BrightTech,Taiwan,Desk Lamp,1,05-04-2025,05-04-2025,0
+75317,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75333,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75309,TechPrecision,Japan,Wireless Keyboard,1,01-04-2025,01-04-2025,0
+75348,SteelBuilt,USA,File Cabinet,1,03-04-2025,05-04-2025,2
+75335,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75355,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75319,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75297,BrightTech,Taiwan,Desk Lamp,1,03-04-2025,04-04-2025,1
+75330,TechPrecision,Japan,Wireless Keyboard,1,03-04-2025,07-04-2025,4
+75347,SteelBuilt,USA,File Cabinet,1,03-04-2025,04-04-2025,1
+75323,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,05-04-2025,0
+75345,SteelBuilt,USA,File Cabinet,1,05-04-2025,07-04-2025,2
+75311,TechPrecision,Japan,Wireless Keyboard,1,01-04-2025,01-04-2025,0
+75336,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75352,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75300,BrightTech,Taiwan,Desk Lamp,1,02-04-2025,03-04-2025,1
+75331,TechPrecision,Japan,Wireless Keyboard,1,02-04-2025,03-04-2025,1
+75291,BrightTech,Taiwan,Desk Lamp,1,01-04-2025,01-04-2025,0
+75307,BrightTech,Taiwan,Desk Lamp,1,01-04-2025,01-04-2025,0
+75322,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,04-04-2025,-1
+75344,SteelBuilt,USA,File Cabinet,1,05-04-2025,06-04-2025,1
+75334,TechPrecision,Japan,Wireless Keyboard,1,05-04-2025,06-04-2025,1
+75306,BrightTech,Taiwan,Desk Lamp,1,05-04-2025,03-04-2025,-2
+75310,TechPrecision,Japan,Wireless Keyboard,1,01-04-2025,01-04-2025,0
+75308,TechPrecision,Japan,Wireless Keyboard,1,01-04-2025,01-04-2025,0
+75354,SteelBuilt,USA,File Cabinet,1,02-04-2025,03-04-2025,1
+75293,BrightTech,Taiwan,Desk Lamp,1,01-04-2025,01-04-2025,0
+75294,BrightTech,Taiwan,Desk Lamp,1,01-04-2025,01-04-2025,0
+75624,AudioTech,South Korea,Headphones,1,05-05-2025,06-05-2025,1
+75612,AudioTech,South Korea,Headphones,1,02-05-2025,03-05-2025,1
+75575,AudioTech,South Korea,Headphones,1,05-05-2025,07-05-2025,2
+75585,AudioTech,South Korea,Headphones,1,05-05-2025,07-05-2025,2
+75566,AudioTech,South Korea,Headphones,1,05-05-2025,03-05-2025,-2
+75628,AudioTech,South Korea,Headphones,1,05-05-2025,05-05-2025,0
+75623,AudioTech,South Korea,Headphones,1,05-05-2025,05-05-2025,0
+75621,AudioTech,South Korea,Headphones,1,05-05-2025,03-05-2025,-2
+75577,AudioTech,South Korea,Headphones,1,05-05-2025,04-05-2025,-1
+75592,AudioTech,South Korea,Headphones,1,05-05-2025,04-05-2025,-1
+75573,AudioTech,South Korea,Headphones,1,05-05-2025,05-05-2025,0
+75586,AudioTech,South Korea,Headphones,1,02-05-2025,03-05-2025,1
+75599,AudioTech,South Korea,Headphones,1,03-05-2025,06-05-2025,3
