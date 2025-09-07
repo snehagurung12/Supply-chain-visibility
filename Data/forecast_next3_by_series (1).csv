@@ -1,0 +1,10 @@
+Series,Forecast_Year,Forecast_Month,Forecast,Method,Product
+Desk Lamp,2024,5,47.2125,ml,Desk Lamp
+Desk Lamp,2024,6,47.2125,ml,Desk Lamp
+Desk Lamp,2024,7,47.2125,ml,Desk Lamp
+File Cabinet,2024,5,53.42875,ml,File Cabinet
+File Cabinet,2024,6,53.42875,ml,File Cabinet
+File Cabinet,2024,7,53.42875,ml,File Cabinet
+Headphones,2024,6,60.5,mean,Headphones
+Headphones,2024,7,60.5,mean,Headphones
+Headphones,2024,8,60.5,mean,Headphones
