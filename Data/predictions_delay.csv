@@ -1,0 +1,401 @@
+order_id,supplier_name,supplier_country,product_name,order_item_quantity,actual_days_delayed,predicted_days_delayed
+75988,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+76166,ConnectPlus,Taiwan,Smart Plug,1,-2.0,0.4623262252056624
+76083,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76331,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+77012,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75446,SteelBuilt,USA,File Cabinet,1,1.0,0.6152228857279257
+76240,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75174,GermanWorks,Germany,Computer Desk,1,1.0,0.775606588466159
+75769,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+75194,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+75778,BrewMaster,Italy,Coffee Maker,1,2.0,0.7838545957955292
+75586,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+76871,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+76338,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+77039,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76065,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76462,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75105,GermanWorks,Germany,Computer Desk,1,2.0,0.775606588466159
+75898,BrewMaster,Italy,Coffee Maker,1,0.0,0.7838545957955292
+75529,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75235,BrightTech,Taiwan,Desk Lamp,1,4.0,0.5400723522382423
+76693,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76260,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75317,TechPrecision,Japan,Wireless Keyboard,1,1.0,0.7432475123815211
+76351,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75084,Nordic Craft,Sweden ,Office Chair,1,1.0,0.9874803132252122
+76230,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76744,ComfortCraft,Poland,Armchair,1,3.0,0.6238127851986586
+76074,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+75805,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76332,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75435,SteelBuilt,USA,File Cabinet,1,2.0,0.6152228857279257
+76342,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+76705,ComfortCraft,Poland,Armchair,1,4.0,0.6238127851986586
+77197,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+77025,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+76595,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+77052,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+76550,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75554,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75108,GermanWorks,Germany,Computer Desk,1,0.0,0.775606588466159
+75178,GermanWorks,Germany,Computer Desk,1,0.0,0.775606588466159
+76249,ComfortCraft,Poland,Armchair,1,3.0,0.6238127851986586
+76733,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+77030,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+75993,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+75675,AudioTech,South Korea,Headphones,1,2.0,0.6805677106619946
+76632,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75144,GermanWorks,Germany,Computer Desk,1,3.0,0.775606588466159
+76246,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75527,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75521,AudioTech,South Korea,Headphones,1,-2.0,0.6805677106619946
+76599,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76034,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+76251,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76626,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+76384,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76011,ConnectPlus,Taiwan,Smart Plug,1,-2.0,0.4623262252056624
+76964,DataLink,South Korea,USB Hub,1,3.0,0.6821784935144298
+76390,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75888,BrewMaster,Italy,Coffee Maker,1,0.0,0.7838545957955292
+75750,BrewMaster,Italy,Coffee Maker,1,2.0,0.7838545957955292
+76185,ConnectPlus,Taiwan,Smart Plug,1,4.0,0.4623262252056624
+76092,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+77137,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75259,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+77121,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+75705,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75141,GermanWorks,Germany,Computer Desk,1,0.0,0.775606588466159
+77009,DataLink,South Korea,USB Hub,1,3.0,0.6821784935144298
+76174,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+75168,GermanWorks,Germany,Computer Desk,1,0.0,0.775606588466159
+77203,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+76801,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76549,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76958,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+75294,BrightTech,Taiwan,Desk Lamp,1,0.0,0.5400723522382423
+76947,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76151,ConnectPlus,Taiwan,Smart Plug,1,-2.0,0.4623262252056624
+76551,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+75116,GermanWorks,Germany,Computer Desk,1,-2.0,0.775606588466159
+75857,BrewMaster,Italy,Coffee Maker,1,-1.0,0.7838545957955292
+75186,BrightTech,Taiwan,Desk Lamp,1,-2.0,0.5400723522382423
+75436,SteelBuilt,USA,File Cabinet,1,-2.0,0.6152228857279257
+76971,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+75849,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76211,ConnectPlus,Taiwan,Smart Plug,1,-2.0,0.4623262252056624
+76847,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+76475,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76367,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76474,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76272,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+77034,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76571,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+77120,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+77064,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75243,BrightTech,Taiwan,Desk Lamp,1,0.0,0.5400723522382423
+76150,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+75701,AudioTech,South Korea,Headphones,1,-2.0,0.6805677106619946
+75325,TechPrecision,Japan,Wireless Keyboard,1,2.0,0.7432475123815211
+75854,BrewMaster,Italy,Coffee Maker,1,3.0,0.7838545957955292
+75848,BrewMaster,Italy,Coffee Maker,1,2.0,0.7838545957955292
+76999,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76854,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76007,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+75287,BrightTech,Taiwan,Desk Lamp,1,-1.0,0.5400723522382423
+76386,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75990,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76013,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+76136,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+77015,DataLink,South Korea,USB Hub,1,4.0,0.6821784935144298
+76429,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76830,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+76205,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76135,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76980,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+77078,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+77171,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+76477,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75454,SteelBuilt,USA,File Cabinet,1,1.0,0.6152228857279257
+76479,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76176,ConnectPlus,Taiwan,Smart Plug,1,-2.0,0.4623262252056624
+76033,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+77200,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+76032,ConnectPlus,Taiwan,Smart Plug,1,-1.0,0.4623262252056624
+75566,AudioTech,South Korea,Headphones,1,-2.0,0.6805677106619946
+76200,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76706,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76762,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75885,BrewMaster,Italy,Coffee Maker,1,4.0,0.7838545957955292
+77014,DataLink,South Korea,USB Hub,1,3.0,0.6821784935144298
+76738,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75226,BrightTech,Taiwan,Desk Lamp,1,-2.0,0.5400723522382423
+75997,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+75207,BrightTech,Taiwan,Desk Lamp,1,-1.0,0.5400723522382423
+77059,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76229,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76894,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76923,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+76326,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+77195,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76076,ConnectPlus,Taiwan,Smart Plug,1,-2.0,0.4623262252056624
+75744,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+75886,BrewMaster,Italy,Coffee Maker,1,-2.0,0.7838545957955292
+76594,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76547,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+76124,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+77051,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+77033,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75147,GermanWorks,Germany,Computer Desk,1,1.0,0.775606588466159
+77164,DataLink,South Korea,USB Hub,1,3.0,0.6821784935144298
+76268,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76530,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+77029,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+76075,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+75091,GermanWorks,Germany,Computer Desk,1,1.0,0.775606588466159
+76327,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+76347,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76308,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76215,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75547,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+76652,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75093,GermanWorks,Germany,Computer Desk,1,2.0,0.775606588466159
+77176,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+75870,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76005,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76685,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76306,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75490,AudioTech,South Korea,Headphones,1,2.0,0.6805677106619946
+77044,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75865,BrewMaster,Italy,Coffee Maker,1,0.0,0.7838545957955292
+76457,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76470,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76544,ComfortCraft,Poland,Armchair,1,3.0,0.6238127851986586
+75492,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75281,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+77061,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+75305,BrightTech,Taiwan,Desk Lamp,1,2.0,0.5400723522382423
+75346,SteelBuilt,USA,File Cabinet,1,-2.0,0.6152228857279257
+76822,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76713,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75875,BrewMaster,Italy,Coffee Maker,1,4.0,0.7838545957955292
+76548,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+77157,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+75974,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+75585,AudioTech,South Korea,Headphones,1,2.0,0.6805677106619946
+76561,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+77072,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+75868,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76322,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76450,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75478,SteelBuilt,USA,File Cabinet,1,1.0,0.6152228857279257
+75785,BrewMaster,Italy,Coffee Maker,1,2.0,0.7838545957955292
+77139,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76275,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75657,AudioTech,South Korea,Headphones,1,-1.0,0.6805677106619946
+76857,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+75321,TechPrecision,Japan,Wireless Keyboard,1,-2.0,0.7432475123815211
+76912,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+76456,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75970,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76600,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76505,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75893,BrewMaster,Italy,Coffee Maker,1,0.0,0.7838545957955292
+76973,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+75640,AudioTech,South Korea,Headphones,1,4.0,0.6805677106619946
+76106,ConnectPlus,Taiwan,Smart Plug,1,-2.0,0.4623262252056624
+75811,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+77080,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75771,BrewMaster,Italy,Coffee Maker,1,0.0,0.7838545957955292
+75624,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75955,ConnectPlus,Taiwan,Smart Plug,1,4.0,0.4623262252056624
+75522,AudioTech,South Korea,Headphones,1,-1.0,0.6805677106619946
+76701,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75445,SteelBuilt,USA,File Cabinet,1,1.0,0.6152228857279257
+76165,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+75511,AudioTech,South Korea,Headphones,1,0.0,0.6805677106619946
+76523,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75202,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+75947,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+76233,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76167,ConnectPlus,Taiwan,Smart Plug,1,-1.0,0.4623262252056624
+76757,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+76949,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76206,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+75133,GermanWorks,Germany,Computer Desk,1,0.0,0.775606588466159
+75756,BrewMaster,Italy,Coffee Maker,1,-2.0,0.7838545957955292
+76125,ConnectPlus,Taiwan,Smart Plug,1,4.0,0.4623262252056624
+75304,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+76024,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+76780,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76903,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76804,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75307,BrightTech,Taiwan,Desk Lamp,1,0.0,0.5400723522382423
+76633,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76330,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+77002,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+75512,AudioTech,South Korea,Headphones,1,0.0,0.6805677106619946
+76512,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75191,BrightTech,Taiwan,Desk Lamp,1,-2.0,0.5400723522382423
+76681,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+76715,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+75159,GermanWorks,Germany,Computer Desk,1,1.0,0.775606588466159
+75110,GermanWorks,Germany,Computer Desk,1,2.0,0.775606588466159
+76448,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76604,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75221,BrightTech,Taiwan,Desk Lamp,1,-2.0,0.5400723522382423
+75315,TechPrecision,Japan,Wireless Keyboard,1,1.0,0.7432475123815211
+75322,TechPrecision,Japan,Wireless Keyboard,1,-1.0,0.7432475123815211
+76244,ComfortCraft,Poland,Armchair,1,3.0,0.6238127851986586
+75557,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+76590,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+77110,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+76708,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75860,BrewMaster,Italy,Coffee Maker,1,2.0,0.7838545957955292
+75737,BrewMaster,Italy,Coffee Maker,1,-1.0,0.7838545957955292
+76164,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+76783,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75275,BrightTech,Taiwan,Desk Lamp,1,2.0,0.5400723522382423
+75112,GermanWorks,Germany,Computer Desk,1,-1.0,0.775606588466159
+76858,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+75802,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76704,ComfortCraft,Poland,Armchair,1,3.0,0.6238127851986586
+75551,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75846,BrewMaster,Italy,Coffee Maker,1,-2.0,0.7838545957955292
+76168,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+75912,BrewMaster,Italy,Coffee Maker,1,-1.0,0.7838545957955292
+75940,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76541,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76100,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76662,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75666,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+76144,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+75319,TechPrecision,Japan,Wireless Keyboard,1,1.0,0.7432475123815211
+76640,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76747,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76341,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+75196,BrightTech,Taiwan,Desk Lamp,1,-2.0,0.5400723522382423
+76026,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+75342,SteelBuilt,USA,File Cabinet,1,-1.0,0.6152228857279257
+75348,SteelBuilt,USA,File Cabinet,1,2.0,0.6152228857279257
+76413,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+77035,DataLink,South Korea,USB Hub,1,4.0,0.6821784935144298
+76469,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75775,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76084,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+76868,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+75122,GermanWorks,Germany,Computer Desk,1,-1.0,0.775606588466159
+75913,BrewMaster,Italy,Coffee Maker,1,0.0,0.7838545957955292
+77124,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75509,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+76369,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75628,AudioTech,South Korea,Headphones,1,0.0,0.6805677106619946
+76805,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75525,AudioTech,South Korea,Headphones,1,2.0,0.6805677106619946
+75789,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+77163,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+76907,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76209,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+77090,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75104,GermanWorks,Germany,Computer Desk,1,1.0,0.775606588466159
+75650,AudioTech,South Korea,Headphones,1,2.0,0.6805677106619946
+75674,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75166,GermanWorks,Germany,Computer Desk,1,-2.0,0.775606588466159
+76225,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76888,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+75338,TechPrecision,Japan,Wireless Keyboard,1,1.0,0.7432475123815211
+76527,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75804,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76835,DataLink,South Korea,USB Hub,1,2.0,0.6821784935144298
+76689,ComfortCraft,Poland,Armchair,1,3.0,0.6238127851986586
+75762,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76574,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+77031,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+76940,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75539,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75543,AudioTech,South Korea,Headphones,1,0.0,0.6805677106619946
+77076,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+75545,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+75790,BrewMaster,Italy,Coffee Maker,1,4.0,0.7838545957955292
+76976,DataLink,South Korea,USB Hub,1,-2.0,0.6821784935144298
+75907,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76078,ConnectPlus,Taiwan,Smart Plug,1,2.0,0.4623262252056624
+76057,ConnectPlus,Taiwan,Smart Plug,1,-1.0,0.4623262252056624
+76238,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75339,SteelBuilt,USA,File Cabinet,1,1.0,0.6152228857279257
+76661,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+76520,ComfortCraft,Poland,Armchair,1,4.0,0.6238127851986586
+76265,ComfortCraft,Poland,Armchair,1,4.0,0.6238127851986586
+77074,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76674,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75430,SteelBuilt,USA,File Cabinet,1,4.0,0.6152228857279257
+76677,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+76531,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+76838,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+76152,ConnectPlus,Taiwan,Smart Plug,1,-1.0,0.4623262252056624
+75958,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+76417,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75900,BrewMaster,Italy,Coffee Maker,1,1.0,0.7838545957955292
+76983,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+76371,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+77006,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+76468,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76897,DataLink,South Korea,USB Hub,1,1.0,0.6821784935144298
+75201,BrightTech,Taiwan,Desk Lamp,1,-2.0,0.5400723522382423
+75655,AudioTech,South Korea,Headphones,1,2.0,0.6805677106619946
+75299,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+77082,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+76786,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75968,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+76302,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+76955,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+75185,BrightTech,Taiwan,Desk Lamp,1,2.0,0.5400723522382423
+75115,GermanWorks,Germany,Computer Desk,1,2.0,0.775606588466159
+76157,ConnectPlus,Taiwan,Smart Plug,1,-1.0,0.4623262252056624
+77003,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+76378,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76773,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+76296,ComfortCraft,Poland,Armchair,1,-2.0,0.6238127851986586
+76278,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76050,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+75758,BrewMaster,Italy,Coffee Maker,1,2.0,0.7838545957955292
+75949,ConnectPlus,Taiwan,Smart Plug,1,3.0,0.4623262252056624
+75447,SteelBuilt,USA,File Cabinet,1,-1.0,0.6152228857279257
+76312,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75429,SteelBuilt,USA,File Cabinet,1,1.0,0.6152228857279257
+76059,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+75643,AudioTech,South Korea,Headphones,1,2.0,0.6805677106619946
+75978,ConnectPlus,Taiwan,Smart Plug,1,0.0,0.4623262252056624
+75151,GermanWorks,Germany,Computer Desk,1,-2.0,0.775606588466159
+77142,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+75767,BrewMaster,Italy,Coffee Maker,1,-1.0,0.7838545957955292
+76699,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76264,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76403,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+76263,ComfortCraft,Poland,Armchair,1,0.0,0.6238127851986586
+75736,BrewMaster,Italy,Coffee Maker,1,-2.0,0.7838545957955292
+75487,AudioTech,South Korea,Headphones,1,-1.0,0.6805677106619946
+76188,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+76297,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75456,SteelBuilt,USA,File Cabinet,1,-2.0,0.6152228857279257
+75284,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+75699,AudioTech,South Korea,Headphones,1,1.0,0.6805677106619946
+76506,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586
+75732,BrewMaster,Italy,Coffee Maker,1,-1.0,0.7838545957955292
+76588,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+76287,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+76372,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75476,SteelBuilt,USA,File Cabinet,1,-2.0,0.6152228857279257
+75163,GermanWorks,Germany,Computer Desk,1,0.0,0.775606588466159
+75752,BrewMaster,Italy,Coffee Maker,1,-1.0,0.7838545957955292
+76768,ComfortCraft,Poland,Armchair,1,2.0,0.6238127851986586
+77087,DataLink,South Korea,USB Hub,1,-1.0,0.6821784935144298
+76280,ComfortCraft,Poland,Armchair,1,4.0,0.6238127851986586
+75183,GermanWorks,Germany,Computer Desk,1,0.0,0.775606588466159
+76427,ComfortCraft,Poland,Armchair,1,-1.0,0.6238127851986586
+75300,BrightTech,Taiwan,Desk Lamp,1,1.0,0.5400723522382423
+75983,ConnectPlus,Taiwan,Smart Plug,1,1.0,0.4623262252056624
+77091,DataLink,South Korea,USB Hub,1,0.0,0.6821784935144298
+76750,ComfortCraft,Poland,Armchair,1,1.0,0.6238127851986586

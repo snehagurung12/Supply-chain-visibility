@@ -1,0 +1,30 @@
+Feature,Importance
+supplier_country_Taiwan,0.20748535912418206
+product_name_Smart Plug,0.08276452280805437
+supplier_name_ConnectPlus,0.06567335898186763
+product_name_Coffee Maker,0.052134296380033446
+supplier_name_BrewMaster,0.04623496998895099
+supplier_country_South Korea,0.043721163427931184
+supplier_country_Germany,0.042197793481293724
+supplier_country_Italy,0.04112507798899952
+supplier_name_AudioTech,0.040179540921900646
+product_name_Computer Desk,0.03853947871886597
+supplier_name_GermanWorks,0.03070420583918213
+product_name_Armchair,0.028821830547944727
+product_name_Headphones,0.025207631976684047
+supplier_name_ComfortCraft,0.025013027007244767
+product_name_USB Hub,0.024401229064080047
+supplier_name_DataLink,0.02305987902952576
+supplier_country_Poland,0.022362097074594724
+product_name_File Cabinet,0.01936972797236725
+supplier_name_BrightTech,0.0191980766640696
+product_name_Desk Lamp,0.018487378557965856
+product_name_Wireless Keyboard,0.01818284897292325
+supplier_name_TechPrecision,0.015392722477637467
+supplier_country_Japan,0.01528239394406933
+supplier_country_USA,0.014725653444032946
+supplier_name_SteelBuilt,0.012946803720806251
+supplier_name_Nordic Craft,0.009298647465670077
+supplier_country_Sweden ,0.008860740553545007
+product_name_Office Chair,0.00862954386557739
+order_item_quantity,0.0
