@@ -1,34 +1,56 @@
-# 🌐 Supply Chain Visibility & Predictive Analysis  
-*Free-Tools Simulation → Azure Cloud Migration Ready*
+<!-- Banner or cover image -->
+<p align="center">
+  <img src="Architecture/SCV_Architecture.png" width="90%" alt="Supply Chain Architecture Overview"/>
+</p>
+
+<h1 align="center">🌐 Supply Chain Visibility & Predictive Analysis</h1>
+<h3 align="center">🔹 Free-Tools Simulation → Azure Cloud Migration Ready 🔹</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Azure-Ready-blue?logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/License-MIT-green"/>
+</p>
 
 ---
 
-### 📖 Project Overview  
-This project demonstrates how real-world **supply chain analytics** can be achieved **using free tools** (Google Colab + Power BI + GitHub) while **simulating Azure Cloud architecture**.  
+## 🚀 **Project Overview**
 
-It provides **end-to-end visibility** of orders, shipments, and supplier performance — enabling **data-driven decisions**, predictive forecasting, and proactive risk alerts.
+This project showcases a **real-world supply chain analytics system** built entirely with **free tools** (Google Colab + Power BI + GitHub) while **simulating Azure Cloud architecture**.  
+It provides complete **visibility**, **predictive insights**, and **performance analytics** — all ready for direct migration to Azure services.
+
+🎯 **Goal:** Demonstrate how powerful cloud-inspired architectures can be built cost-free — ideal for students, analysts, and cloud architects.
 
 ---
 
-### 🧩 Why This Project Matters  
-Modern enterprises struggle with fragmented logistics data and delayed insights.  
+## 🧩 **Why This Project Matters**
+> _“In supply chains, visibility is power.”_
+
+Enterprises often lack integrated data and forecasting capabilities.  
 This project bridges that gap by:
-- Creating a **single source of truth** for orders, shipments, and suppliers  
-- Enabling **real-time tracking and performance analytics**  
-- Using **predictive modeling** to forecast demand and shipment delays  
-- Being **fully reproducible** using free tools and ready for **Azure migration**
+
+✅ Creating a **single source of truth** for orders, shipments, and suppliers  
+✅ Predicting **shipment delays** and **demand fluctuations**  
+✅ Providing **real-time dashboards** for smarter decision making  
+✅ Using **Azure-equivalent architecture** with 100% free tools  
 
 ---
 
-### 🛠️ Tech Stack & Architecture  
+## 🏗️ **Tech Stack & Architecture**
 
 | Layer | Free Tools (Simulation) | Azure Equivalent |
 |-------|--------------------------|------------------|
-| Data Storage | GitHub CSVs | **Azure Blob Storage** |
-| ETL & Processing | Google Colab (Pandas, NumPy) | **Azure Data Factory + Synapse** |
-| ML Models | Scikit-Learn | **Azure ML / Synapse ML** |
-| Visualization | Power BI Desktop | **Power BI Service** |
+| **Data Storage** | GitHub CSVs | Blob Storage |
+| **ETL & Processing** | Google Colab (Pandas, NumPy) | Data Factory + Synapse |
+| **ML Models** | Scikit-Learn | Azure ML / Synapse ML |
+| **Visualization** | Power BI Desktop | Power BI Service |
 
+<p align="center">
+  <img src="Architecture/Azure_Like_Pipeline.png" width="80%" alt="Azure Inspired Architecture Diagram"/>
+</p>
+
+---
 
 🗂️ **Folder Structure**
 📦 Supply-chain-visibility
@@ -280,11 +302,11 @@ MIT License — Free to use for learning and academic purposes.
 
 🌟 Let’s Connect
 
-Author: Prasun Ghale
+Author: Sneha Gurung
 
-GitHub: github.com/prasungithub
+GitHub: github.com/snehagurung12
 
-LinkedIn: linkedin.com/in/prasungale
+LinkedIn: linkedin.com/in/SnehaGurung
 
 💬 This project is part of a portfolio demonstrating Azure Solution Architect and Data Analytics capabilities using cost-free, scalable alternatives.
 
