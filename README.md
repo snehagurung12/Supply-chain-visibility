@@ -1,8 +1,3 @@
-<!-- Banner or cover image -->
-<p align="center">
-  <img src="Architecture/SCV_Architecture.png" width="90%" alt="Supply Chain Architecture Overview"/>
-</p>
-
 <h1 align="center">🌐 Supply Chain Visibility & Predictive Analysis</h1>
 <h3 align="center">🔹 Free-Tools Simulation → Azure Cloud Migration Ready 🔹</h3>
 
