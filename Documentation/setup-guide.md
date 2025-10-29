@@ -1,12 +1,18 @@
+**Purpose:** How others can run the project.
 
-## 📦 Simulating Azure Data Pipeline Using Google Colab
+```markdown
+# ⚙️ Setup Guide
 
-1. Upload your supply chain dataset in Colab using the files.upload() function.
-2. Use Pandas to clean, filter, and process the dataset.
-3. Export the cleaned data as CSV and HTML.
-4. This simulates:
-   - Azure Data Factory ➜ Pandas logic
-   - Azure Blob Storage ➜ CSV/HTML output
-   - Azure SQL ➜ Pandas DataFrame
+### Requirements
+- Python 3.10+
+- Google Colab or Jupyter Notebook
+- Power BI Desktop (latest)
+- GitHub account
 
-[Open Pipeline Notebook](../pipeline/simulate_pipeline.ipynb)
+### Steps
+1. Clone the repo  
+   `git clone https://github.com/snehagurung12/Supply-chain-visibility.git`
+2. Open Colab and upload `/Notebook` files.
+3. Run notebooks to generate cleaned data.
+4. Open `/PowerBi/SCV_Report.pbix` → refresh data.
+5. View interactive visuals (slicers, filters, live tracking).
