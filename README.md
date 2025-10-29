@@ -176,18 +176,17 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 
 ---
 
-## 📊 Dashboard Highlights
+## 💫 **Power BI Dashboard Pages**
 
-| Page         | Key Visuals                                                                 |
-|--------------|------------------------------------------------------------------------------|
-| Overview     | Total Orders, Shipment KPIs, Delay %, Top Products, Forecast Tooltip Chart  |
-| Operations   | In-Transit Status Cards, Risk Alerts, Monthly Delays                        |
-| Analytics    | Order Trends, Category Breakdown, Segment-wise Sales                        |
-| Suppliers    | Supplier Scorecard, Delay by Region, Pie of Supplier Ratings                 |
-| Live Tracking| Status Filter, Hover Effects, Shipment Distribution                         |
-| Forecast     | Forecast vs Actual Chart, Post-Cutoff Tooltip, Category Predictions          |
+| Page | Purpose | Highlights |
+|------|----------|-------------|
+| **1️⃣ Overview** | Executive summary | KPIs, trends, and region filters |
+| **2️⃣ Operations** | Process tracking | In-transit vs delivered metrics, risk alerts |
+| **3️⃣ Suppliers** | Performance ranking | Conditional formatting, late rate, fulfillment |
+| **4️⃣ Live Tracking** | Control tower | Status filters with hover animations |
+| **5️⃣ Forecast** | Predictive analytics | Actual vs Forecast lines + model accuracy |
 
-> Enhanced with hover tooltips, smooth slicers, pastel UI theme, and icon-based tabs.
+✨ Each page uses **DAX measures**, **cross-filtering**, and **tooltip insights** for interaction.
 
 ---
 
@@ -234,7 +233,18 @@ On-Time % =
 VAR ontime = CALCULATE([Total Shipments], FILTER(Shipments, [Late Flag] = 0))
 RETURN DIVIDE(ontime, [Total Shipments])
 
+Risk Alert =
+VAR lateRate = CALCULATE(AVERAGE([Late Flag]), ALLEXCEPT(Shipments, Shipments[Route]))
+RETURN IF(lateRate > 0.2, "⚠️ High", "✅ Normal")
+
 ---
+
+🔮 Machine Learning Overview
+| Model                         | Type           | Target         | Tools         | Metrics          |
+| ----------------------------- | -------------- | -------------- | ------------- | ---------------- |
+| **Shipment Delay Prediction** | Regression     | Delay Days     | Scikit-Learn  | RMSE, MAE, R²    |
+| **Demand Forecasting**        | Classification | Monthly Orders | Decision Tree | Accuracy, Recall |
+
 
 🔁 Migration Path to Azure
 
@@ -267,13 +277,24 @@ All models trained and visualized in Google Colab.
 ✔ Support data-driven logistics decisions
 ✔ Build Azure-ready architecture on free tools
 
+🧠 Key Learnings
+
+📍 Data Cleaning & EDA (Pandas, Matplotlib, Seaborn)
+📍 ML Model Building (Scikit-Learn)
+📍 DAX & Power BI Calculations
+📍 Cloud Simulation & Architecture Design
+📍 GitHub Version Control & Project Documentation
+
 💡 Future Enhancements
 
-Automate ETL pipeline using Azure Data Factory
+⏩ Automate ETL with Azure Data Factory
 
-Deploy model inference API with Azure Functions
+☁️ Host model APIs using Azure Functions
 
-Enable Power BI live connection to Azure Synapse
+🔗 Connect Power BI to live Synapse endpoints
+
+📦 Deploy using Azure DevOps pipelines
+
 
 👩‍💻 Contributors
 Name	Role
@@ -281,15 +302,18 @@ Sneha Gurung	Azure Solution Architect Lead
 Srishti Poudel  	Data Analyst
 🪄 How to Run (Free Simulation)
 
-Clone this repo
+🎬 How to Run This Project
+# 1️⃣ Clone this repo
+git clone https://github.com/snehagurung12/Supply-chain-visibility.git
 
-Open Notebook/01_EDA.ipynb and 02_ML.ipynb in Google Colab
+# 2️⃣ Open notebooks in Google Colab
+Notebook/01_EDA.ipynb
+Notebook/02_ML.ipynb
 
-Run all cells → cleaned data saved in /Data/clean/
+# 3️⃣ Run all cells → cleaned CSV outputs
+# 4️⃣ Open PowerBi/SCV_Report.pbix in Power BI Desktop
+# 5️⃣ Refresh visuals using local Data/clean folder
 
-Open PowerBi/SCV_Report.pbix → update file path to local /Data/clean/
-
-Explore visuals using slicers and filters
 
 🧾 License
 
