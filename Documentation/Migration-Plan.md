@@ -1,5 +1,7 @@
 # ☁️ Migration Plan — Free Simulation → Azure Cloud
 
+This document describes how the current free-tool implementation can be migrated into a full-scale Azure environment.
+
 ## 🎯 Objective
 To migrate the current free-tool simulation into a scalable Azure-based supply chain analytics solution.
 
