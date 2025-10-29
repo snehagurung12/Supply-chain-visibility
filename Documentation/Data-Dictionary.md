@@ -1,5 +1,8 @@
 # 📊 Data Dictionary
 
+This document defines all key fields and datasets used across the project for data consistency and transparency.
+
+
 | Dataset | Field | Description | Example |
 |----------|--------|-------------|----------|
 | **Orders** | OrderID | Unique identifier for each order | O1001 |
