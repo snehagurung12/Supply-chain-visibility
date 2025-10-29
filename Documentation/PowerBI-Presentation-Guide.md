@@ -1,6 +1,6 @@
 # 🎥 Power BI Presentation Guide
 
-This guide walks through the interactive report developed for the *Supply Chain Visibility & Predictive Analysis* project.
+*This guide helps presenters or reviewers understand the story behind each Power BI page.*
 
 ---
 
