@@ -31,3 +31,9 @@ Lack of transparency and prediction in traditional supply chain processes causes
 ## Conclusion
 This project successfully demonstrates end-to-end visibility and forecasting in a supply chain pipeline using free tools, providing a strong foundation for Azure migration.
 
+### References
+- Microsoft Learn: Azure Data Factory & Synapse Analytics Docs  
+- Power BI Documentation  
+- scikit-learn.org for ML model references
+
+
