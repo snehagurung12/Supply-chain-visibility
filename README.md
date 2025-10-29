@@ -1,36 +1,47 @@
+# 🌐 Supply Chain Visibility & Predictive Analysis  
+*Free-Tools Simulation → Azure Cloud Migration Ready*
 
-# Supply Chain Visibility & Predictive Analysis (Free Tools → Azure)
+---
 
-**Status:** v0.1 (Free-tools simulation) → **Planned v1.0 (Azure deployment)**
+### 📖 Project Overview  
+This project demonstrates how real-world **supply chain analytics** can be achieved **using free tools** (Google Colab + Power BI + GitHub) while **simulating Azure Cloud architecture**.  
 
-## What this is
-A complete **supply chain analytics stack** built with free tools (GitHub, Google Colab, Power BI Desktop) that **simulates Azure services**. It delivers:
-- Cleaned datasets and a reproducible ETL/ML pipeline (Colab)
-- An interactive Power BI report (overview, operations, suppliers, live tracking, forecast)
-- Draft migration path to **Azure Blob + Data Factory + Synapse + Power BI Service**
+It provides **end-to-end visibility** of orders, shipments, and supplier performance — enabling **data-driven decisions**, predictive forecasting, and proactive risk alerts.
 
-## 👥 Team & Role Distribution
+---
 
-| Role                     | Responsibilities |
-|--------------------------|------------------|
-| **Azure Solution Architect** | Designed the system architecture, simulated data pipeline, built machine learning models in Google Colab, managed forecast output integration, and led dashboard structural design. |
-| **Data Analyst**             | Performed data profiling, cleaning, and preprocessing; conducted exploratory data analysis; developed slicer logic and insights in Power BI; refined dashboard layout and tooltip interactions. |
+### 🧩 Why This Project Matters  
+Modern enterprises struggle with fragmented logistics data and delayed insights.  
+This project bridges that gap by:
+- Creating a **single source of truth** for orders, shipments, and suppliers  
+- Enabling **real-time tracking and performance analytics**  
+- Using **predictive modeling** to forecast demand and shipment delays  
+- Being **fully reproducible** using free tools and ready for **Azure migration**
 
-> The team collaborated closely to simulate Azure services using open-source tools and divide responsibilities in line with real-world cloud project workflows.
+---
 
-## 🛠 Tools Used
-- Google Colab (for data cleaning)
-- Azure Synapse (simulated)
-- Power BI
-- GitHub
+### 🛠️ Tech Stack & Architecture  
 
-## 📁 Structure
-- /data – datasets
-- /notebooks – Colab notebooks
-- /architecture – Azure diagram and design
-- /powerbi – dashboards
-- /pipeline        → Simulated ETL notebook, cleaned CSV, HTML summary
-- /documentation – findings and summaries
+| Layer | Free Tools (Simulation) | Azure Equivalent |
+|-------|--------------------------|------------------|
+| Data Storage | GitHub CSVs | **Azure Blob Storage** |
+| ETL & Processing | Google Colab (Pandas, NumPy) | **Azure Data Factory + Synapse** |
+| ML Models | Scikit-Learn | **Azure ML / Synapse ML** |
+| Visualization | Power BI Desktop | **Power BI Service** |
+
+
+🗂️ **Folder Structure**
+📦 Supply-chain-visibility
+┣ 📁 Architecture # Azure-like architecture diagrams
+┣ 📁 Data # Raw & cleaned datasets
+┣ 📁 Documentation # Project documentation and presentation guide
+┣ 📁 ML # Forecasting and delay prediction outputs
+┣ 📁 Notebook # Google Colab notebooks for EDA & ML
+┣ 📁 pipeline # Simulated ETL pipeline steps
+┣ 📁 PowerBi # Power BI report (.pbix) and screenshots
+┗ 📄 README.md
+
+---
 
 ## 🧩 Architecture Diagram
 
@@ -173,22 +184,124 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 
 ---
 
-## 📌 ML Pipeline Code (Colab Example)
+### 📊 Power BI Dashboard Overview  
+#### 🧭 **1. Overview Page**
+KPI cards show *Total Orders*, *On-Time %*, and *Average Delay*.  
+Visuals update dynamically by region, date, and shipment status.
 
-```python
-# Encode shipping mode
-df['Shipping_Mode'] = df['Shipping_Mode'].astype('category').cat.codes
+#### ⚙️ **2. Operations Page**
+Tracks active shipments, late orders, and performance across transport modes.  
+Includes **risk alerts** (highlighted via DAX measures).
 
-# Train Decision Tree for demand forecasting
-from sklearn.tree import DecisionTreeClassifier
-model = DecisionTreeClassifier()
-model.fit(X_train, y_train)
+#### 🏢 **3. Suppliers Page**
+Ranks suppliers by *on-time delivery rate*, *delay days*, and *fulfillment volume*.  
+Uses conditional formatting to flag underperformers.
 
-# Export forecast
-forecast_df.to_csv('forecast_output.csv')
+#### 🛰️ **4. Live Tracking Page**
+Simulates a **control-tower view** with real-time shipment status.  
+Interactive “In-Transit”, “Processing”, and “Delivered” filters with hover effects.
 
-•	Run /pipeline/simulate_pipeline.ipynb to process data.
-	•	Open /powerbi to explore dashboard .pbix files.
-	•	Review /documentation/EDA_Report.pdf for detailed insights.
+#### 🔮 **5. Forecast Page**
+Compares **actual vs predicted demand** using machine learning models.  
+Shows performance metrics: **RMSE**, **MAE**, and **R²**.
 
+---
+
+### 🧮 Key DAX Highlights  
+```DAX
+Late Flag =
+VAR diff = DATEDIFF(Shipments[ShipDate], Shipments[DeliveredDate], DAY)
+RETURN IF(diff > 0, 1, 0)
+
+On-Time % =
+VAR ontime = CALCULATE([Total Shipments], FILTER(Shipments, [Late Flag] = 0))
+RETURN DIVIDE(ontime, [Total Shipments])
+
+---
+
+🔁 Migration Path to Azure
+
+When upgraded, this project will integrate directly with Azure:
+
+Blob Storage for centralized data ingestion
+
+Data Factory to automate ETL pipelines
+
+Synapse Analytics for warehouse and modeling
+
+Power BI Service for live dashboard updates
+
+🧩 Documentation/Migration-Plan.md details step-by-step Azure equivalents.
+
+🧠 Machine Learning Models
+
+Shipment Delay Prediction: Random Forest Regressor
+
+Demand Forecasting: Decision Tree Classifier
+
+Evaluation Metrics: RMSE, MAE, R²
+
+All models trained and visualized in Google Colab.
+
+📈 Project Goals
+
+✔ Enhance supply chain visibility
+✔ Predict late deliveries
+✔ Support data-driven logistics decisions
+✔ Build Azure-ready architecture on free tools
+
+💡 Future Enhancements
+
+Automate ETL pipeline using Azure Data Factory
+
+Deploy model inference API with Azure Functions
+
+Enable Power BI live connection to Azure Synapse
+
+👩‍💻 Contributors
+Name	Role
+Sneha Gurung	Azure Solution Architect Lead
+Srishti Poudel  	Data Analyst
+🪄 How to Run (Free Simulation)
+
+Clone this repo
+
+Open Notebook/01_EDA.ipynb and 02_ML.ipynb in Google Colab
+
+Run all cells → cleaned data saved in /Data/clean/
+
+Open PowerBi/SCV_Report.pbix → update file path to local /Data/clean/
+
+Explore visuals using slicers and filters
+
+🧾 License
+
+MIT License — Free to use for learning and academic purposes.
+
+🌟 Let’s Connect
+
+Author: Prasun Ghale
+
+GitHub: github.com/prasungithub
+
+LinkedIn: linkedin.com/in/prasungale
+
+💬 This project is part of a portfolio demonstrating Azure Solution Architect and Data Analytics capabilities using cost-free, scalable alternatives.
+
+
+---
+
+## 🔧 Recommended Enhancements
+In your GitHub:
+1. Replace current `README.md` with the above version.  
+2. Add a **hero image or architecture diagram** at the top:
+   ```markdown
+   ![Project Architecture](Architecture/SCV_Architecture.png)
+
+
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)
+![Azure](https://img.shields.io/badge/Azure-Ready-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
