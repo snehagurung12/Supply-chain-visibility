@@ -34,54 +34,60 @@ This project bridges that gap by:
 
 ## 🏗️ **Tech Stack & Architecture**
 
-| Layer | Free Tools (Simulation) | Azure Equivalent |
-|-------|--------------------------|------------------|
-| **Data Storage** | GitHub CSVs | Blob Storage |
-| **ETL & Processing** | Google Colab (Pandas, NumPy) | Data Factory + Synapse |
-| **ML Models** | Scikit-Learn | Azure ML / Synapse ML |
-| **Visualization** | Power BI Desktop | Power BI Service |
+| Layer            | Free Tools (Simulation)        | Azure Equivalent          |
+| ---------------- | ------------------------------ | ------------------------- |
+| Data Storage     | GitHub `/Data/`                | Blob Storage (ADLS Gen2)  |
+| ETL / Pipeline   | Google Colab (Pandas + Python) | Azure Data Factory        |
+| Data Warehouse   | CSV / Parquet                  | Synapse Analytics         |
+| Machine Learning | Scikit-Learn in Colab          | Azure ML / Synapse ML     |
+| Visualization    | Power BI Desktop               | Power BI Service / Fabric |
 
 ---
 
 🗂️ **Folder Structure**
 
-📦 Supply-chain-visibility
- ┣ 📁 Architecture
- ┃ ┣ SCV_Architecture.png
- ┃ ┣ Azure_Migration_Diagram.png
- ┃ ┗ Dataflow_Overview.drawio
- ┣ 📁 Data
- ┃ ┣ raw/               # Original CSVs
- ┃ ┗ clean/             # Processed / cleaned data
- ┣ 📁 Notebook
- ┃ ┣ 01_Data_Cleaning_EDA.ipynb
- ┃ ┗ 02_ML_Modeling_Forecast.ipynb
- ┣ 📁 PowerBI
- ┃ ┣ SCV_Report.pbix
- ┃ ┣ screenshots/
- ┃ ┃ ┣ Overview.png
- ┃ ┃ ┣ Operations.png
- ┃ ┃ ┣ Suppliers.png
- ┃ ┃ ┣ LiveTracking.png
- ┃ ┃ ┗ Forecast.png
- ┃ ┗ MEASURES.md
- ┣ 📁 Documentation
- ┃ ┣ PowerBI-Presentation-Guide.md
- ┃ ┣ Data-Dictionary.md
- ┃ ┣ Migration-Plan.md
- ┃ ┗ Project-Report.md
- ┣ 📁 ML
- ┃ ┣ shipment_delay_prediction.csv
- ┃ ┣ demand_forecast.csv
- ┃ ┗ metrics_summary.txt
- ┣ 📁 pipeline
- ┃ ┣ step_01_ingest_clean.py
- ┃ ┣ step_02_feature_build.py
- ┃ ┗ step_03_export_results.py
- ┣ 📄 README.md
- ┣ 📄 CONTRIBUTING.md
- ┣ 📄 .gitattributes
- ┗ 📄 LICENSE
+Supply-chain-visibility/
+│
+├─ Architecture/          # Draw.io diagrams + architecture mapping docs
+│   ├─ 01_system-overview.png
+│   ├─ 02_dataflow-layers.png
+│   ├─ Architecture-Mapping.md
+│   └─ README.md
+│
+├─ Data/                  # Raw, clean, and ML-ready datasets
+│   ├─ raw/
+│   ├─ clean/
+│   ├─ ml-outputs/
+│   └─ README.md
+│
+├─ Documentation/         # Project report, guides, migration plan, etc.
+│   ├─ Project-Report.md
+│   ├─ PowerBI-Presentation-Guide.md
+│   ├─ Data-Dictionary.md
+│   ├─ Migration-Plan.md
+│   └─ README.md
+│
+├─ ML/                    # Machine learning module
+│   ├─ notebooks/
+│   ├─ outputs/
+│   ├─ metrics/
+│   ├─ visuals/
+│   └─ README.md
+│
+├─ pipeline/              # ETL simulation (ADF equivalent)
+│   ├─ simulate_pipeline.ipynb
+│   ├─ cleaned_supply_data.csv
+│   ├─ supply_table.html
+│   └─ README.md
+│
+├─ PowerBi/               # Final dashboard and DAX measures
+│   ├─ SupplyChain_Visibility.pbix
+│   ├─ Add MEASURES.md
+│   ├─ Screenshots/
+│   └─ README.md
+│
+└─ README.md              # (this file)
+
 
 ---
 
@@ -111,14 +117,42 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 
 ---
 
-## 🧠 Key Features
+🧠 Key Components
+🏗️ 1. Data Pipeline (/pipeline)
 
-- ✅ Simulated Azure architecture using free tools
-- 🧪 Data pipeline with Colab-based ETL & machine learning
-- 📈 Interactive Power BI dashboard with slicers, icons, and forecast tooltips
-- 🔮 Predictive models: demand classification & delay forecasting
-- 📦 Shipment tracking by status, region, and supplier performance
-- 🔔 Risk alerts and forecast overlays inspired by enterprise BI dashboards
+Cleans and merges raw CSVs
+
+Creates derived metrics like DelayDays, LateFlag
+
+Outputs cleaned_supply_data.csv used in ML & Power BI
+
+🤖 2. Machine Learning (/ML)
+
+Predicts shipment delays (Random Forest Regressor)
+
+Forecasts monthly demand (Decision Tree Classifier)
+
+Exports forecast_fact.csv & shipment_delay_pred.csv
+
+📊 3. Power BI Dashboard (/PowerBi)
+
+5 pages: Overview, Operations, Suppliers, Live Tracking, Forecast
+
+Uses DAX measures (see Add MEASURES.md)
+
+Integrates ML outputs for predictive visuals
+
+📘 4. Documentation (/Documentation)
+
+Full project report, presentation guide, migration plan
+
+Data dictionary and architecture references
+
+☁️ 5. Architecture (/Architecture)
+
+Visual diagrams of data flow, deployment topology, and zones
+
+Architecture-Mapping.md shows free tools → Azure service parity
 ---
 
 ## 🎯 Project Goals
@@ -179,25 +213,6 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 - **Preprocessing & ML**: Performed in Colab (null handling, feature engineering, model training)
 - **Model Output**: Exported `.csv` of forecasts merged with actuals
 - **Visualization**: Dashboard in Power BI with slicers, KPI cards, forecast tooltips
-
----
-
-## 🔮 Machine Learning Models
-
-### 📦 1. Shipment Delay Prediction  
-- **Type**: Regression  
-- **Algorithm**: Random Forest Regressor  
-- **Inputs**: Shipping mode, quantity, product category, distance  
-- **Target**: Delay duration (in days)  
-
-### 📈 2. Demand Forecasting  
-- **Type**: Classification  
-- **Algorithm**: Decision Tree Classifier  
-- **Inputs**: Product ID, month, past volume  
-- **Target**: Demand Level (High / Medium / Low)  
-- **Integration**: Tooltip-enabled line chart in Power BI (Actual vs Forecast Demand)
-
-> *ML models are planned for full automation in future iterations.*
 
 ---
 
@@ -322,27 +337,25 @@ All models trained and visualized in Google Colab.
 
 
 👩‍💻 Contributors
-Name	Role
-Sneha Gurung	Azure Solution Architect Lead
-Srishti Poudel  	Data Analyst
-🪄 How to Run (Free Simulation)
+| Name             | Role                          | Key Focus                      |
+| ---------------- | ----------------------------- | ------------------------------ |
+| **Sneha Gurung** | Azure Solution Architect Lead | Architecture • ML • Power BI   |
+| **Srishti Poudel** | Data Analyst                  | Cleaning • EDA • Visualization |
 
-🎬 How to Run This Project
-# 1️⃣ Clone this repo
+
+🚀 Quick Start (Free Version)
 git clone https://github.com/snehagurung12/Supply-chain-visibility.git
+cd Supply-chain-visibility
+1️⃣ Open Colab → run pipeline/simulate_pipeline.ipynb
+2️⃣ Run ML notebooks → generate ML/outputs/ CSV files
+3️⃣ Open PowerBi/SupplyChain_Visibility.pbix → refresh data sources
+4️⃣ Explore interactive dashboards and forecasts
 
-# 2️⃣ Open notebooks in Google Colab
-Notebook/01_EDA.ipynb
-Notebook/02_ML.ipynb
+🧾 License & Use
 
-# 3️⃣ Run all cells → cleaned CSV outputs
-# 4️⃣ Open PowerBi/SCV_Report.pbix in Power BI Desktop
-# 5️⃣ Refresh visuals using local Data/clean folder
+License: MIT – Free for academic and portfolio use.
 
-
-🧾 License
-
-MIT License — Free to use for learning and academic purposes.
+Data: Synthetic/anonymized; no real supply-chain information.
 
 🌟 Let’s Connect
 
@@ -352,22 +365,7 @@ GitHub: github.com/snehagurung12
 
 LinkedIn: linkedin.com/in/SnehaGurung
 
-💬 This project is part of a portfolio demonstrating Azure Solution Architect and Data Analytics capabilities using cost-free, scalable alternatives.
+💬 “From raw CSVs to predictive insights — this project transforms data into clarity.”
 
 
 ---
-
-## 🔧 Recommended Enhancements
-In your GitHub:
-1. Replace current `README.md` with the above version.  
-2. Add a **hero image or architecture diagram** at the top:
-   ```markdown
-   ![Project Architecture](Architecture/SCV_Architecture.png)
-
-
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)
-![Azure](https://img.shields.io/badge/Azure-Ready-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
