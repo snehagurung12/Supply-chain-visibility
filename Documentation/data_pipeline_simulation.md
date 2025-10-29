@@ -1,7 +1,8 @@
 # 🧮 Data Pipeline Simulation (ETL Flow)
 
-### Step 1 — Ingestion
+
 ```python
+Step 1 — Ingestion
 orders = pd.read_csv('Data/raw/orders.csv')
 shipments = pd.read_csv('Data/raw/shipments.csv')
 Step 2 — Cleaning
