@@ -46,14 +46,42 @@ This project bridges that gap by:
 🗂️ **Folder Structure**
 
 📦 Supply-chain-visibility
-┣ 📁 Architecture # Azure-like architecture diagrams
-┣ 📁 Data # Raw & cleaned datasets
-┣ 📁 Documentation # Project documentation and presentation guide
-┣ 📁 ML # Forecasting and delay prediction outputs
-┣ 📁 Notebook # Google Colab notebooks for EDA & ML
-┣ 📁 pipeline # Simulated ETL pipeline steps
-┣ 📁 PowerBi # Power BI report (.pbix) and screenshots
-┗ 📄 README.md
+ ┣ 📁 Architecture
+ ┃ ┣ SCV_Architecture.png
+ ┃ ┣ Azure_Migration_Diagram.png
+ ┃ ┗ Dataflow_Overview.drawio
+ ┣ 📁 Data
+ ┃ ┣ raw/               # Original CSVs
+ ┃ ┗ clean/             # Processed / cleaned data
+ ┣ 📁 Notebook
+ ┃ ┣ 01_Data_Cleaning_EDA.ipynb
+ ┃ ┗ 02_ML_Modeling_Forecast.ipynb
+ ┣ 📁 PowerBI
+ ┃ ┣ SCV_Report.pbix
+ ┃ ┣ screenshots/
+ ┃ ┃ ┣ Overview.png
+ ┃ ┃ ┣ Operations.png
+ ┃ ┃ ┣ Suppliers.png
+ ┃ ┃ ┣ LiveTracking.png
+ ┃ ┃ ┗ Forecast.png
+ ┃ ┗ MEASURES.md
+ ┣ 📁 Documentation
+ ┃ ┣ PowerBI-Presentation-Guide.md
+ ┃ ┣ Data-Dictionary.md
+ ┃ ┣ Migration-Plan.md
+ ┃ ┗ Project-Report.md
+ ┣ 📁 ML
+ ┃ ┣ shipment_delay_prediction.csv
+ ┃ ┣ demand_forecast.csv
+ ┃ ┗ metrics_summary.txt
+ ┣ 📁 pipeline
+ ┃ ┣ step_01_ingest_clean.py
+ ┃ ┣ step_02_feature_build.py
+ ┃ ┗ step_03_export_results.py
+ ┣ 📄 README.md
+ ┣ 📄 CONTRIBUTING.md
+ ┣ 📄 .gitattributes
+ ┗ 📄 LICENSE
 
 ---
 
