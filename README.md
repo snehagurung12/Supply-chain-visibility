@@ -1,8 +1,13 @@
 
-# Supply Chain Visibility & Predictive Analysis
+# Supply Chain Visibility & Predictive Analysis (Free Tools → Azure)
 
-## 🔍 Objective
-This project aims to simulate a supply chain analytics system using Azure architecture (Blob Storage, Data Factory, Synapse) and build actionable dashboards using Power BI.
+**Status:** v0.1 (Free-tools simulation) → **Planned v1.0 (Azure deployment)**
+
+## What this is
+A complete **supply chain analytics stack** built with free tools (GitHub, Google Colab, Power BI Desktop) that **simulates Azure services**. It delivers:
+- Cleaned datasets and a reproducible ETL/ML pipeline (Colab)
+- An interactive Power BI report (overview, operations, suppliers, live tracking, forecast)
+- Draft migration path to **Azure Blob + Data Factory + Synapse + Power BI Service**
 
 ## 👥 Team & Role Distribution
 
@@ -42,16 +47,14 @@ This diagram illustrates how raw supply chain data (e.g., from CSV files) flows 
 
 ---
 
-## 🧰 Tools & Stack
-
-| Component         | Technology Used             |
-|------------------|-----------------------------|
-| Cloud Storage     | GitHub (simulated Blob Storage)     |
-| ETL & ML          | Google Colab, Python        |
-| ML Libraries      | Scikit-learn, Pandas, NumPy |
-| Visualization     | Power BI Desktop            |
-| Version Control   | Git + GitHub                |
-| Documentation     | Markdown + Diagrams         |
+## Free tools → Azure mapping
+| Capability            | Free-tools now                          | Azure later (planned)              |
+|---|---|---|
+| Object storage        | GitHub repo (small CSVs)               | Blob Storage containers            |
+| Orchestration         | Colab notebook steps + README          | Azure Data Factory pipelines       |
+| Transform/warehouse   | Pandas in Colab                        | Synapse Serverless/Dedicated SQL   |
+| ML training/inference | Scikit-learn in Colab                  | Azure ML / Synapse ML              |
+| BI                    | Power BI Desktop                       | Power BI Service (workspaces)      |
 
 ---
 
