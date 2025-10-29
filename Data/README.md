@@ -61,4 +61,4 @@ see 👉 [`Documentation/Data-Dictionary.md`](../Documentation/Data-Dictionary.m
 
 ---
 
-> 💡 Tip: When migrating to Azure, upload each subfolder (`raw/`, `clean/`, `ml-outputs/`) to separate **Blob containers** in your storage account.
+
