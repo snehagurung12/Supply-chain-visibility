@@ -1,25 +1,29 @@
-# 🏗 Architecture Diagram Explanation
+# 🏗️ Architecture Diagram — Supply Chain Visibility Project
 
-This document explains the design choices shown in our deployment architecture diagram.
+This project follows an **Azure-inspired architecture** simulated using **free tools**.
 
-## 📊 Overview
+---
 
-- *GitHub / Local Files:* Acts as simulated Azure Blob Storage for storing datasets.
-- *Google Colab + Pandas:* Simulates Azure Data Factory, handling ingestion, cleaning, filtering, and output.
-- *Pandas DataFrame:* Simulates Azure SQL DB for temporary structured data processing.
-- *Power BI:* Used for visualization.
+## 🔹 Logical Architecture Overview
+**Flow:**  
+**Data Source (CSV/GitHub)** ➜ **Google Colab (Cleaning & ML)** ➜ **Processed CSVs** ➜ **Power BI Dashboard**
 
-## 🔄 Data Flow
+---
 
-1. Raw CSV is uploaded to GitHub / Colab.
-2. Data is processed in Colab (cleaned, filtered, converted).
-3. Output stored as cleaned CSV and HTML table.
-4. Power BI reads these for dashboards.
+## 🔸 Azure Equivalent Flow
+**Azure Blob Storage** ➜ **Data Factory** ➜ **Synapse Analytics** ➜ **Power BI Service**
 
-## 🗂 Diagram File Location
+---
 
-The actual diagram is saved as:
+## 🧩 Layer Description
+| Layer | Tool Used | Azure Equivalent | Description |
+|-------|------------|------------------|-------------|
+| Ingestion | GitHub Repo | Blob Storage | Store raw data |
+| Processing | Google Colab (Pandas) | Data Factory | Data cleaning & transformation |
+| Analytics | Colab (Scikit-learn) | Synapse / Azure ML | Predictive modeling |
+| Visualization | Power BI Desktop | Power BI Service | Dashboards & KPIs |
 
-- /diagrams/deployment_architecture.png
+---
 
-and also maintained in /diagrams/deployment_architecture.drawio for future edits.
+## 📊 Diagram Reference
+The diagram `SCV_Architecture.png` in `/Architecture` folder visually represents this flow.
