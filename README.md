@@ -41,13 +41,10 @@ This project bridges that gap by:
 | **ML Models** | Scikit-Learn | Azure ML / Synapse ML |
 | **Visualization** | Power BI Desktop | Power BI Service |
 
-<p align="center">
-  <img src="Architecture/Azure_Like_Pipeline.png" width="80%" alt="Azure Inspired Architecture Diagram"/>
-</p>
-
 ---
 
 🗂️ **Folder Structure**
+
 📦 Supply-chain-visibility
 ┣ 📁 Architecture # Azure-like architecture diagrams
 ┣ 📁 Data # Raw & cleaned datasets
