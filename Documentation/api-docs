@@ -1,1 +1,14 @@
+# 🔗 API Simulation Docs
+
+Since the project runs on free tools, this section simulates API behavior.
+
+### 📦 Example Endpoint (Simulated)
+**GET** `/api/shipment-status`
+```json
+{
+  "shipment_id": "S1021",
+  "status": "In Transit",
+  "expected_delivery": "2023-06-14",
+  "route": "Adelaide → Sydney"
+}
 
