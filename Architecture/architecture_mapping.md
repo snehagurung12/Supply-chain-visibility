@@ -1,25 +1,49 @@
-# Architecture — Supply Chain Visibility & Predictive Analysis
+# Architecture Mapping — Free Tools → Azure
 
-This folder contains the **visual blueprints** for the project and the mapping needed to lift the current **free-tools simulation** (GitHub + Colab + Power BI) into an **Azure-native** solution.
+**Purpose:** Map the current free-tool stack to Azure, with exact names, folders, pipelines, connectivity, security, and cost guardrails.  
+**Project mode:** Free simulation now (GitHub + Colab + Power BI) → Azure-ready later.
 
-## Files in this folder
+---
 
-- `01_system-overview.png` (and `.drawio`)  
-  High-level end-to-end flow: **Ingest → Process/ML → Outputs → BI**.
+## 1) Capability mapping
 
-- `02_dataflow-layers.png` (and `.drawio`)  
-  Storage zones and cadence: **raw/**, **clean/**, **ml-outputs/**, with example folder paths.
+| Capability         | Free tools now                            | Azure later (planned)                  |
+|-------------------|--------------------------------------------|----------------------------------------|
+| Object storage     | GitHub repo `/Data` (CSVs)                | **Azure Blob Storage** (ADLS Gen2)     |
+| Orchestration      | Manual steps in **Google Colab**          | **Azure Data Factory**                 |
+| Transform / SQL    | **Pandas** in Colab                       | **Synapse Serverless / Dedicated SQL** |
+| ML training/infer  | **scikit-learn** in Colab                 | **Azure ML** or **Synapse Spark/ML**   |
+| BI / reporting     | **Power BI Desktop**                      | **Power BI Service / Fabric**          |
 
-- `03_deployment-topology.png` (and `.drawio`)  
-  Azure resources in one view: **Resource Group, Storage (ADLS Gen2), ADF, Synapse, Key Vault, Power BI Service/Fabric**.
+---
 
-- *(Optional)* `04_security-boundaries.png`  
-  RBAC roles, identities, and private endpoints (future).
+## 2) Resource naming & region
 
-- *(Optional)* `05_er-model.png`  
-  Entity relationships: **Orders, Shipments, Suppliers, Calendar**.
+Use short, lowercase names (no underscores). Replace `<env>` with `dev/test/prod`.
 
-- `Architecture-Mapping.md`  
-  The **single source of truth** for naming, folders, pipelines, SQL templates, Power BI connectivity, security, cost, and environments.
+- **Resource Group:** `rg-scv-<env>`
+- **Storage (ADLS Gen2):** `stscv<env>`
+- **Data Factory:** `adf-scv-<env>`
+- **Synapse workspace:** `syn-scv-<env>`
+- **Key Vault:** `kv-scv-<env>`
+- **Power BI workspace:** `SCV <ENV>` (e.g., `SCV DEV`)
+- **Region:** `australiaeast` (keep consistent across services)
 
-> Keep both the **PNG/SVG** and the **editable `.drawio`** for every diagram so others can update them.
+---
+
+## 3) Data zones & folder layout (Blob)
+
+Store **raw CSV**, write **clean Parquet** (cheaper/faster queries), and export ML outputs.
+/raw/orders/YYYY=2025/MM=10/.csv
+/raw/shipments/YYYY=2025/MM=10/.csv
+/raw/suppliers/*.csv
+
+/clean/fact_orders/YYYY=2025/MM=10/.parquet
+/clean/fact_shipments/YYYY=2025/MM=10/.parquet
+/clean/dim_suppliers/.parquet
+/clean/dim_calendar/.parquet
+
+/ml-outputs/forecast_fact/.csv
+/ml-outputs/shipment_delay_pred/.csv
+
+
