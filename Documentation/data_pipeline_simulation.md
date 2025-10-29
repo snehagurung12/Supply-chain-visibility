@@ -1,57 +1,41 @@
-# 🔄 Data Pipeline Simulation – Supply Chain Project
+# 🧮 Data Pipeline Simulation (ETL Flow)
 
-This document describes how we simulated an Azure-like cloud data pipeline using *Google Colab, **Pandas, and **GitHub*, tailored to the supply chain dataset used in this project.
+### Step 1 — Ingestion
+```python
+orders = pd.read_csv('Data/raw/orders.csv')
+shipments = pd.read_csv('Data/raw/shipments.csv')
+Step 2 — Cleaning
 
----
+Remove duplicates, fix date columns, handle missing supplier data.
 
-## 🧭 Azure Architecture Mapping
+Step 3 — Transformation
 
-| Azure Service             | Simulated Using              | Description |
-|---------------------------|-------------------------------|-------------|
-| Azure Blob Storage        | GitHub + Colab File System    | Used for storing raw and cleaned datasets |
-| Azure Data Factory        | Pandas in Google Colab        | Handles ingestion, transformation, filtering |
-| Azure SQL Database        | Pandas DataFrame              | Temporary in-memory data storage |
-| Azure Logic Apps / Triggers | Python manual function       | Simulated pipeline trigger |
-| Power BI                  | Power BI Desktop (by teammate) | For dashboard and visualization |
+Create new calculated fields:
 
----
+LateFlag
 
-## 🔁 Pipeline Flow (Step-by-Step)
+DelayDays
 
-1. *Upload Raw Dataset*
-   - Uploaded using files.upload() in Colab.
-   - Optional: load via GitHub raw link for automation.
+OnTime% summary
 
-2. *Clean and Filter Data*
-   - Removed null values using dropna().
-   - Filtered for rows where shipment_status == "delivered".
-   - Converted date columns to datetime.
-   - Sorted rows by order_date.
+Step 4 — Merge
 
-3. *Export Results*
-   - Saved cleaned dataset as cleaned_supply_data.csv.
-   - Exported to supply_table.html for website/dashboard integration.
+Join Orders, Shipments, Suppliers → Unified dataset.
+
+Step 5 — Output
+
+Export processed_data.csv for ML & Power BI.
+
+📘 Equivalent to: Azure Data Factory pipeline → Data Flow → Sink.
 
 ---
 
-## 📂 Project Files
-
-| File | Description |
-|------|-------------|
-| [simulate_pipeline.ipynb](../pipeline/simulate_pipeline.ipynb) | Full Google Colab notebook |
-| [cleaned_supply_data.csv](../pipeline/cleaned_supply_data.csv) | Cleaned and processed data |
-| [supply_table.html](../pipeline/supply_table.html) | Converted HTML table |
+## 📈 12. `processed_data.csv`
+✅ Keep as a small cleaned version (show structure).  
+Optional: Create a table in the README showing the first 5 rows (sample data).
 
 ---
 
-## 🚀 Future Expansion
+## 📆 13. `progress_week2.txt`
+Replace it with a formatted log:
 
-- Use GitHub raw CSV instead of manual upload.
-- Automate trigger using scheduled Python scripts.
-- Deploy as a web app using Streamlit or Flask.
-
----
-
-## ✅ Conclusion
-
-This simulation shows how Azure-like data pipelines can be designed and explained without using a paid cloud environment. The architecture and execution follow cloud standards, making this ideal for learning and showcasing Solution Architect skills.
