@@ -9,8 +9,11 @@ They are **synthetic, anonymized, and created for academic demonstration only** 
 
 Data/
 ┣ 📁 raw/ # Original input CSVs (source layer)
+
 ┣ 📁 clean/ # Processed & joined data for ML + Power BI
+
 ┣ 📁 ml-outputs/ # Model predictions (forecast + delays)
+
 ┣ 📄 README.md # You're here
 
 
