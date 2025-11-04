@@ -32,6 +32,75 @@ This project bridges that gap by:
 
 ---
 
+
+### 📂 Folder Structure
+
+Supply-chain-visibility/
+
+│
+├── 🏗️ Architecture/ # Draw.io diagrams + architecture mapping
+
+│ ├── O1_system-overview.png
+
+│ ├── O2_dataflow-layers.png
+
+│ └── Architecture-Mapping.md
+│
+
+├── 📊 Data/ # Raw, cleaned, and ML-ready datasets
+
+│ ├── raw/
+
+│ ├── clean/
+
+│ └── ml/
+│
+
+├── 📘 Documentation/ # Reports, guides, and migration plan
+
+│ ├── Project-Report.md
+
+│ ├── Migration-Plan.md
+
+│ └── Presentation-Guide.md
+│
+
+├── ⚙️ pipeline/ # ETL simulation (ADF equivalent)
+
+│ ├── simulate_pipeline.ipynb
+
+│ ├── cleaned_supply_data.csv
+
+│ └── supply_table.html
+│
+
+├── 🧠 ML/ # Machine learning module
+
+│ ├── notebooks/
+
+│ ├── outputs/
+
+│ ├── metrics/
+
+│ └── visuals/
+│
+
+├── 📈 PowerBI/ # Dashboard and DAX measures
+
+│ ├── SupplyChain_Visibility.pbix
+
+│ └── Add_MEASURES.md
+│
+
+└── 📷 Screenshots/ # Proof of execution and visuals
+
+└── README.md
+
+
+
+---
+
+
 ## 🏗️ **Tech Stack & Architecture**
 
 | Layer            | Free Tools (Simulation)        | Azure Equivalent          |
