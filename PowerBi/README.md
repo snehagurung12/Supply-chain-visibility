@@ -16,10 +16,15 @@ To transform raw supply chain data into **actionable business intelligence** —
 ## 📁 Folder Structure
 
 PowerBi/
+
 ├─ SupplyChain_Visibility.pbix # main Power BI report
+
 ├─ Add MEASURES.md # DAX formulas & business logic
+
 ├─ Screenshots/ # exported visuals for documentation
+
 └─ README.md # this file
+
 
 
 ---
