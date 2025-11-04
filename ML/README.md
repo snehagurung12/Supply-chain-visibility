@@ -8,18 +8,31 @@ It includes model training scripts, exported predictions, evaluation metrics, an
 ## 📁 Folder Structure
 
 ML/
+
 ├─ notebooks/ # development & training
+
 │ ├─ 01_features_delay.ipynb
+
 │ └─ 02_forecast_demand.ipynb
+
 ├─ models/ # optional: saved models / model cards
+
 ├─ outputs/ # ⬅ Power BI reads these
+
 │ ├─ shipment_delay_pred.csv
+
 │ └─ forecast_fact.csv
+
 ├─ metrics/ # evaluation artifacts (JSON/CSV)
+
 │ ├─ delay_regression.json # {rmse, mae, r2}
+
 │ └─ forecast_metrics.json # {mape, rmse, r2}
+
 ├─ visuals/ # charts exported from notebooks
+
 └─ README.md
+
 
 
 ---
