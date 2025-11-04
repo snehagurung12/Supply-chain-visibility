@@ -41,7 +41,7 @@ This project bridges that gap by:
 | Data Warehouse   | CSV / Parquet                  | Synapse Analytics         |
 | Machine Learning | Scikit-Learn in Colab          | Azure ML / Synapse ML     |
 | Visualization    | Power BI Desktop               | Power BI Service / Fabric |
-
+ 
 ---
 
 🗂️ **Folder Structure**
