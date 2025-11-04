@@ -6,7 +6,8 @@
 ---
 
 ```DAX
-## 🧩 1) Core Aggregates
+
+ 🧩 1) Core Aggregates
 
 Total Orders =
 COUNTROWS ( Orders )
