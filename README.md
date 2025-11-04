@@ -48,45 +48,38 @@ This project bridges that gap by:
 
 Supply-chain-visibility/
 │
-├─ Architecture/          # Draw.io diagrams + architecture mapping docs
-│   ├─ 01_system-overview.png
-│   ├─ 02_dataflow-layers.png
-│   ├─ Architecture-Mapping.md
-│   └─ README.md
+├── 🏗️ Architecture/ # Draw.io diagrams + architecture mapping
+│ ├── O1_system-overview.png
+│ ├── O2_dataflow-layers.png
+│ └── Architecture-Mapping.md
 │
-├─ Data/                  # Raw, clean, and ML-ready datasets
-│   ├─ raw/
-│   ├─ clean/
-│   ├─ ml-outputs/
-│   └─ README.md
+├── 📊 Data/ # Raw, cleaned, and ML-ready datasets
+│ ├── raw/
+│ ├── clean/
+│ └── ml/
 │
-├─ Documentation/         # Project report, guides, migration plan, etc.
-│   ├─ Project-Report.md
-│   ├─ PowerBI-Presentation-Guide.md
-│   ├─ Data-Dictionary.md
-│   ├─ Migration-Plan.md
-│   └─ README.md
+├── 📘 Documentation/ # Reports, guides, and migration plan
+│ ├── Project-Report.md
+│ ├── Migration-Plan.md
+│ └── Presentation-Guide.md
 │
-├─ ML/                    # Machine learning module
-│   ├─ notebooks/
-│   ├─ outputs/
-│   ├─ metrics/
-│   ├─ visuals/
-│   └─ README.md
+├── ⚙️ pipeline/ # ETL simulation (ADF equivalent)
+│ ├── simulate_pipeline.ipynb
+│ ├── cleaned_supply_data.csv
+│ └── supply_table.html
 │
-├─ pipeline/              # ETL simulation (ADF equivalent)
-│   ├─ simulate_pipeline.ipynb
-│   ├─ cleaned_supply_data.csv
-│   ├─ supply_table.html
-│   └─ README.md
+├── 🧠 ML/ # Machine learning module
+│ ├── notebooks/
+│ ├── outputs/
+│ ├── metrics/
+│ └── visuals/
 │
-├─ PowerBi/               # Final dashboard and DAX measures
-│   ├─ SupplyChain_Visibility.pbix
-│   ├─ Add MEASURES.md
-│   ├─ Screenshots/
-│   └─ README.md
+├── 📈 PowerBI/ # Dashboard and DAX measures
+│ ├── SupplyChain_Visibility.pbix
+│ └── Add_MEASURES.md
 │
-└─ README.md              # (this file)
+└── 📷 Screenshots/ # Proof of execution and visuals
+└── README.md
 
 
 ---
