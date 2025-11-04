@@ -1,7 +1,14 @@
-1) Core Aggregates
+# 📊 Power BI DAX Measures  
+**Project:** Supply Chain Visibility & Predictive Analysis  
+**Author:** Team Supply Chain (Azure Solution Architect Lead & Data Analyst)  
+**Purpose:** This document lists all DAX measures used to build KPIs, dashboards, and predictive analytics visuals in Power BI.
 
+---
 
- Total Orders =
+```DAX
+## 🧩 1) Core Aggregates
+
+Total Orders =
 COUNTROWS ( Orders )
 
 Total Quantity =
@@ -22,9 +29,8 @@ DIVIDE ( [Total Profit], [Total Sales] )
 Total Shipments =
 COUNTROWS ( Shipments )
 
-2) Shipment Timeliness & Delay
+⏱️ 2) Shipment Timeliness & Delay
 
-   
 Delay Days =
 VAR _ship = Shipments[ShipDate]
 VAR _del  = Shipments[DeliveredDate]
@@ -60,10 +66,9 @@ P95 Delay (Days) =
 PERCENTILEX.INC ( Shipments, Shipments[Delay Days], 0.95 )
 
 
-3) Shipment Status (Control-Tower)
+🚚 3) Shipment Status (Control Tower)
 
-
- Processing Shipments =
+Processing Shipments =
 CALCULATE ( [Total Shipments], Shipments[Status] = "Processing" )
 
 In Transit Shipments =
@@ -76,10 +81,9 @@ Active Shipments =
 [Processing Shipments] + [In Transit Shipments]
 
 
-4) Cost & Efficiency
+💰 4) Cost & Efficiency
 
-
- Total Shipping Cost =
+Total Shipping Cost =
 SUM ( Shipments[ShippingCost] )
 
 Avg Shipping Cost / Shipment =
@@ -89,8 +93,7 @@ Shipping Cost % of Sales =
 DIVIDE ( [Total Shipping Cost], [Total Sales] )
 
 
-5) Supplier Scorecard & Ranking
-
+🏭 5) Supplier Scorecard & Ranking
 
 Supplier Late Shipments =
 CALCULATE ( [Late Shipments], ALLEXCEPT ( Shipments, Shipments[Supplier] ) )
@@ -114,25 +117,23 @@ Supplier Rank (By Score) =
 RANKX ( ALL ( Shipments[Supplier] ), [Supplier Score], , DESC, DENSE )
 
 
-6) Risk / Alerts
-
+⚠️ 6) Risk / Alerts
 
 Late Rate (Context) =
 AVERAGEX ( VALUES ( Shipments[OrderID] ), [Late Flag] )
 
 Risk Alert (High/Normal) =
-VAR threshold = 0.20   -- 20% late rate; adjust to taste
-RETURN IF ( [Late Rate (Context)] > threshold, "⚠️ High", "✅ Normal" )
+VAR threshold = 0.20   -- 20% late rate; adjust as needed
+RETURN
+    IF ( [Late Rate (Context)] > threshold, "⚠️ High", "✅ Normal" )
 
 Late Route Risk =
 CALCULATE ( [Late Rate (Context)], ALLEXCEPT ( Shipments, Shipments[Route] ) )
 
 
-7) Forecast / ML Metrics (Actual vs Predicted)
-
+🤖 7) Forecast / ML Metrics (Actual vs Predicted)
 
 Total Actual =
-
 SUM ( Forecast[Actual] )
 
 Total Predicted =
@@ -156,7 +157,8 @@ VAR _ssTot =
     SUMX ( Forecast, POWER ( Forecast[Actual] - _avgA, 2 ) )
 VAR _ssRes =
     SUMX ( Forecast, POWER ( Forecast[Actual] - Forecast[Predicted], 2 ) )
-RETURN IF ( _ssTot = 0, BLANK (), 1 - DIVIDE ( _ssRes, _ssTot ) )
+RETURN
+    IF ( _ssTot = 0, BLANK (), 1 - DIVIDE ( _ssRes, _ssTot ) )
 
 Forecast Bias =
 AVERAGEX ( Forecast, Forecast[Predicted] - Forecast[Actual] )
@@ -170,10 +172,9 @@ VAR _mape =
 RETURN _mape
 
 
-8) Date Intelligence (YTD / MTD)
+📅 8) Date Intelligence (YTD / MTD)
 
-
-   Total Sales YTD =
+Total Sales YTD =
 CALCULATE ( [Total Sales], DATESYTD ( Calendar[Date] ) )
 
 Total Sales MTD =
@@ -186,36 +187,46 @@ On-Time % MTD =
 CALCULATE ( [On-Time %], DATESMTD ( Calendar[Date] ) )
 
 
-9) Top-N Helpers (for ranked visuals)
+
+🏆 9) Top-N Helpers (Ranked Visuals)
 
 
-Top N (Parameter) = 5   -- If you use a What-If parameter, reference that table instead.
+Top N (Parameter) = 5   -- If using a What-If parameter, reference that table instead.
 
 Is In TopN Supplier =
 VAR _top =
     TOPN ( [Top N (Parameter)], ALL ( Shipments[Supplier] ), [Supplier Score], DESC )
-RETURN IF ( CONTAINS ( _top, Shipments[Supplier], SELECTEDVALUE ( Shipments[Supplier] ) ), 1, 0 )
+RETURN
+    IF ( CONTAINS ( _top, Shipments[Supplier], SELECTEDVALUE ( Shipments[Supplier] ) ), 1, 0 )
 
 
-10) Label / UX Helpers
+🏷️ 10) Label / UX Helpers
 
 
 Selected Status (Label) =
 VAR s = SELECTEDVALUE ( Shipments[Status], "All Statuses" )
-RETURN "Status: " & s
+RETURN
+    "Status: " & s
 
 Selected Period (Label) =
 VAR _min = MIN ( Calendar[Date] )
 VAR _max = MAX ( Calendar[Date] )
-RETURN "Period: " & FORMAT ( _min, "dd MMM yyyy" ) & " → " & FORMAT ( _max, "dd MMM yyyy" )
+RETURN
+    "Period: " & FORMAT ( _min, "dd MMM yyyy" ) & " → " & FORMAT ( _max, "dd MMM yyyy" )
 
 
-11) Data Quality Checks (optional but useful)
-
+🧮 11) Data Quality Checks
 
 Missing Delivered Date (Cnt) =
-COUNTROWS ( FILTER ( Shipments, ISBLANK ( Shipments[DeliveredDate] ) && Shipments[Status] = "Delivered" ) )
+COUNTROWS (
+    FILTER (
+        Shipments,
+        ISBLANK ( Shipments[DeliveredDate] ) && Shipments[Status] = "Delivered"
+    )
+)
 
 Outlier Delay (>|21| days) =
 COUNTROWS ( FILTER ( Shipments, ABS ( [Delay Days] ) > 21 ) )
+
+
 
