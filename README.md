@@ -44,7 +44,7 @@ This project bridges that gap by:
  
 ---
 
-## 🧩 Architecture Diagram
+## 🧩 Azure-Inspired Architecture
 
 ![Azure Architecture Diagram](Architecture/AzureArchitecture_SupplyChain.png)
 
@@ -132,18 +132,6 @@ Architecture-Mapping.md shows free tools → Azure service parity
 - Run predictive analyses (risk, delays)
 - Build interactive dashboards in Power BI
 - Collaborate via GitHub with a modular structure
-
----
-
-## 🧩 Azure-Inspired Architecture
-
-![Architecture Diagram](architecture/AzureArchitecture_SupplyChain.png)
-
-> Simulated components include:
-> - **GitHub** as Azure Blob Storage (for versioned CSVs)
-> - **Google Colab** as Azure Data Factory + ML Studio
-> - **Power BI** to replicate the Power BI Service
-> - **Scikit-learn models** for forecasting & delay prediction
 
 ---
 
