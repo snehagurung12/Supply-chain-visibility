@@ -116,17 +116,6 @@ Architecture-Mapping.md shows free tools → Azure service parity
 
 ---
 
-## 🏗 Architecture Overview
-![Architecture Deployment Diagram](Architecture/deployment_architecture.png)
-
-*Pipeline:*
-- *Azure Blob Storage:* Stores raw and cleaned datasets.
-- *Python ETL:* Simulated in Google Colab notebooks (cleaning, feature engineering).
-- *Azure Synapse (simulated):* For advanced analytics and warehousing.
-- *Power BI:* Builds live dashboards with predictive insights.
-
----
-
 ## 📊 Highlights from EDA
 - *Delivery Status:* Many orders delayed — investigate shipping, product, region causes.
 - *Order Types:* Payments & Expenses dominate; digital-first flow.
@@ -160,7 +149,7 @@ Architecture-Mapping.md shows free tools → Azure service parity
 
 ## 🏗 Deployment Pipeline Overview
 
-![Deployment Diagram](architecture/deployment_architecture.png)
+![Deployment Diagram](Architecture/deployment_architecture.png)
 
 - **Data Ingestion**: CSVs uploaded to GitHub
 - **Preprocessing & ML**: Performed in Colab (null handling, feature engineering, model training)
