@@ -8,6 +8,7 @@ They are **synthetic, anonymized, and created for academic demonstration only** 
 ## 📁 Folder Structure
 
 Data/
+
 ┣ 📁 raw/ # Original input CSVs (source layer)
 
 ┣ 📁 clean/ # Processed & joined data for ML + Power BI
