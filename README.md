@@ -4,8 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python"/>
   <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Azure-Ready-blue?logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/License-MIT-green"/>
+ 
 </p> 
 
 ---
