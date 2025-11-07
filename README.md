@@ -362,7 +362,7 @@ Author: Sneha Gurung
 
 GitHub: github.com/snehagurung12
 
-LinkedIn: linkedin.com/in/SnehaGurung
+LinkedIn: linkedin.com/in/snehagurungsg001
 
 💬 “From raw CSVs to predictive insights — this project transforms data into clarity.”
 
